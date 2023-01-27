@@ -1,0 +1,7 @@
+@import '../../variables.css';
+@import '../../Common.css';
+@import '../../responsive-common.css';
+
+.aboutContainer{
+    padding: 120px 0 140px;
+}

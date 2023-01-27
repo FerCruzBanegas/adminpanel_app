@@ -1,0 +1,13 @@
+query getEditStaticPage ($id: Int!) {
+    getEditStaticPage (id: $id) {
+        result{
+            id
+            pageName
+            content
+            createdAt
+            metaTitle
+            metaDescription
+            pageBanner
+        }
+    }
+}

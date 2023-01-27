@@ -1,0 +1,39 @@
+
+:root {
+  /*
+   * Typography
+   * ======================================================================== */
+
+  --font-family-base: 'Segoe UI', 'HelveticaNeue-Light', sans-serif;
+
+  /*
+   * Layout
+   * ======================================================================== */
+
+  --max-content-width: 1000px;
+
+  /*
+   * Media queries breakpoints
+   * ======================================================================== */
+
+  --screen-xs-min: 480px;  /* Extra small screen / phone */
+  --screen-sm-min: 768px;  /* Small screen / tablet */
+  --screen-md-min: 992px;  /* Medium screen / desktop */
+  --screen-lg-min: 1200px; /* Large screen / wide desktop */
+
+  --btn-primary-bg: #DFA32A;
+  --btn-boxShadow-bg: #000;
+  --btn-bordercolor-bg: #DFA32A;
+  --btn-text-color: #fff;
+  --btn-primary-color: #ffffff;
+  --common-color: #DFA32A;
+  --btn-secondary-bg: #ffffff;
+  --btn-secondary-color: #DFA32A;
+  --admin-bg-color: #ffffff;
+  --admin-border-color: #E0E0C6;
+  --admin-text-color: #433415;
+  --admin-textSecondary-color: #DFA32A;
+  --admin-commonBg-color: #FFFFFA;
+  --admin-secondaryText-color: #DFA32A;
+
+}

@@ -1,0 +1,19 @@
+query getPayoutList($currentPage: Int, $searchList: String){
+        getPayoutList(currentPage: $currentPage, searchList:$searchList){
+          count
+          results{
+          id
+          status
+          userDetails{
+            firstName
+            userData{
+              email
+            }
+          }
+          totalFare
+          isPayoutPaid
+          isBanStatus
+          paymentType
+        }
+      }
+    }

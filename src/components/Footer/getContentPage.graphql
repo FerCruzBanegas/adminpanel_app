@@ -1,0 +1,16 @@
+query getContentPageDetails {
+        getContentPageDetails {
+            status
+            errorMessage
+            results{
+            id
+            metaTitle
+            metaDescription
+            pageUrl
+            pageTitle
+            content
+            isEnable
+            pageBanner
+            }
+        }
+}

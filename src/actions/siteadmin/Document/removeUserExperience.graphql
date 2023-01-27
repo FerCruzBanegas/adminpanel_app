@@ -1,0 +1,12 @@
+mutation removeExperienceDocument($imageName:String, $userId: String){
+	removeExperienceDocument(imageName:$imageName, userId:$userId) {
+        status
+        errorMessage
+        experienceDoc{
+            imageName
+        }
+        identityDoc{
+            imageName
+        }
+    }
+}

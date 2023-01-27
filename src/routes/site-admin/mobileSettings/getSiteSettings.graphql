@@ -1,0 +1,10 @@
+query getSiteSettings ($type: String){
+  getSiteSettings(type: $type){
+    results{
+      name
+      value
+    }
+    status
+    errorMessage
+  }
+}

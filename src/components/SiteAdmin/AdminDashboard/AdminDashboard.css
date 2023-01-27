@@ -1,0 +1,80 @@
+@import '../../../components/responsive-common.css';
+@import '../../variables.css';
+ .displayTable {
+	display: table;
+	width: 100%;
+}
+.displayTableRow {
+	display: table-row;
+	width: 100%;
+}
+.displayTableCell {
+	display: table-cell;
+	vertical-align: middle;
+}
+.widthText {
+	width: 150px;
+}
+.totalCss {
+	font-size: 20px;
+	font-weight: 400;
+	color: var(--admin-text-color);
+	padding: 20px;
+	font-weight: 600;
+	border-top: 1px solid var(--admin-border-color);
+}
+.box {
+	color: var(--admin-text-color);
+	margin-bottom: 30px;
+	border: 1px solid var(--admin-border-color);
+	border-radius: 12px;
+}
+.box h2 {
+	text-align: center;
+}
+.boxInner {
+	font-size: 17px;
+	text-align: center;
+	padding: 50px 0;
+}
+.textRight {
+	text-align: right;
+	padding: 0 35px 0 0;
+}
+.textCenterDashboard {
+	text-align: center;
+}
+.earingSection {
+	display: inline-block;
+	position: relative;
+	left: 50%;
+	min-width: 430px;
+	transform: translateX(-50%);
+}
+.boxBg{
+	background: #ffffff;
+	padding: 20px 0 0;
+	border-top-left-radius: 12px;
+	border-top-right-radius: 12px;
+}
+.overviewIcon{
+	width: 20px;
+	height: 25px;
+	margin-right: 6px;
+}
+.sectionOne{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.fontCss{
+	font-size: 22px;
+	margin: 0;
+	font-weight: 600;
+}
+.displayGrid{
+	display: grid;
+	grid-template-columns: auto auto auto;
+	grid-gap: 7px;
+	padding: 0 7px;
+}

@@ -1,0 +1,18 @@
+query ($id: String!, $period: String!, $limit: Int) {
+  getHeatMapData(id: $id, period: $period, limit: $limit) {
+    status
+      results {
+        id
+        userType
+        profile {
+          lat
+          lng
+        }
+      }
+      bookingResults{
+        id
+        userLocationLat
+        userLocationLng
+      }
+  }
+}

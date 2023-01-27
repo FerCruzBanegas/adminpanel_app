@@ -1,0 +1,106 @@
+@import '../variables.css';
+@import '../Common.css';
+@import '../responsive-common.css';
+@import '../variables.css';
+ .sideNavitem {
+	display: block;
+	padding: 14px 0px 14px 20px;
+	font-size: 16px;
+	color: var(--admin-text-color) !important;
+}
+.sideNavitem:hover,
+.sideNavitem:focus {
+	text-decoration: none;
+	color: var(--admin-textSecondary-color);
+	box-shadow: 0px 16px 16px #5d5d180a;
+}
+.activeMenu {
+	text-decoration: none;
+	color: #DFA32A !important;
+	box-shadow: 0px 16px 16px #5d5d180a;
+}
+.noBorderBtn,
+.noBorderBtn:hover,
+.noBorderBtn:focus,
+.noBorderBtn:active {
+	background: none !important;
+	border: none !important;
+	outline: none !important;
+	box-shadow: none !important;
+}
+.sideNavitemCollapseIcon {
+	max-width: 15px !important;
+}
+.sideNavitemCollapseText {
+	font-size: 15px !important;
+}
+.sideNavitemCollapsePadding {
+	padding: 10px 25px 10px 19px !important;
+	width:100%;
+}
+.logoutIconMobile {
+	position: fixed;
+	right: 13px;
+	top: 20px;
+	width: 20px;
+}
+.btnWidth {
+	width: 100%;
+	text-align: left;
+	display: flex;
+    align-items: flex-start;
+	padding: 10px 0px 3px 20px;
+}
+.displayTable{
+	display: table;
+	width: 100%;
+}
+.displayTableCell{
+	display :table-cell;
+	word-break: break-word;
+}
+.iconWidth{
+	width: 24px;
+}
+.languageSelector{
+	color: var(--admin-text-color) !important;
+	padding: '14px 0px 0px 20px' !important;
+}
+.languageIcon{
+	position: relative;
+	top: 1px;
+  }
+ .languageIconLeft{
+	 padding-left: 10px;
+ } 
+ .downArrow{
+	padding-right: 15px;
+    font-size: 22px;
+    padding-left: 15px;
+	position: relative;
+    top: -6px;
+ }
+ .positionRelative{
+	 position: relative;
+ }
+ .logoutIconMobile img{
+	 max-width: 20px;
+ }
+@-moz-document url-prefix() {
+	.displayInlineBlock {
+		display: inline !important;
+	}
+}
+
+@media screen and (min-width: 768px) {
+	.hiddenMd{
+	  display:none !important;
+	}
+  
+  }
+
+@media screen and (max-width:767px){
+	.paddingBottomextra {
+		padding-bottom: 100px;
+	}
+}

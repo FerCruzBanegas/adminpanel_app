@@ -1,0 +1,50 @@
+@import '../../../components/variables.css';
+@import '../../../components/Common.css';
+@import '../../../components/responsive-common.css';
+.categoryBtn{
+    background: transparent !important;
+    border: transparent !important;
+    color: #433415 !important;
+    font-size: 18px;
+    padding: 0;
+    position: relative;
+}
+.removeSection{
+    margin-left: 20px;
+   
+}
+.flexBtn{
+    display: flex;
+    align-items: center;
+}
+.paddingLeft{
+    padding-left: 3px;
+}
+.marginTop{
+    margin-top: 15px;
+}
+.btnTop{
+    text-align: right;
+}
+.categoryBtn::after{
+    content: '';
+    width: 100%;
+    height: 1px;
+    background: var(--admin-text-color);
+    position: absolute;
+    bottom: 4px;
+    left: 0;
+}
+.borderTop{
+    border-bottom: 1px solid var(--admin-border-color);
+    margin: 0 0 30px;
+    padding-bottom: 25px;
+}
+.borderTop:first-child{
+    padding-bottom: 0px;
+}
+.borderTop:last-child {
+    border-bottom: 1px solid transparent;
+    margin: 0 0 0;
+    padding-bottom: 12px;
+}

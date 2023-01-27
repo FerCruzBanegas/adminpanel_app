@@ -1,0 +1,6 @@
+ mutation($id: Int) {
+                removeCancelReason(id: $id) {
+                    status
+                    errorMessage
+                }
+            }

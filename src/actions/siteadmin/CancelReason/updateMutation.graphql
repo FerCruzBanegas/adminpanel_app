@@ -1,0 +1,16 @@
+mutation(
+    $id: Int, 
+    $userType: Int, 
+    $reason: String, 
+    $isActive: Boolean
+    ) {
+    updateCancelReason(
+        id: $id, 
+        userType: $userType, 
+        reason: $reason, 
+        isActive: $isActive
+        ) {
+        status
+        errorMessage
+    }
+}

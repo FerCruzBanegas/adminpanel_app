@@ -1,0 +1,17 @@
+query($id: Int!) {
+    getPricing(id: $id) {
+        status
+        errorMessage
+        result {
+            id,
+            locationId,
+            categoryId,
+            subCategoryId,
+            isActive,
+            currency,
+            isPriceEditable,
+            basePrice,
+            multiplierValue,
+        }
+    }
+}

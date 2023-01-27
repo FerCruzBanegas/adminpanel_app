@@ -1,0 +1,48 @@
+@import '../../variables.css';
+@import '../../Common.css';
+@import '../../responsive-common.css';
+
+.bg {
+  width: 100%;
+  min-height: 740px;
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.firstContent {
+  font-size: 62px;
+  line-height: 78px;
+  color: #39483A;
+  word-break: break-word;
+  font-weight: 600;
+}
+.getButton,
+.getButton:hover,
+.getButton:focus {
+  padding: 8px 40px;
+  margin-top: 25px;
+}
+.firstImage {
+ text-align: center;
+}
+.getButton{
+  padding: 11px 16px !important;
+  border-radius: 8px !important;
+}
+.alignItemCenter{
+  align-items: center;
+}
+.firstImage img{
+  width: 100%;
+}
+.paddingTop{
+  padding-top: 30px;
+}
+@media (max-width: 767px) {
+  .paddingTop {
+    padding-top: 124px;
+}
+}

@@ -1,0 +1,9 @@
+@import '../../../components/variables.css';
+@import '../../../components/Common.css';
+.root {
+    padding-left: 0;
+    padding-right: 0;
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+  }

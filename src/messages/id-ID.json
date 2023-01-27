@@ -1,0 +1,5490 @@
+[
+  {
+    "id": "exceedLimit",
+    "description": "exceedLimit",
+    "defaultMessage": "Maximum allowed character is 255.",
+    "message": "Karakter yang diizinkan maksimum adalah 255.",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.email",
+    "description": "Your Email Address to Login",
+    "defaultMessage": "Email Address",
+    "message": "Alamat email",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Alamat email salah",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "Tidak ada akun untuk email ini. Pastikan itu diketik dengan benar, atau \"mendaftar\" sebagai gantinya",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "Email diperlukan",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "Kamu sudah masuk!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.password",
+    "description": "Your Password to Login",
+    "defaultMessage": "Password",
+    "message": "Kata sandi",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "Kata sandi Anda harus setidaknya 8 karakter. Tolong coba lagi",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "katakunci dibutuhkan",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Kata sandi salah. Tolong coba lagi",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Maaf, ada yang salah. Tolong coba lagi",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.userLoggedIn",
+    "description": "You are already Logged-in as user",
+    "defaultMessage": "You are already logged in as User, please logout in the main site to continue!",
+    "message": "Anda sudah masuk sebagai pengguna, silakan keluar di situs utama untuk melanjutkan!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "AddListSettingsForm.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Menambahkan",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNew",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "Nama",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNewDescription",
+    "description": "description",
+    "defaultMessage": "Description",
+    "message": "Keterangan",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.delete",
+    "description": "Delete Button",
+    "defaultMessage": "Delete",
+    "message": "Menghapus",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.required",
+    "description": "Required",
+    "defaultMessage": "*Required",
+    "message": "*Diperlukan",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.update",
+    "description": "Update Button",
+    "defaultMessage": "Update",
+    "message": "Memperbarui",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.blankSpace",
+    "description": "Password error",
+    "defaultMessage": "Password should not be blank space.",
+    "message": "Kata sandi tidak boleh menjadi ruang kosong.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailBlankSpace",
+    "description": "email address error",
+    "defaultMessage": "Email should not be blank spaces",
+    "message": "Email tidak boleh menjadi ruang kosong",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailInvalid",
+    "description": "email address error",
+    "defaultMessage": "*Invalid email address",
+    "message": "*Alamat email salah",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.passwordInvalid",
+    "description": "Password minimum characters error",
+    "defaultMessage": "Password should be minimum 8 characters.",
+    "message": "Kata sandi harus minimum 8 karakter.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "app.Amount",
+    "description": "Amount",
+    "defaultMessage": "Amount",
+    "message": "Jumlah",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.BaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Base Currency",
+    "message": "Mata uang dasar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Becomeahost",
+    "description": "Becomeahost",
+    "defaultMessage": "Become a host",
+    "message": "Menjadi tuan rumah",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Disable",
+    "description": "Ban Status",
+    "defaultMessage": "Disable",
+    "message": "Cacat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Disabled",
+    "description": "Ban Status",
+    "defaultMessage": "Disabled",
+    "message": "Dengan disabilitas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Discover",
+    "description": "Discover",
+    "defaultMessage": "Discover",
+    "message": "Menemukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Enable",
+    "description": "Ban Status",
+    "defaultMessage": "Enable",
+    "message": "Memungkinkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Enabled",
+    "description": "Ban Status",
+    "defaultMessage": "Enabled",
+    "message": "Diaktifkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.HomeSiteSettings",
+    "description": "HomeSiteSettings",
+    "defaultMessage": "Homepage Settings",
+    "message": "Pengaturan Beranda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Hosting",
+    "description": "Hosting",
+    "defaultMessage": "Hosting",
+    "message": "Hosting",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Preferred Distance Type",
+    "description": "Preferred Distance Type",
+    "defaultMessage": "Preferred Distance Type",
+    "message": "Jenis jarak yang disukai",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Safety",
+    "description": "Safety",
+    "defaultMessage": "Safety",
+    "message": "Keamanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Support",
+    "description": "Ban Status",
+    "defaultMessage": "Support",
+    "message": "Mendukung",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Terms",
+    "description": "Terms",
+    "defaultMessage": "Terms & Privacy",
+    "message": "Ketentuan & Privasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Travel",
+    "description": "Trust",
+    "defaultMessage": "Travel Credit",
+    "message": "Kredit perjalanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Trust",
+    "description": "Trust",
+    "defaultMessage": "Trust & Safety",
+    "message": "Kepercayaan & Keselamatan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Wooberly",
+    "description": "Wooberly",
+    "defaultMessage": "Wooberly",
+    "message": "Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.about",
+    "description": "About Nav link",
+    "defaultMessage": "About",
+    "message": "Tentang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutFooter",
+    "description": "AboutFooter",
+    "defaultMessage": "About Us",
+    "message": "Tentang kami",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutFooterDesc",
+    "description": "aboutFooterDesc",
+    "defaultMessage": "An cum maiorum repudiandae, cu eam dolore bonorum probatus. Et legere sanctus cum, quot nostrud postulant ex mei. Ad ullum audire admodum eos. Ne eam quod habeo aeque, ad decoreos.",
+    "message": "An cum maiorum repudiandae, cu eam dolore bonorum probatus. Et legere sanctus cum, quot nostrud postulant ex mei. Ad Ullum Audire Admodum EOS. Ne Eam quod habeo aeque, ad decoreos.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutImage1",
+    "description": "Feature Icon 1",
+    "defaultMessage": "Feature Icon #1",
+    "message": "Ikon Fitur #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutImage2",
+    "description": "Feature Icon 2",
+    "defaultMessage": "Feature Icon #2",
+    "message": "Ikon Fitur #2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutSectionSettings",
+    "description": "Top Features Settings",
+    "defaultMessage": "Top Features",
+    "message": "Fitur teratas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.action",
+    "description": "Action",
+    "defaultMessage": "Action",
+    "message": "Tindakan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.active",
+    "description": "Active Status",
+    "defaultMessage": "Active",
+    "message": "Aktif",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Menambahkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addAdminRole",
+    "description": "Title",
+    "defaultMessage": "Add Admin Role",
+    "message": "Tambahkan peran admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addAdminUserLabel",
+    "description": "Add Admin User",
+    "defaultMessage": "Add Admin User",
+    "message": "Tambahkan Pengguna Admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCancelReason",
+    "description": "Add Cancel Reason",
+    "defaultMessage": "Add Cancel Reason",
+    "message": "Tambahkan Batal Alasan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCategory",
+    "description": "Add category form header",
+    "defaultMessage": "Add Category",
+    "message": "Tambahkan kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addFare",
+    "description": "Button",
+    "defaultMessage": "Add Fare",
+    "message": "Tambahkan ongkos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addLocation",
+    "description": "addLocation",
+    "defaultMessage": "Add Location",
+    "message": "Menambahkan lokasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addNewLabel",
+    "description": "Add New",
+    "defaultMessage": "Add New",
+    "message": "Tambah baru",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addOnly",
+    "description": "Fares",
+    "defaultMessage": "Address",
+    "message": "Alamat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addPage",
+    "description": "Add Page",
+    "defaultMessage": "Add Page",
+    "message": "Tambah halaman",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addPromoCode",
+    "description": "Add PromoCode",
+    "defaultMessage": "Add Promo Code",
+    "message": "Tambahkan kode promo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adeditFaredFare",
+    "description": "Button",
+    "defaultMessage": "Edit Fare",
+    "message": "Edit tarif",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminName",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "Nama",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminRole",
+    "description": "Admin Role",
+    "defaultMessage": "Admin Role",
+    "message": "Peran admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminUserLabel",
+    "description": "Admin User",
+    "defaultMessage": "Admin User",
+    "message": "Pengguna Admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminpanel",
+    "description": "admin panel",
+    "defaultMessage": "Admin Panel",
+    "message": "panel admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allonly",
+    "description": "Fares",
+    "defaultMessage": "All",
+    "message": "Semua",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedPaymentCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Allowed Payment Currency",
+    "message": "Mata uang pembayaran yang diizinkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.approve",
+    "description": "Approve",
+    "defaultMessage": "Approve",
+    "message": "Menyetujui",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.approved",
+    "description": "Approved Status",
+    "defaultMessage": "Approved",
+    "message": "Disetujui",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.appstorelink",
+    "description": "Fares",
+    "defaultMessage": "App Store Link",
+    "message": "Tautan App Store",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.askQuestion",
+    "description": "Ban Status",
+    "defaultMessage": "Ask a question",
+    "message": "Tanyakan sesuatu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availableSeats",
+    "description": "Available Seats",
+    "defaultMessage": "Available Seats",
+    "message": "Kursi yang tersedia",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.ban",
+    "description": "Ban Status",
+    "defaultMessage": "Ban",
+    "message": "Melarang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.banStatus",
+    "description": "Ban Status Permit/Ban",
+    "defaultMessage": "Ban Status",
+    "message": "Status larangan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bannerDesc",
+    "description": "Description in header",
+    "defaultMessage": "Complex web apps made easy",
+    "message": "Aplikasi web yang kompleks menjadi mudah",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bannerTitle",
+    "description": "Title in page header",
+    "defaultMessage": "React",
+    "message": "Reaksi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingDetails",
+    "description": "Booking Details",
+    "defaultMessage": "Booking Details",
+    "message": "Detail Pemesanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingId",
+    "description": "Booking ID",
+    "defaultMessage": "Booking ID",
+    "message": "ID Pemesanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookings",
+    "description": "bookings",
+    "defaultMessage": "Bookings",
+    "message": "Pemesanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingsMenu",
+    "description": "bookingsMenu",
+    "defaultMessage": "Manage Jobs",
+    "message": "Mengelola pekerjaan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.brand",
+    "description": "Brand name displayed in header",
+    "defaultMessage": "app",
+    "message": "aplikasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.button",
+    "description": "Button",
+    "defaultMessage": "Button",
+    "message": "Tombol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.buttonLabel",
+    "description": "Change Password",
+    "defaultMessage": "Button Label",
+    "message": "Label tombol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelButton",
+    "description": "Cancel",
+    "defaultMessage": "Cancel",
+    "message": "Membatalkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Batalkan Alasan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancellationReasons",
+    "description": "Cancellation Reasons",
+    "defaultMessage": "Cancellation Reasons",
+    "message": "Alasan pembatalan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledBy",
+    "description": "Cancelled By",
+    "defaultMessage": "Cancelled By",
+    "message": "Dibatalkan oleh",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.capacity",
+    "description": "Capacity",
+    "defaultMessage": "Capacity",
+    "message": "Kapasitas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.card",
+    "description": "Card",
+    "defaultMessage": "Card",
+    "message": "Kartu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cash",
+    "description": "Cash",
+    "defaultMessage": "Cash",
+    "message": "Tunai",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categorieslist",
+    "description": "categoryMenu",
+    "defaultMessage": "Categories",
+    "message": "Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.category",
+    "description": "Category",
+    "defaultMessage": "Category",
+    "message": "Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryContent",
+    "description": "Category Content",
+    "defaultMessage": "Category Content",
+    "message": "Konten kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryIcon",
+    "description": "",
+    "defaultMessage": "Category Icon",
+    "message": "Ikon Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryId",
+    "description": "Category ID",
+    "defaultMessage": "Category ID",
+    "message": "ID kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryMapMarker",
+    "description": "",
+    "defaultMessage": "Category Map Marker",
+    "message": "Penanda peta kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryMenu",
+    "description": "categoryMenu",
+    "defaultMessage": "Manage Categories",
+    "message": "Mengelola kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryName",
+    "description": "Category Name",
+    "defaultMessage": "Category Name",
+    "message": "Nama Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryTitle",
+    "description": "Category Title",
+    "defaultMessage": "Category Title",
+    "message": "Judul kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.changeAdminPassword",
+    "description": "Change Admin Email/Password",
+    "defaultMessage": "Change Admin Email/Password",
+    "message": "Ubah Email/Kata Sandi Admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.changePassword",
+    "description": "Change Password",
+    "defaultMessage": "Change Password",
+    "message": "Ganti kata sandi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chatLabel",
+    "description": "Chat",
+    "defaultMessage": "Chat",
+    "message": "Mengobrol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chatMessageLabel",
+    "description": "Chat Message",
+    "defaultMessage": "Chat Message",
+    "message": "Pesan obrolan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.checkmein",
+    "description": "Fares",
+    "defaultMessage": "Check me in",
+    "message": "Periksa saya",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.checkmeout",
+    "description": "Fares",
+    "defaultMessage": "Check me out",
+    "message": "Periksa saya",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chooseFile",
+    "description": "",
+    "defaultMessage": "Choose File",
+    "message": "Pilih File",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chooseLanguageLabel",
+    "description": "Choose a Language",
+    "defaultMessage": "Choose a Language",
+    "message": "Pilih bahasa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.city",
+    "description": "city",
+    "defaultMessage": "Lorem Ipsum is simply dummy text",
+    "message": "Lorem ipsum hanyalah teks boneka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.citySectionSettings",
+    "description": "Category Settings",
+    "defaultMessage": "Category",
+    "message": "Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.code",
+    "description": "text",
+    "defaultMessage": "Code",
+    "message": "Kode",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.comments",
+    "description": "Comments",
+    "defaultMessage": "Comments",
+    "message": "Komentar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.completed",
+    "description": "Completed Status",
+    "defaultMessage": "Completed",
+    "message": "Lengkap",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.completedLabel",
+    "description": "Label",
+    "defaultMessage": "Completed",
+    "message": "Lengkap",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.confirmPassword",
+    "description": "Change Password",
+    "defaultMessage": "Confirm Password",
+    "message": "konfirmasi sandi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contact",
+    "description": "Contact Nav link",
+    "defaultMessage": "Contact",
+    "message": "Kontak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactUs",
+    "description": "contact",
+    "defaultMessage": "Contact Us",
+    "message": "Hubungi kami",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content",
+    "description": "Content 1",
+    "defaultMessage": "Content",
+    "message": "Isi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content1",
+    "description": "Content 1",
+    "defaultMessage": "Content 1",
+    "message": "Konten 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content2",
+    "description": "Content 2",
+    "defaultMessage": "Content 2",
+    "message": "Konten 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content3",
+    "description": "Content 3",
+    "defaultMessage": "Content 3",
+    "message": "Konten 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content4",
+    "description": "Content 4",
+    "defaultMessage": "Content 4",
+    "message": "Konten 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content5",
+    "description": "Content 5",
+    "defaultMessage": "Content 5",
+    "message": "Konten 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content6",
+    "description": "Content 6",
+    "defaultMessage": "Content 6",
+    "message": "Konten 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contentpageManagement",
+    "description": "Content Management",
+    "defaultMessage": "Content Management",
+    "message": "Manajemen konten",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.copyRightcontent",
+    "description": "Change Password",
+    "defaultMessage": "Copyrights content",
+    "message": "Konten Hak Cipta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.copyRights",
+    "description": "Copy Rights",
+    "defaultMessage": "Wooberly 2020. All Rights Reserved",
+    "message": "Wooberly 2020. Semua hak dilindungi undang -undang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.country",
+    "description": "Country Name",
+    "defaultMessage": "Country",
+    "message": "Negara",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.countryCodeError",
+    "description": "Invalid Country Code",
+    "defaultMessage": "Invalid Country Code",
+    "message": "Kode negara yang tidak valid",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.createdAt",
+    "description": "Created date",
+    "defaultMessage": "Account Created on",
+    "message": "Akun dibuat di",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.credentialError",
+    "description": "Fares",
+    "defaultMessage": "Sorry, a critical error occurred on this page.",
+    "message": "Maaf, terjadi kesalahan kritis pada halaman ini.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currencies",
+    "description": "Ban Status",
+    "defaultMessage": "Currencies",
+    "message": "Mata uang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currency",
+    "description": "Currency Type",
+    "defaultMessage": "Currency",
+    "message": "Mata uang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currencyList",
+    "description": "Manage Currency",
+    "defaultMessage": "Manage Currency",
+    "message": "Mengelola mata uang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dashboard",
+    "description": "dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "Dasbor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.decline",
+    "description": "Decline",
+    "defaultMessage": "Decline",
+    "message": "Menolak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.declined",
+    "description": "Declined Status",
+    "defaultMessage": "Declined",
+    "message": "Ditolak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.deleteAction",
+    "description": "Delete action name",
+    "defaultMessage": "Delete",
+    "message": "Menghapus",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.description",
+    "description": "text",
+    "defaultMessage": "Description",
+    "message": "Keterangan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.details",
+    "description": "Details",
+    "defaultMessage": "Details",
+    "message": "Detail",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.discount",
+    "description": "text",
+    "defaultMessage": "Discount",
+    "message": "Diskon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "Delectus scaevola elaboraret vel AD, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis Postea Ei Est.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppText",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The User App",
+    "message": "Unduh Aplikasi Pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropLocation",
+    "description": "Drop Location",
+    "defaultMessage": "Drop Location",
+    "message": "Lokasi drop",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropzoneUpload",
+    "description": "Dropzone upload info",
+    "defaultMessage": "Upload a file from your computer",
+    "message": "Unggah file dari komputer Anda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropzoneUploadError",
+    "description": "Dropzone upload error message",
+    "defaultMessage": "Remove the existing image and try upload again",
+    "message": "Hapus gambar yang ada dan coba unggah lagi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dummyText",
+    "description": "dummyText",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum hanyalah teks boneka dari industri pencetakan dan pengukur huruf. Lorem Ipsum telah menjadi teks dummy standar industri sejak tahun 1500 -an, ketika printer yang tidak diketahui mengambil galley jenis dan mengacak -acaknya untuk membuat buku spesimen tipe.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.earnings",
+    "description": "Earnings",
+    "defaultMessage": "Your Earnings",
+    "message": "Penghasilan Anda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.edit",
+    "description": "edit",
+    "defaultMessage": "Edit",
+    "message": "Edit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAction",
+    "description": "Edit action name",
+    "defaultMessage": "Edit",
+    "message": "Edit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAdminRole",
+    "description": "Title",
+    "defaultMessage": "Edit Admin Role",
+    "message": "Edit Peran Admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAdminUserLabel",
+    "description": "Edit Admin User",
+    "defaultMessage": "Edit Admin User",
+    "message": "Edit pengguna admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editCancelReason",
+    "description": "Edit Cancel Reason",
+    "defaultMessage": "Edit Cancel Reason",
+    "message": "Edit Batalkan Alasan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editCategory",
+    "description": "Edit category form header",
+    "defaultMessage": "Edit Category",
+    "message": "Edit kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editLocation",
+    "description": "Edit Location",
+    "defaultMessage": "Edit Location",
+    "message": "Edit Lokasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPageDetails",
+    "description": "Edit Page Details",
+    "defaultMessage": "Edit Page Details",
+    "message": "Edit detail halaman",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPromoCode",
+    "description": "Edit PromoCode",
+    "defaultMessage": "Edit Promo Code",
+    "message": "Edit kode promo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Alamat email salah",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "Tidak ada akun untuk email ini. Pastikan itu diketik dengan benar, atau \"mendaftar\" sebagai gantinya",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "Email diperlukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailText",
+    "description": "Email",
+    "defaultMessage": "Email",
+    "message": "Surel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailaddress",
+    "description": "emailaddress",
+    "defaultMessage": "Email Address",
+    "message": "Alamat email",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.enableDisable",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Enable / Disable",
+    "message": "Setel Enable / Disable",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.errorOnly",
+    "description": "Fares",
+    "defaultMessage": "Error",
+    "message": "Kesalahan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit",
+    "description": "Exceeding character limit",
+    "defaultMessage": "Exceeding character limit",
+    "message": "Melebihi batas karakter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit100",
+    "description": "Maximum 100 words",
+    "defaultMessage": "Maximum 100 words",
+    "message": "Maksimal 100 kata",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.expireDate",
+    "description": "text",
+    "defaultMessage": "Expiry Date",
+    "message": "Tanggal kadaluarsa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.expired",
+    "description": "Expired Status",
+    "defaultMessage": "Expired",
+    "message": "Kedaluwarsa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exportDataIntoCSV",
+    "description": "Export Data into CSV",
+    "defaultMessage": "Export Data into CSV",
+    "message": "Ekspor Data ke CSV",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.facebookUrl",
+    "description": "Fares",
+    "defaultMessage": "Facebook URL",
+    "message": "URL Facebook",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fares",
+    "description": "Fares",
+    "defaultMessage": "Fares",
+    "message": "Tarif",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #1",
+    "message": "Deskripsi Fitur #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #2",
+    "message": "Deskripsi Fitur #2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #3",
+    "message": "Deskripsi Fitur #3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #4",
+    "message": "Deskripsi Fitur #4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #5",
+    "message": "Deskripsi Fitur #5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #6",
+    "message": "Deskripsi Fitur #6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #1",
+    "message": "Judul Fitur #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #2",
+    "message": "Judul Fitur #2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #3",
+    "message": "Judul Fitur #3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #4",
+    "message": "Judul Fitur #4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #5",
+    "message": "Judul Fitur #5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #6",
+    "message": "Judul Fitur #6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.firstName",
+    "description": "firstName",
+    "defaultMessage": "First Name",
+    "message": "Nama depan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixed",
+    "description": "Fixed Fee Type",
+    "defaultMessage": "Fixed",
+    "message": "Tetap",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixedAmount",
+    "description": "text",
+    "defaultMessage": "Fixed Amount",
+    "message": "Jumlah tetap",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.floatError",
+    "description": "Numeric Error Response",
+    "defaultMessage": "It should be a number value",
+    "message": "Itu harus menjadi nilai angka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.followUs",
+    "description": "Follow Us",
+    "defaultMessage": "Follow  Us",
+    "message": "Ikuti kami",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerCategory",
+    "description": "Footer Category",
+    "defaultMessage": "Footer Category",
+    "message": "Kategori footer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerContent1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Content #1",
+    "message": "Konten footer #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo1",
+    "description": "Footer Logo 1",
+    "defaultMessage": "Footer Logo #1",
+    "message": "Logo footer #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo2",
+    "description": "Footer Logo 2",
+    "defaultMessage": "Footer Logo #2",
+    "message": "Logo footer #2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo3",
+    "description": "Footer Logo 3",
+    "defaultMessage": "Footer Logo #3",
+    "message": "Logo footer #3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo4",
+    "description": "Footer Logo 4",
+    "defaultMessage": "Footer Logo #4",
+    "message": "Logo footer #4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerSectionSettings",
+    "description": "Footer Settings",
+    "defaultMessage": "Footer",
+    "message": "Footer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Title #1",
+    "message": "Judul Footer #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerUrltitle",
+    "description": "Change Password",
+    "defaultMessage": "Footer URL Title",
+    "message": "Judul URL footer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.forceUpdate",
+    "description": "forceUpdate",
+    "defaultMessage": "Force update",
+    "message": "Mengubah paksa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.form",
+    "description": "form",
+    "defaultMessage": "Form",
+    "message": "Membentuk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.formssidebar",
+    "description": "formssidebar",
+    "defaultMessage": "Forms",
+    "message": "Formulir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.goBack",
+    "description": "Go Back Button Text",
+    "defaultMessage": "Go Back",
+    "message": "Kembali",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.goToMainSite",
+    "description": "goToMainSite option",
+    "defaultMessage": "Go to main site",
+    "message": "Pergi ke situs utama",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescFive",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID per gloriatur tincidunt. Vim Odio Unum Atomorum di. Ut esent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescFour",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID per gloriatur tincidunt. Vim Odio Unum Atomorum di. Ut esent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescOne",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID per gloriatur tincidunt. Vim Odio Unum Atomorum di. Ut esent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescSix",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID per gloriatur tincidunt. Vim Odio Unum Atomorum di. Ut esent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescThree",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID per gloriatur tincidunt. Vim Odio Unum Atomorum di. Ut esent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescTwo",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID per gloriatur tincidunt. Vim Odio Unum Atomorum di. Ut esent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitle",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleFive",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleFour",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleSix",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleThree",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleTwo",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.heading",
+    "description": "heading",
+    "defaultMessage": "Heading",
+    "message": "Menuju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.holdPayout",
+    "description": "Hold Payout",
+    "defaultMessage": "Hold Payout",
+    "message": "Memegang pembayaran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeContent",
+    "description": "Start Riding With Wooberly",
+    "defaultMessage": "Start Riding With Wooberly",
+    "message": "Mulailah Berkendara Dengan Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeContent1",
+    "description": "Banner Content",
+    "defaultMessage": "Banner Content",
+    "message": "Konten spanduk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage1",
+    "description": "Banner Image 1",
+    "defaultMessage": "Banner Image #1",
+    "message": "Gambar Banner #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage2",
+    "description": "Banner Image 2",
+    "defaultMessage": "Banner Image #2",
+    "message": "Gambar Banner #2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage3",
+    "description": "Banner Image 3",
+    "defaultMessage": "Banner Image #3",
+    "message": "Gambar Banner #3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage4",
+    "description": "Banner Image 4",
+    "defaultMessage": "Banner Image #4",
+    "message": "Banner Image #4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage5",
+    "description": "Banner Image 5",
+    "defaultMessage": "Banner Image #5",
+    "message": "Gambar Banner #5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage6",
+    "description": "Banner Image 6",
+    "defaultMessage": "Banner Image #6",
+    "message": "Gambar Banner #6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage7",
+    "description": "Banner Image Tablet",
+    "defaultMessage": "Banner Image Tablet",
+    "message": "Tablet Banner Image",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage8",
+    "description": "Banner Image Mobile",
+    "defaultMessage": "Banner Image Mobile",
+    "message": "Banner Image Mobile",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeSectionSettings",
+    "description": "Banner Settings",
+    "defaultMessage": "Banner",
+    "message": "Spanduk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeTitle",
+    "description": "Banner Title",
+    "defaultMessage": "Banner Title",
+    "message": "Judul spanduk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeonly",
+    "description": "Fares",
+    "defaultMessage": "Home",
+    "message": "Rumah",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homepageBanner",
+    "description": "Homepage Banner Settings",
+    "defaultMessage": "Homepage Banner",
+    "message": "Spanduk Beranda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.id",
+    "description": "ID text",
+    "defaultMessage": "ID",
+    "message": "PENGENAL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.image",
+    "description": "Label",
+    "defaultMessage": "Image",
+    "message": "Gambar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.inactive",
+    "description": "Inactive Status",
+    "defaultMessage": "Inactive",
+    "message": "Tidak aktif",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.instaUrl",
+    "description": "Fares",
+    "defaultMessage": "Instagram URL",
+    "message": "URL Instagram",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.insuranceImage",
+    "description": "insuranceImage",
+    "defaultMessage": "Insurance Image",
+    "message": "Gambar asuransi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.intError",
+    "description": "Integer Error Response",
+    "defaultMessage": "It should be a decimal value",
+    "message": "Itu harus menjadi nilai desimal",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalidUrl",
+    "description": "Invalid Page URL",
+    "defaultMessage": "Invalid Page URL",
+    "message": "URL halaman tidak valid",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalidVersionNumber",
+    "description": "invalidVersionNumber",
+    "defaultMessage": "Invalid Version Number",
+    "message": "Nomor versi tidak valid",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.km",
+    "description": "Km",
+    "defaultMessage": "Km",
+    "message": "Km",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.lastHours",
+    "description": "Ban Status",
+    "defaultMessage": "Last 24 hours",
+    "message": "24 jam terakhir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.lastName",
+    "description": "lastName",
+    "defaultMessage": "Last Name",
+    "message": "Nama keluarga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.leaveEmail",
+    "description": "Change Password",
+    "defaultMessage": "Leave email address field blank if you don't want to change the email",
+    "message": "Tinggalkan bidang alamat email kosong jika Anda tidak ingin mengubah email",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.licenceBackImage",
+    "description": "licenceBackImage",
+    "defaultMessage": "Licence Back Image",
+    "message": "Gambar lisensi kembali",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.licenceFrontImage",
+    "description": "licenceFrontImage",
+    "defaultMessage": "Licence Front Image",
+    "message": "Lisensi Gambar Depan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.listings",
+    "description": "Ban Status",
+    "defaultMessage": "Listings",
+    "message": "Daftar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.loadMoreMsg",
+    "description": "Load more button",
+    "defaultMessage": "Load More",
+    "message": "Muat lebih banyak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.location",
+    "description": "location",
+    "defaultMessage": "Manage Location",
+    "message": "Kelola Lokasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.locationName",
+    "description": "Table header",
+    "defaultMessage": "Location",
+    "message": "Lokasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.locations",
+    "description": "Pagination",
+    "defaultMessage": "Locations",
+    "message": "Lokasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "Kamu sudah masuk!",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.login",
+    "description": "Login Nav link",
+    "defaultMessage": "Login",
+    "message": "Gabung",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logo",
+    "description": "Logo",
+    "defaultMessage": "Logo",
+    "message": "Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logoheight",
+    "description": "Fares",
+    "defaultMessage": "Logo Height",
+    "message": "Tinggi logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logout",
+    "description": "logout option",
+    "defaultMessage": "Logout",
+    "message": "Keluar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logowidth",
+    "description": "Fares",
+    "defaultMessage": "Logo Width",
+    "message": "Lebar logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdmin",
+    "description": "Manage Admins",
+    "defaultMessage": "Manage Admins",
+    "message": "Mengelola admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdminRoles",
+    "description": "Manage Admin Roles",
+    "defaultMessage": "Manage Admin Roles",
+    "message": "Kelola peran admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdminUsers",
+    "description": "Manage Admin Users",
+    "defaultMessage": "Manage Admin Users",
+    "message": "Kelola pengguna admin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Batalkan Alasan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCurrency",
+    "description": "manageCurrency sidemenu",
+    "defaultMessage": "Manage Currency",
+    "message": "Mengelola mata uang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageDashboard",
+    "description": "Manage Dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "Dasbor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageFailedPayout",
+    "description": "Failed Payout",
+    "defaultMessage": "Failed Payout",
+    "message": "Pembayaran gagal",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageFare",
+    "description": "Admin sidemenu",
+    "defaultMessage": "Manage Fare",
+    "message": "Kelola ongkos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageNotifications",
+    "description": "Manage Notifications",
+    "defaultMessage": "Manage Notifications",
+    "message": "Kelola pemberitahuan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePayout",
+    "description": "managePayout",
+    "defaultMessage": "Manage Payout",
+    "message": "Mengelola pembayaran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePromoCode",
+    "description": "managePromoCode sidemenu",
+    "defaultMessage": "Manage Promo Code",
+    "message": "Kelola kode promo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maximumUploadSizeLabel",
+    "description": "",
+    "defaultMessage": "Maximum upload size",
+    "message": "Ukuran unggahan maksimum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuFour",
+    "description": "menuFour",
+    "defaultMessage": "MenuFour",
+    "message": "Menufour",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuOne",
+    "description": "form",
+    "defaultMessage": "MenuOne",
+    "message": "Menuone",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuTwo",
+    "description": "MenuTwo",
+    "defaultMessage": "MenuTwo",
+    "message": "Menutwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.messageLength",
+    "description": "Message must be 200 characters or less",
+    "defaultMessage": "Message must be 200 characters or less",
+    "message": "Pesan harus 200 karakter atau kurang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.messageRequired",
+    "description": "Message is required",
+    "defaultMessage": "Message is required",
+    "message": "Pesan diperlukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDesc",
+    "description": "Fares",
+    "defaultMessage": "Meta Description",
+    "message": "Deskripsi meta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDescription",
+    "description": "Description must be 255 characters or less",
+    "defaultMessage": "Description must be 255 characters or less",
+    "message": "Deskripsi harus 255 karakter atau kurang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDescriptionText",
+    "description": "Meta Description",
+    "defaultMessage": "Meta Description",
+    "message": "Deskripsi meta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaKeyword",
+    "description": "Keyword must be 255 characters or less",
+    "defaultMessage": "Keyword must be 255 characters or less",
+    "message": "Kata kunci harus 255 karakter atau kurang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaTitle",
+    "description": "Meta Title",
+    "defaultMessage": "Meta Title",
+    "message": "Judul meta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metakey",
+    "description": "Fares",
+    "defaultMessage": "Meta Keyword",
+    "message": "Kata kunci meta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mile",
+    "description": "Mile",
+    "defaultMessage": "Mile",
+    "message": "Mil",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.miles",
+    "description": "Fares",
+    "defaultMessage": "Miles",
+    "message": "Mil",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutePrice",
+    "description": "Minute Price",
+    "defaultMessage": "Minute Price",
+    "message": "Harga menit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutes",
+    "description": "minutes",
+    "defaultMessage": "minutes",
+    "message": "menit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.montly",
+    "description": "montly",
+    "defaultMessage": "This Month",
+    "message": "Bulan ini",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.msgOnly",
+    "description": "Change Password",
+    "defaultMessage": "Message",
+    "message": "Pesan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.nameOnly",
+    "description": "Change Password",
+    "defaultMessage": "Name",
+    "message": "Nama",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.no",
+    "description": "no",
+    "defaultMessage": "No",
+    "message": "Tidak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noItmesFound",
+    "description": "No items found",
+    "defaultMessage": "No items found",
+    "message": "Tidak ada barang yang ditemukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noResult",
+    "description": "noResult",
+    "defaultMessage": "No results found",
+    "message": "Tidak ada hasil yang ditemukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notFound",
+    "description": "Ban Status",
+    "defaultMessage": "Sorry, the page you were trying to view does not exist.",
+    "message": "Maaf, halaman yang Anda coba lihat tidak ada.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notRequired",
+    "description": "Label",
+    "defaultMessage": "No Action Required",
+    "message": "Tidak ada tindakan yang diperlukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notRequiredMessage",
+    "description": "Not Required",
+    "defaultMessage": "Not Required",
+    "message": "Tidak dibutuhkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.numberError",
+    "description": "Invalid Phone Number",
+    "defaultMessage": "Invalid Phone Number",
+    "message": "Nomor telepon tidak valid",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.numericValue",
+    "description": "Numeric value required",
+    "defaultMessage": "Numeric value required",
+    "message": "Nilai numerik diperlukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.offline",
+    "description": "offline",
+    "defaultMessage": "Offline",
+    "message": "Offline",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.oneOne",
+    "description": "Ban Status",
+    "defaultMessage": "One",
+    "message": "Satu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.online",
+    "description": "online",
+    "defaultMessage": "Online",
+    "message": "On line",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.optionOne",
+    "description": "Fares",
+    "defaultMessage": "option 1",
+    "message": "Pilihan 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.overAll",
+    "description": "Overall",
+    "defaultMessage": "Overall",
+    "message": "Keseluruhan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageBanner",
+    "description": "Page Banner",
+    "defaultMessage": "Page Banner",
+    "message": "Banner halaman",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageImageBanner",
+    "description": "Page Image Banner",
+    "defaultMessage": "Page Image Banner",
+    "message": "Banner Gambar Halaman",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageName",
+    "description": "Page Name",
+    "defaultMessage": "Page Name",
+    "message": "Nama halaman",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageTitle",
+    "description": "Page Title",
+    "defaultMessage": "Page Title",
+    "message": "Judul halaman",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageUrl",
+    "description": "Page URL",
+    "defaultMessage": "Page URL",
+    "message": "Halaman URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paid",
+    "description": "Paid",
+    "defaultMessage": "Paid",
+    "message": "Dibayar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.password",
+    "description": "password",
+    "defaultMessage": "Password",
+    "message": "Kata sandi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "Kata sandi Anda harus setidaknya 8 karakter. Tolong coba lagi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "katakunci dibutuhkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordText",
+    "description": "Password Content",
+    "defaultMessage": "Provide new password only. Ignore this field to use the existing password for this user.",
+    "message": "Berikan kata sandi baru saja. Abaikan bidang ini untuk menggunakan kata sandi yang ada untuk pengguna ini.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Kata sandi salah. Tolong coba lagi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paymentMethod",
+    "description": "Payment Method",
+    "defaultMessage": "Payment Method",
+    "message": "Cara Pembayaran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paymentType",
+    "description": "Payment Type",
+    "defaultMessage": "Payment Type",
+    "message": "Tipe pembayaran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.payoutAmount",
+    "description": "Payout Amount",
+    "defaultMessage": "Payout Amount",
+    "message": "Jumlah pembayaran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.payoutStatus",
+    "description": "Payout Status",
+    "defaultMessage": "Payout Status",
+    "message": "Status pembayaran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pending",
+    "description": "Pending Status",
+    "defaultMessage": "Pending",
+    "message": "Tertunda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pendingLabel",
+    "description": "Label",
+    "defaultMessage": "Pending",
+    "message": "Tertunda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentError",
+    "description": "Choose percentage value between 1 to 99",
+    "defaultMessage": "Choose percentage value between 1 to 99",
+    "message": "Pilih nilai persentase antara 1 hingga 99",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentage",
+    "description": "text",
+    "defaultMessage": "Percentage",
+    "message": "Persentase",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentageFeeType",
+    "description": "Percentage Fee Type",
+    "defaultMessage": "Percentage",
+    "message": "Persentase",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.permit",
+    "description": "Permit Status",
+    "defaultMessage": "Permit",
+    "message": "Izin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.phoneDialCode",
+    "description": "Phone Dial Code",
+    "defaultMessage": "Country Code",
+    "message": "Kode negara",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.phoneNumber",
+    "description": "phoneNumber",
+    "defaultMessage": "Phone Number",
+    "message": "Nomor telepon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pickupLocation",
+    "description": "PickUp Location",
+    "defaultMessage": "PickUp Location",
+    "message": "Lokasi penjemputan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformEarnings",
+    "description": "Label",
+    "defaultMessage": "Platform Earnings",
+    "message": "Penghasilan Platform",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformOffered",
+    "description": "Label",
+    "defaultMessage": "Platform Overdrafts",
+    "message": "Overdraft platform",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.playstorelink",
+    "description": "Fares",
+    "defaultMessage": "Play Store Link",
+    "message": "Play Store Link",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.precautionNotification",
+    "description": "Title",
+    "defaultMessage": "Precaution Notification",
+    "message": "Pemberitahuan tindakan pencegahan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.preview",
+    "description": "Preview",
+    "defaultMessage": "Preview",
+    "message": "Pratinjau",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.privacyPolicies",
+    "description": "Privacy Policy",
+    "defaultMessage": "Privacy Policy",
+    "message": "Kebijakan pribadi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.privileges",
+    "description": "Privileges",
+    "defaultMessage": "Privileges",
+    "message": "Hak istimewa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.processedCash",
+    "description": "Label",
+    "defaultMessage": "Processed via cash",
+    "message": "Diproses melalui uang tunai",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.profileId",
+    "description": "Profile Id for user",
+    "defaultMessage": "Profile ID",
+    "message": "ID Profil",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.profilePicture",
+    "description": "profilePicture",
+    "defaultMessage": "Profile Picture",
+    "message": "Foto profil",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoCodeId",
+    "description": "Promo Code",
+    "defaultMessage": "Promo Code",
+    "message": "Kode promosi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoType",
+    "description": "text",
+    "defaultMessage": "Type",
+    "message": "Jenis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.radioButton",
+    "description": "Change Password",
+    "defaultMessage": "Radio button",
+    "message": "Tombol radio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.ratings",
+    "description": "Ratings",
+    "defaultMessage": "Ratings",
+    "message": "Peringkat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.rcImage",
+    "description": "rcImage",
+    "defaultMessage": "RC Book Image",
+    "message": "Gambar Buku RC",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reason",
+    "description": "Reason",
+    "defaultMessage": "Reason",
+    "message": "Alasan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reasonRequired",
+    "description": "Reason is required",
+    "defaultMessage": "Reason is required",
+    "message": "Alasan diperlukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.recommand",
+    "description": "recommand",
+    "defaultMessage": "Recommand",
+    "message": "Rekomendasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.redioOne",
+    "description": "Fares",
+    "defaultMessage": "radio 1",
+    "message": "Radio 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.removeLocation",
+    "description": "Polygon remove",
+    "defaultMessage": "Remove Location",
+    "message": "Hapus lokasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.rentallContent",
+    "description": "app",
+    "defaultMessage": "app",
+    "message": "aplikasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reportIssue",
+    "description": "Ban Status",
+    "defaultMessage": "Report an issue",
+    "message": "Melaporkan masalah",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.required",
+    "description": "required error message",
+    "defaultMessage": "*Required",
+    "message": "*Diperlukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reservations",
+    "description": "Ban Status",
+    "defaultMessage": "Reservations",
+    "message": "Reservasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reviewsBy",
+    "description": "reviewsBy",
+    "defaultMessage": "Reviews By",
+    "message": "Ulasan oleh",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.role",
+    "description": "Role",
+    "defaultMessage": "Role",
+    "message": "Peran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.roleName",
+    "description": "Role Name",
+    "defaultMessage": "Role Name",
+    "message": "Nama peran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyButton",
+    "description": "safetyButton",
+    "defaultMessage": "View all safety features",
+    "message": "Lihat semua fitur keselamatan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyContent",
+    "description": "Safety",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum hanyalah teks boneka dari industri pencetakan dan pengukur huruf. Lorem Ipsum telah menjadi teks dummy standar industri sejak tahun 1500 -an, ketika printer yang tidak diketahui mengambil galley jenis dan mengacak -acaknya untuk membuat buku spesimen tipe.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "Logo PlayStore",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "Logo AppStore",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage3",
+    "description": "User App Image",
+    "defaultMessage": "User App Image",
+    "message": "Gambar aplikasi pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetySectionSettings",
+    "description": "User Apps Settings",
+    "defaultMessage": "User App",
+    "message": "Aplikasi Pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.searchLocation",
+    "description": "Auto-Complete input",
+    "defaultMessage": "Search Location",
+    "message": "Lokasi pencarian",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.searchOnly",
+    "description": "Change Password",
+    "defaultMessage": "Search",
+    "message": "Mencari",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.select",
+    "description": "select",
+    "defaultMessage": "Select",
+    "message": "Pilih",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.selectRole",
+    "description": "Select Role",
+    "defaultMessage": "Select Role",
+    "message": "Pilih Peran",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.setBase",
+    "description": "Ban Status",
+    "defaultMessage": "Set as base currency",
+    "message": "Setel sebagai mata uang dasar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.setBaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Base Currency",
+    "message": "Atur mata uang dasar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.settings",
+    "description": "settings",
+    "defaultMessage": "Settings",
+    "message": "Pengaturan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signup",
+    "description": "Sign up Nav link",
+    "defaultMessage": "Sign up",
+    "message": "Daftar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupDrive",
+    "description": "Sign up to drive",
+    "defaultMessage": "Sign up to drive",
+    "message": "Daftar untuk Berkendara",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Play Store Logo",
+    "message": "Mainkan Logo Toko",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "App Store Logo",
+    "message": "Logo App Store",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage3",
+    "description": "Service provider App Image",
+    "defaultMessage": "Service Provider App Image",
+    "message": "Gambar Aplikasi Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupRide",
+    "description": "Sign up to ride",
+    "defaultMessage": "Sign up to ride",
+    "message": "Daftar untuk Berkendara",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupSectionSettings",
+    "description": "Service Provider Apps Settings",
+    "defaultMessage": "Service Provider App",
+    "message": "Aplikasi Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteAdmin",
+    "description": "siteAdmin",
+    "defaultMessage": "Site Admin",
+    "message": "Admin situs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteName",
+    "description": "Fares",
+    "defaultMessage": "Site Name",
+    "message": "Nama situs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteSettings",
+    "description": "Site Settings",
+    "defaultMessage": "Site Settings",
+    "message": "Pengaturan Situs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteTitle",
+    "description": "Fares",
+    "defaultMessage": "Site Title",
+    "message": "Judul situs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderContent",
+    "description": "Luxury",
+    "defaultMessage": "Luxury",
+    "message": "Kemewahan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderTitle",
+    "description": "sliderTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderTitleDesc",
+    "description": "sliderTitleDesc",
+    "defaultMessage": "Percipit repudiandae an eum, enim case eos no. Percipit tractatos pertinacia cum id, ad eos facete malorum recusabo, vis insolens perpetua definitionem ex.",
+    "message": "Percipit repudidae EUM, enim case eos no. Percipit tractatos pertinacia cum id, ad eos facete malorum recusabo, vis larut untuk perpetua definisi Ex.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Maaf, ada yang salah. Tolong coba lagi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.startDriving",
+    "description": "Start Driving",
+    "defaultMessage": "Start Driving",
+    "message": "Mulailah mengemudi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.startRideing",
+    "description": "Start Riding",
+    "defaultMessage": "Start Riding",
+    "message": "Mulailah mengendarai",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.started",
+    "description": "Started Status",
+    "defaultMessage": "Started",
+    "message": "Dimulai",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.state",
+    "description": "Fares",
+    "defaultMessage": "State",
+    "message": "Negara",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.staticpageManagement",
+    "description": "Manage Static Content",
+    "defaultMessage": "Manage Static Content",
+    "message": "Mengelola konten statis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.status",
+    "description": "Status Active/Inactive",
+    "defaultMessage": "Status",
+    "message": "Status",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.stripePublishableKey",
+    "description": "Stripe Publishable Key",
+    "defaultMessage": "Stripe Publishable Key",
+    "message": "Kunci yang dapat diterbitkan Stripe",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuOne",
+    "description": "subMenuOne",
+    "defaultMessage": "subMenuOne",
+    "message": "submenuone",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuThree",
+    "description": "subMenuThree",
+    "defaultMessage": "subMenuThree",
+    "message": "submenuthree",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuTwo",
+    "description": "subMenuTwo",
+    "defaultMessage": "subMenuTwo",
+    "message": "submenutwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.submitButton",
+    "description": "Submit",
+    "defaultMessage": "Submit",
+    "message": "Kirim",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.symbol",
+    "description": "currencyManagement value",
+    "defaultMessage": "Symbol",
+    "message": "Simbol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.table",
+    "description": "Table",
+    "defaultMessage": "Table",
+    "message": "Meja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tableCell",
+    "description": "Fares",
+    "defaultMessage": "Table cell",
+    "message": "Sel meja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tableHead",
+    "description": "Fares",
+    "defaultMessage": "Table heading",
+    "message": "Tajuk meja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.textarea",
+    "description": "textarea",
+    "defaultMessage": "Text Area",
+    "message": "Area teks",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsAmount",
+    "description": "Tips Amount",
+    "defaultMessage": "Tips Amount",
+    "message": "Jumlah tips",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title",
+    "description": "text",
+    "defaultMessage": "Title",
+    "message": "Judul",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title1",
+    "description": "Title 1",
+    "defaultMessage": "Title 1",
+    "message": "Judul 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title2",
+    "description": "Title 2",
+    "defaultMessage": "Title 2",
+    "message": "Judul 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title3",
+    "description": "Title 3",
+    "defaultMessage": "Title 3",
+    "message": "Judul 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title4",
+    "description": "Title 4",
+    "defaultMessage": "Title 4",
+    "message": "Judul 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title5",
+    "description": "Title 5",
+    "defaultMessage": "Title 5",
+    "message": "Judul 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title6",
+    "description": "Title 6",
+    "defaultMessage": "Title 6",
+    "message": "Judul 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.to",
+    "description": "Label",
+    "defaultMessage": "To",
+    "message": "Ke",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.today",
+    "description": "today",
+    "defaultMessage": "Today",
+    "message": "Hari ini",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tollFee",
+    "description": "tollFee",
+    "defaultMessage": "Toll Fee",
+    "message": "Biaya jalan tol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.topFeatures",
+    "description": "Top Features Section Settings",
+    "defaultMessage": "Top Features Section Settings",
+    "message": "Pengaturan Bagian Fitur Teratas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalDuration",
+    "description": "Total Duration",
+    "defaultMessage": "Total Duration",
+    "message": "Durasi total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalFare",
+    "description": "Total Fare",
+    "defaultMessage": "Total Fare",
+    "message": "Tarif total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalList",
+    "description": "Ban Status",
+    "defaultMessage": "Total Listings",
+    "message": "Total Daftar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalReserv",
+    "description": "Ban Status",
+    "defaultMessage": "Total Reservations",
+    "message": "Total reservasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalRideDistance",
+    "description": "Total  Distance",
+    "defaultMessage": "Total  Distance",
+    "message": "Total jarak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalUser",
+    "description": "Ban Status",
+    "defaultMessage": "Total Users",
+    "message": "Total pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripDate",
+    "description": "Trip Date",
+    "defaultMessage": "Trip Date",
+    "message": "Tanggal perjalanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripEnd",
+    "description": "Trip End",
+    "defaultMessage": "Trip End",
+    "message": "TRIP AKHIR",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripStart",
+    "description": "Trip Start",
+    "defaultMessage": "Trip Start",
+    "message": "Perjalanan mulai",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.twiterUrl",
+    "description": "Fares",
+    "defaultMessage": "Twitter URL",
+    "message": "URL Twitter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unitPrice",
+    "description": "Unit Price",
+    "defaultMessage": "Unit Price",
+    "message": "Patokan harga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unpaid",
+    "description": "Unpaid",
+    "defaultMessage": "Unpaid",
+    "message": "Tidak dibayar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.update",
+    "description": "Update",
+    "defaultMessage": "Update",
+    "message": "Memperbarui",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.updatedAt",
+    "description": "Label",
+    "defaultMessage": "Updated At",
+    "message": "Diperbarui di",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.useFullLink",
+    "description": "Usefull Links",
+    "defaultMessage": "Usefull Links",
+    "message": "Tautan Usefull",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.usedPromoCode",
+    "description": "text",
+    "defaultMessage": "Used Promo Code",
+    "message": "Kode promo yang digunakan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userStatus",
+    "description": "User Status Active/Inactive",
+    "defaultMessage": "User Status",
+    "message": "Status pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.users",
+    "description": "users",
+    "defaultMessage": "Users",
+    "message": "Pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validUrl",
+    "description": "Valid URL required",
+    "defaultMessage": "Valid URL required",
+    "message": "URL yang valid diperlukan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateConfirmPasswordLength",
+    "description": "Confirm Password length Validation",
+    "defaultMessage": "Confirm Password must be minimum 8 characters",
+    "message": "Konfirmasi Kata Sandi Harus Minimal 8 Karakter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validatePasswordLength",
+    "description": "Password length Validation",
+    "defaultMessage": "Password must be minimum 8 characters",
+    "message": "Kata sandi harus minimum 8 karakter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validatePasswordMatch",
+    "description": "Password mismatch",
+    "defaultMessage": "Password is mismatching with Confirm password",
+    "message": "Kata sandi tidak cocok dengan kata sandi konfirmasi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.view",
+    "description": "View Details Link",
+    "defaultMessage": "View",
+    "message": "Melihat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.viewCity",
+    "description": "view City",
+    "defaultMessage": "View city",
+    "message": "Lihat Kota",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.wallet",
+    "description": "Wallet",
+    "defaultMessage": "Wallet",
+    "message": "Dompet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.walletBalance",
+    "description": "Wallet Balance",
+    "defaultMessage": "Wallet Balance",
+    "message": "Keseimbangan dompet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.weekly",
+    "description": "weekly",
+    "defaultMessage": "This Week",
+    "message": "Minggu ini",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.yes",
+    "description": "Yes",
+    "defaultMessage": "Yes",
+    "message": "Ya",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.youtubeUrl",
+    "description": "Fares",
+    "defaultMessage": "Youtube URL",
+    "message": "URL YouTube",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addOrChange",
+    "description": "Label",
+    "defaultMessage": "Add or Change",
+    "message": "Tambahkan atau ubah",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addStop",
+    "description": "Label",
+    "defaultMessage": "Add Stop",
+    "message": "Tambahkan berhenti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.all",
+    "description": "all",
+    "defaultMessage": "All",
+    "message": "Semua",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.assign",
+    "description": "Label",
+    "defaultMessage": "Assign",
+    "message": "Menetapkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.at",
+    "description": "Label",
+    "defaultMessage": "at",
+    "message": "pada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.autoAssign",
+    "description": "Label",
+    "defaultMessage": "Auto Assign",
+    "message": "Menetapkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.baseFare",
+    "description": "Label",
+    "defaultMessage": "Base Fare",
+    "message": "Tarif dasar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookNow",
+    "description": "Label",
+    "defaultMessage": "Book Now",
+    "message": "Pesan sekarang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingFee",
+    "description": "Label",
+    "defaultMessage": "Booking Fee",
+    "message": "Biaya pemesanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelBooking",
+    "description": "Label",
+    "defaultMessage": "Cancel Booking",
+    "message": "Batalkan pemesanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.createBooking",
+    "description": "Create Booking",
+    "defaultMessage": "Create Booking",
+    "message": "Buat pemesanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editBooking",
+    "description": "Label",
+    "defaultMessage": "Edit Booking",
+    "message": "Edit pemesanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editDateAndTime",
+    "description": "Label",
+    "defaultMessage": "Edit Date & Time",
+    "message": "Edit Tanggal & Waktu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit200",
+    "description": "Message",
+    "defaultMessage": "Please dont exceed 200 words",
+    "message": "Tolong jangan melebihi 200 kata",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fareEstimation",
+    "description": "Label",
+    "defaultMessage": "Fare Estimation",
+    "message": "Estimasi tarif",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.heatMap",
+    "description": "heatMap",
+    "defaultMessage": "HeatMap",
+    "message": "Panas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hide",
+    "description": "hide",
+    "defaultMessage": "Hide",
+    "message": "Bersembunyi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalid",
+    "description": "invalid",
+    "defaultMessage": "Invalid",
+    "message": "Tidak sah",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageDispatcher",
+    "description": "manageDispatcher",
+    "defaultMessage": "Manage Dispatcher",
+    "message": "Kelola Dispatcher",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageForceUpdate",
+    "description": "manageForceUpdate",
+    "defaultMessage": "Manage Apps Force Update",
+    "message": "Kelola Pembaruan Aplikasi Force",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mapView",
+    "description": "mapView",
+    "defaultMessage": "Map View",
+    "message": "Tampilan peta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutesShort",
+    "description": "Label",
+    "defaultMessage": "mins",
+    "message": "menit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mobileSettings",
+    "description": "Mobile App Settings",
+    "defaultMessage": "Mobile App Settings",
+    "message": "Pengaturan aplikasi seluler",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.next",
+    "description": "Next",
+    "defaultMessage": "Next",
+    "message": "Berikutnya",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noCabs",
+    "description": "Label",
+    "defaultMessage": "No Cabs",
+    "message": "Tidak ada taksi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.now",
+    "description": "Label",
+    "defaultMessage": "Book now",
+    "message": "Pesan sekarang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perKm",
+    "description": "Label",
+    "defaultMessage": "Per Km",
+    "message": "Per km",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perMile",
+    "description": "Label",
+    "defaultMessage": "Per Mile",
+    "message": "Per mil",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perMinute",
+    "description": "Label",
+    "defaultMessage": "Per Minute",
+    "message": "Per menit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reset",
+    "description": "Label",
+    "defaultMessage": "Reset",
+    "message": "Mengatur ulang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.show",
+    "description": "show",
+    "defaultMessage": "Show",
+    "message": "Menunjukkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepMode",
+    "description": "sleepMode",
+    "defaultMessage": "Manage Service Provider App Sleep Mode",
+    "message": "Kelola Mode Tidur Aplikasi Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.stripeSettings",
+    "description": "stripeSettings",
+    "defaultMessage": "Stripe Settings",
+    "message": "Pengaturan strip",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.total",
+    "description": "Label",
+    "defaultMessage": "Total",
+    "message": "Total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tracking",
+    "description": "tracking",
+    "defaultMessage": "Tracking",
+    "message": "Pelacakan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.travelFare",
+    "description": "Label",
+    "defaultMessage": "Travel Fare",
+    "message": "Tarif perjalanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.markerInfo",
+    "description": "Marker Info",
+    "defaultMessage": "Marker Info",
+    "message": "Info penanda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.favIconlogoLabel",
+    "description": "Fav Icon",
+    "defaultMessage": "Fav Icon",
+    "message": "Ikon Fav",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allDays",
+    "description": "select label",
+    "defaultMessage": "All days",
+    "message": "Semua Hari",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactEmail",
+    "description": "contactEmail",
+    "defaultMessage": "Contact email",
+    "message": "Kontak Email",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactPhoneNumber",
+    "description": "contactPhoneNumber",
+    "defaultMessage": "Contact phone number",
+    "message": "Kontak nomor telepon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.last30Days",
+    "description": "select label",
+    "defaultMessage": "Last 30 days",
+    "message": "30 hari terakhir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.last7Days",
+    "description": "select label",
+    "defaultMessage": "Last 7 days",
+    "message": "7 hari terakhir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.skype",
+    "description": "skype",
+    "defaultMessage": "Skype",
+    "message": "Skype",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCurrency",
+    "description": "addCurrency",
+    "defaultMessage": "Add currency",
+    "message": "Tambahkan mata uang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledByPartner",
+    "description": "Cancelled By Service Provider Status",
+    "defaultMessage": "Cancelled By Service Provider",
+    "message": "Dibatalkan oleh penyedia layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledByUser",
+    "description": "Cancelled By User Status",
+    "defaultMessage": "Cancelled By User",
+    "message": "Dibatalkan oleh pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partner",
+    "description": "partner",
+    "defaultMessage": "Service Provider",
+    "message": "Penyedia layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepPartnerAndroid",
+    "description": "sleepPartnerAndroid",
+    "defaultMessage": "Service Provider Android App",
+    "message": "Aplikasi Android Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepPartnerios",
+    "description": "sleepPartnerios",
+    "defaultMessage": "Service Provider iOS App",
+    "message": "Penyedia layanan aplikasi iOS",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.user",
+    "description": "user",
+    "defaultMessage": "User",
+    "message": "Pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingStatus",
+    "description": "Job Status",
+    "defaultMessage": "Job Status",
+    "message": "Status pekerjaan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryBanner",
+    "description": "Category Banner",
+    "defaultMessage": "Banner",
+    "message": "Spanduk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryLogo",
+    "description": "Category Logo",
+    "defaultMessage": "Logo",
+    "message": "Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixedFareType",
+    "description": "Fixed fare Type",
+    "defaultMessage": "Fixed fare Type",
+    "message": "Jenis tarif tetap",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hourlyFareType",
+    "description": "Hourly fare type",
+    "defaultMessage": "Hourly fare type",
+    "message": "Jenis tarif per jam",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isJobPhotoRequired",
+    "description": "isJobPhotoRequired",
+    "defaultMessage": "Allow users to upload photos for the job",
+    "message": "Izinkan pengguna mengunggah foto untuk pekerjaan itu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isPopular",
+    "description": "Is-Popular",
+    "defaultMessage": "Is-Popular",
+    "message": "Adalah populer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.legal",
+    "description": "legal",
+    "defaultMessage": "Legal",
+    "message": "Hukum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.name",
+    "description": "name",
+    "defaultMessage": "Name",
+    "message": "Nama",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerServiceFee",
+    "description": "Service Provider Service Fee",
+    "defaultMessage": "Service Provider Service Fee",
+    "message": "Biaya Layanan Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pricingType",
+    "description": "Pricing Type",
+    "defaultMessage": "Pricing Type",
+    "message": "Jenis harga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategoryMenu",
+    "description": "Manage SubCategory",
+    "defaultMessage": "Manage Sub Category",
+    "message": "Kelola Sub Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userServiceFee",
+    "description": "User Service Fee",
+    "defaultMessage": "User Service Fee",
+    "message": "Biaya Layanan Pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.usersMenu",
+    "description": "usersMenu",
+    "defaultMessage": "Manage Users",
+    "message": "Kelola pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addSubCategory",
+    "description": "Add subcategory form header",
+    "defaultMessage": "Add Sub Category",
+    "message": "Tambahkan Sub Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editSubCategory",
+    "description": "Edit subcategory form header",
+    "defaultMessage": "Edit Sub Category",
+    "message": "Edit Sub Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editUser",
+    "description": "Edit User form header",
+    "defaultMessage": "Edit User",
+    "message": "Edit pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.basePrice",
+    "description": "base price amount",
+    "defaultMessage": "Base Price",
+    "message": "Harga dasar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hourlyPrice",
+    "description": "Hourly Price",
+    "defaultMessage": "Hourly Price",
+    "message": "Harga per jam",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isPriceEditable",
+    "description": "Can be editable by service provider?",
+    "defaultMessage": "Can be editable by service provider?",
+    "message": "Dapat dapat diedit oleh penyedia layanan?",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maxQuantity",
+    "description": "Maximum Quantity",
+    "defaultMessage": "Maximum Quantity",
+    "message": "Jumlah maksimum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minHours",
+    "description": "Minimum Hours",
+    "defaultMessage": "Minimum Hours",
+    "message": "Jam minimum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategory",
+    "description": "SubCategory",
+    "defaultMessage": "Sub Category",
+    "message": "Sub kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategoryName",
+    "description": "subCategoryName",
+    "defaultMessage": "Sub Category Name",
+    "message": "Nama Sub Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.travelCharge",
+    "description": "Travelling Charge",
+    "defaultMessage": "Visit Fee",
+    "message": "Kunjungi biaya",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowableDistaceField",
+    "description": "allowableDistaceField",
+    "defaultMessage": "Maximum Allowable distance",
+    "message": "Jarak maksimum yang diijinkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowableDistaceTitle",
+    "description": "allowableDistaceTitle",
+    "defaultMessage": "Maximum distance to cover while fetching service providers",
+    "message": "Jarak maksimum untuk ditempuh saat mengambil penyedia layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedServices",
+    "description": "allowedServices",
+    "defaultMessage": "Maximum jobs that users can book",
+    "message": "Pekerjaan maksimum yang dapat dipesan pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedServicesTitle",
+    "description": "allowedServicesTitle",
+    "defaultMessage": "Manage maximum jobs that users can book",
+    "message": "Mengelola pekerjaan maksimum yang dapat dipesan pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notificationInterval",
+    "description": "notificationInterval",
+    "defaultMessage": "Job acceptance time for the service provider",
+    "message": "Waktu Penerimaan Pekerjaan untuk Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerAndriodVersion",
+    "description": "Andriod",
+    "defaultMessage": "Service Provider Android Version",
+    "message": "Versi Android Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerPrivacyPolicy",
+    "description": "Title",
+    "defaultMessage": "Service Provider Privacy Policy",
+    "message": "Kebijakan Privasi Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partneriosVersion",
+    "description": "iOS",
+    "defaultMessage": "Service Provider iOS Version",
+    "message": "Penyedia Layanan Versi iOS",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userAndriodVersion",
+    "description": "userAndriodVersion",
+    "defaultMessage": "User Android Version",
+    "message": "Versi Android Pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.useriosVersion",
+    "description": "useriosVersion",
+    "defaultMessage": "User iOS Version",
+    "message": "Versi iOS pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPartner",
+    "description": "Edit Service Provider form header",
+    "defaultMessage": "Edit Service Provider",
+    "message": "Edit penyedia layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerMenu",
+    "description": "partnerMenu",
+    "defaultMessage": "Manage Service Providers",
+    "message": "Kelola penyedia layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCatbackGroundImageegoryName",
+    "description": "backGroundImage",
+    "defaultMessage": "Background Image",
+    "message": "Gambar latar belakang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maximumEmergencyContact",
+    "description": "maximumEmergencyContact",
+    "defaultMessage": "Maximum Emergency Contact",
+    "message": "Kontak darurat maksimum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoCodeImage",
+    "description": "title",
+    "defaultMessage": "Promo Code Image",
+    "message": "Gambar kode promo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.activePartners",
+    "description": "activePartners",
+    "defaultMessage": "Active Service Providers",
+    "message": "Penyedia layanan aktif",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availablePartners",
+    "description": "availablePartners",
+    "defaultMessage": "Available Service Providers",
+    "message": "Penyedia layanan yang tersedia",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppTextPartner",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Service Provider App",
+    "message": "Unduh aplikasi penyedia layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePartnerPayout",
+    "description": "Manage Service Provider Payouts",
+    "defaultMessage": "Manage Service Provider Payouts",
+    "message": "Kelola Pembayaran Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Service Provider Billing Information",
+    "message": "Informasi Penagihan Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerEarnings",
+    "description": "Label",
+    "defaultMessage": "Service Provider Earnings",
+    "message": "Penghasilan Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerEmail",
+    "description": "Service Provider Email",
+    "defaultMessage": "Service Provider Email",
+    "message": "Email Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerName",
+    "description": "Service Provider Name",
+    "defaultMessage": "Service Provider Name",
+    "message": "Nama Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerPayout",
+    "description": "managePayout",
+    "defaultMessage": "Service Provider Payout",
+    "message": "Pembayaran Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerappcntn",
+    "description": "Fares",
+    "defaultMessage": "Service Provider App Content",
+    "message": "Konten Aplikasi Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerapptitle",
+    "description": "Fares",
+    "defaultMessage": "Service Provider App Title",
+    "message": "Judul Aplikasi Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partners",
+    "description": "partner",
+    "defaultMessage": "Service Providers",
+    "message": "Penyedia jasa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsGivenToPartner",
+    "description": "Label",
+    "defaultMessage": "Tips given to the service provider",
+    "message": "Tips yang diberikan kepada penyedia layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsReceivedFromUser",
+    "description": "Label",
+    "defaultMessage": "Tips received from the user",
+    "message": "Tips yang diterima dari pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unActivatedPartners",
+    "description": "unActivatedPartners",
+    "defaultMessage": "Unactivated Service Providers",
+    "message": "Penyedia layanan yang tidak diaktifkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unAvailablePartners",
+    "description": "unAvailablePartners",
+    "defaultMessage": "Unavailable Service Providers",
+    "message": "Penyedia layanan yang tidak tersedia",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userAppContent",
+    "description": "Change Password",
+    "defaultMessage": "User App Content",
+    "message": "Konten aplikasi pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userApptitle",
+    "description": "Change Password",
+    "defaultMessage": "User App Title",
+    "message": "Judul Aplikasi Pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userBillingInformation",
+    "description": "Label",
+    "defaultMessage": "User Billing Information",
+    "message": "Informasi penagihan pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userEmail",
+    "description": "User Email",
+    "defaultMessage": "User Email",
+    "message": "Email pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userName",
+    "description": "User Name",
+    "defaultMessage": "User Name",
+    "message": "Nama belakang",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userPayableAmount",
+    "description": "userPayableAmount",
+    "defaultMessage": "User Payable Amount",
+    "message": "Jumlah yang dapat dibayar pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availableDrivers",
+    "description": "availableDrivers",
+    "defaultMessage": "Available Drivers",
+    "message": "Driver yang tersedia",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCancelledBookings",
+    "description": "manageCancelledBookings sidemenu",
+    "defaultMessage": "Cancelled Jobs",
+    "message": "Pekerjaan yang dibatalkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCompletedBooking",
+    "description": "CompletedBooking sidemenu",
+    "defaultMessage": "Completed Jobs",
+    "message": "Pekerjaan yang telah selesai",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unActivatedDrivers",
+    "description": "unActivatedDrivers",
+    "defaultMessage": "Unactivated Drivers",
+    "message": "Pengemudi yang tidak diaktifkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unAvailableDrivers",
+    "description": "unAvailableDrivers",
+    "defaultMessage": "Unavailable Drivers",
+    "message": "Pengemudi yang tidak tersedia",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userExperience",
+    "description": "userExperience",
+    "defaultMessage": "User Experience",
+    "message": "Pengalaman pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userIdentity",
+    "description": "userIdentity",
+    "defaultMessage": "User Identity",
+    "message": "Identitas Pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.welcomeAdminLabel",
+    "description": "Welcome Admin !!!",
+    "defaultMessage": "Welcome Admin !!!",
+    "message": "Selamat datang Admin !!!",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.additionalFee",
+    "description": "Additional Charge",
+    "defaultMessage": "Additional Charge",
+    "message": "Biaya tambahan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.arrived",
+    "description": "Arrived",
+    "defaultMessage": "Arrived",
+    "message": "Tiba",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.duration",
+    "description": "duration",
+    "defaultMessage": "Job acceptance time",
+    "message": "Waktu penerimaan pekerjaan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.earningsLabel",
+    "description": "Earnings",
+    "defaultMessage": "Earnings",
+    "message": "Pendapatan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.estimatedPrice",
+    "description": "estimatedPrice",
+    "defaultMessage": "Estimated price",
+    "message": "Perkiraan harga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hideDescription",
+    "description": "View Listing",
+    "defaultMessage": "Hide description",
+    "message": "Sembunyikan deskripsi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.itemTotal",
+    "description": "Label",
+    "defaultMessage": "Item Total",
+    "message": "Total item",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.job",
+    "description": "job",
+    "defaultMessage": "Job list",
+    "message": "Daftar Pekerjaan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobCompleted",
+    "description": "Job Completed",
+    "defaultMessage": "Job Completed",
+    "message": "Pekerjaan selesai",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobDescription",
+    "description": "jobDescription",
+    "defaultMessage": "Job description",
+    "message": "Uraian Tugas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobDetails",
+    "description": "jobDetails",
+    "defaultMessage": "Job Details",
+    "message": "Rincian pekerjaan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobLocation",
+    "description": "jobLocation",
+    "defaultMessage": "Job location",
+    "message": "Lokasi kerja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobPhoto",
+    "description": "hide",
+    "defaultMessage": "Job photos",
+    "message": "Foto pekerjaan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobProgress",
+    "description": "jobProgress",
+    "defaultMessage": "Job Progress",
+    "message": "Kemajuan Pekerjaan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobRequestWindow",
+    "description": "jobRequestWindow",
+    "defaultMessage": "Manage service provider app's job request window information",
+    "message": "Kelola Informasi Jendela Permintaan Pekerjaan Penyedia Layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobStarted",
+    "description": "Job Started",
+    "defaultMessage": "Job Started",
+    "message": "Pekerjaan dimulai",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerNumber",
+    "description": "Service Provider Number",
+    "defaultMessage": "Service Provider Phone Number",
+    "message": "Nomor telepon penyedia layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformDiscount",
+    "description": "Special platformDiscount",
+    "defaultMessage": "Platform offered discount",
+    "message": "Platform menawarkan diskon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestAccepted",
+    "description": "Request Accepted",
+    "defaultMessage": "Request Accepted",
+    "message": "Permintaan diterima",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestCancelled",
+    "description": "Request Cancelled",
+    "defaultMessage": "Request Cancelled",
+    "message": "Permintaan dibatalkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestCreated",
+    "description": "Request Created",
+    "defaultMessage": "Request Created",
+    "message": "Permintaan dibuat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestDecline",
+    "description": "Request Declined",
+    "defaultMessage": "Request Declined",
+    "message": "Permintaan menurun",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestReviewed",
+    "description": "Request Reviewed",
+    "defaultMessage": "Request Reviewed",
+    "message": "Permintaan ditinjau",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.serviceFee",
+    "description": "serviceFee",
+    "defaultMessage": "Service Fee",
+    "message": "Biaya jasa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.showDescription",
+    "description": "View Listing",
+    "defaultMessage": "Show more description",
+    "message": "Tampilkan lebih banyak deskripsi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategories",
+    "description": "subCategories",
+    "defaultMessage": "Sub Categories",
+    "message": "Sub kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalEarnings",
+    "description": "Earnings",
+    "defaultMessage": "Total Earnings",
+    "message": "Total Penghasilan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalWorkingHours",
+    "description": "Total working hours",
+    "defaultMessage": "Total working hours =",
+    "message": "Total jam kerja =",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userDiscount",
+    "description": "discount text",
+    "defaultMessage": "Coupon Discount",
+    "message": "Diskon kupon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userNumber",
+    "description": "User Number",
+    "defaultMessage": "User Phone Number",
+    "message": "Nomor telepon pengguna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateInterval",
+    "description": "validateInterval",
+    "defaultMessage": "Notification interval must be greater than 0.5 min",
+    "message": "Interval pemberitahuan harus lebih besar dari 0,5 menit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.eligibleForAService",
+    "description": "text",
+    "defaultMessage": "Eligible for a Service",
+    "message": "Memenuhi syarat untuk suatu layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notEligibleForAService",
+    "description": "text",
+    "defaultMessage": "Not eligible for a Service",
+    "message": "Tidak memenuhi syarat untuk suatu layanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.accountId",
+    "description": "ACCOUNT_SID",
+    "defaultMessage": "ACCOUNT_SID",
+    "message": "Account_sid",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.apiKey",
+    "description": "API KEY",
+    "defaultMessage": "API KEY",
+    "message": "KUNCI API",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.appOpenTrip",
+    "description": "appOpenTrip",
+    "defaultMessage": "Open the provider app when a request notification is received",
+    "message": "Buka aplikasi penyedia saat pemberitahuan permintaan diterima",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editSmsMethod",
+    "description": "editSmsMethod",
+    "defaultMessage": "Edit SMS Methods",
+    "message": "Edit Metode SMS",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobId",
+    "description": "Job",
+    "defaultMessage": "Job ID",
+    "message": "ID Pekerjaan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobs",
+    "description": "jobs",
+    "defaultMessage": "Jobs",
+    "message": "Pekerjaan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageSmsMethod",
+    "description": "manageSmsMethod",
+    "defaultMessage": "Manage SMS Methods",
+    "message": "Kelola metode SMS",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noLimit",
+    "description": "noLimit",
+    "defaultMessage": "No Limit",
+    "message": "Tidak terbatas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.records",
+    "description": "records",
+    "defaultMessage": "Records per page",
+    "message": "Catatan per halaman",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestTone",
+    "description": "requestTone",
+    "defaultMessage": "Request accept timer tone",
+    "message": "Minta menerima nada pengatur waktu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.secretId",
+    "description": "AUTHTOKEN",
+    "defaultMessage": "AUTHTOKEN",
+    "message": "AuthToken",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.secretKey",
+    "description": "SECRET KEY",
+    "defaultMessage": "SECRET KEY",
+    "message": "KUNCI RAHASIA",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.uploadRequestTone",
+    "description": "uploadRequestTone",
+    "defaultMessage": "Upload timer tone",
+    "message": "Unggah nada timer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.viewJob",
+    "description": "view Job",
+    "defaultMessage": "View job",
+    "message": "Lihat pekerjaan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.receipt",
+    "description": "receipt",
+    "defaultMessage": "Receipt",
+    "message": "Resi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageSchedule",
+    "description": "manageSchedule",
+    "defaultMessage": "Manage Schedule Booking",
+    "message": "Kelola pemesanan jadwal",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduleBooking",
+    "description": "Label",
+    "defaultMessage": "Schedule Bookings",
+    "message": "Jadwalkan pemesanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduleBookingHistory",
+    "description": "Heading",
+    "defaultMessage": "Schedule Booking History",
+    "message": "Jadwalkan riwayat pemesanan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduled",
+    "description": "Trip status",
+    "defaultMessage": "Scheduled",
+    "message": "Dijadwalkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduledFrom",
+    "description": "Label",
+    "defaultMessage": "Scheduled From",
+    "message": "Dijadwalkan dari",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduledTo",
+    "description": "Label",
+    "defaultMessage": "Scheduled To",
+    "message": "Dijadwalkan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.defaultScheduleInterval",
+    "description": "defaultScheduleInterval",
+    "defaultMessage": "Default Schedule Interval",
+    "message": "Interval jadwal default",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateScheduleInterval",
+    "description": "validateScheduleInterval",
+    "defaultMessage": "Schedule interval must be greater than 20 min",
+    "message": "Jadwal interval harus lebih besar dari 20 menit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestScheduled",
+    "description": "Request Scheduled",
+    "defaultMessage": "Request Scheduled",
+    "message": "Permintaan Terjadwal",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  }
+]

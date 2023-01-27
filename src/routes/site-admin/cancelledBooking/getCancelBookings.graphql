@@ -1,0 +1,36 @@
+
+  query getCancelledBookings($currentPage: Int, $searchList: String){
+  getCancelledBookings(currentPage: $currentPage, searchList:$searchList){
+   count
+   status
+   results{
+        id
+        userLocation
+        currency
+        status
+        partnerDetails{
+          firstName
+          userData{
+            email
+          }
+        }
+        userDetails{
+          firstName
+          userData{
+            email
+          }
+        }
+        categoryDetails{
+          name
+        }
+        cancelReason {
+          reason
+        }
+        totalRideDistance
+        totalFare
+        messageData{
+          threadItemsCount
+        }
+    }
+  }
+}

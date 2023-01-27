@@ -1,0 +1,14 @@
+@import '../../../components/variables.css';
+@import '../../../components/Common.css';
+@import '../../../components/responsive-common.css';
+.disFlex{
+    display: flex;
+    justify-content: center;
+}
+.padding{
+    display: inline-block;
+    padding: 0 5px;
+}
+
+
+

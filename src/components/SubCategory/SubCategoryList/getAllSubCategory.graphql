@@ -1,0 +1,15 @@
+query getAllSubCategory($currentPage: Int, $searchList: String){
+  getAllSubCategory(currentPage: $currentPage, searchList: $searchList){
+   count
+    results{
+        id
+        name
+        description
+        image
+        status
+        createdAt
+        updatedAt
+        categoryName
+    }
+  }
+}

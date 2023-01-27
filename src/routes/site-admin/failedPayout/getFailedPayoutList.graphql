@@ -1,0 +1,20 @@
+
+  query getFailedPayoutList($currentPage: Int, $searchList: String){
+  getFailedPayoutList(currentPage: $currentPage, searchList:$searchList){
+   count
+   results{
+      id
+      bookingId
+      amount
+      currency
+      partnerDetails{
+        firstName
+        userData{
+          email
+        }
+      }
+      reason
+      currency
+    }
+  }
+}

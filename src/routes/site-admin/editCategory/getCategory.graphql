@@ -1,0 +1,21 @@
+query getCategory($id: Int!){
+  getCategory(id: $id){
+    result{
+      id
+      name
+      description
+      logoImage
+      bannerImage
+      isPopular
+      isJobPhotoRequired
+      travellingPrice
+      userServiceFeeValue
+      partnerServiceFeeValue
+      pricingType
+      status
+      currency
+    }
+    status
+    errorMessage
+  }
+}

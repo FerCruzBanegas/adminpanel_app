@@ -1,0 +1,48 @@
+@import '../../../components/variables.css';
+@import '../../../components/Common.css';
+@import '../../../components/responsive-common.css';
+
+
+.userStatusBadge {
+  margin-left: 10px;
+  font-size: 14px;
+  font-weight: normal;
+  vertical-align: middle;
+}
+.positionPhoneField{
+  position: relative;
+  top: 38px;
+}
+.bannerImageBg{
+  width: 120px;
+  height: 120px;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+}
+.bannerDelete{
+  position: absolute;
+  top: -7px;
+  right: -7px;
+}
+.positionRelative{
+  position: relative;
+  margin: 12px 15px 15px 0;
+}
+@media (max-width:1199px) and (min-width:1024px) {
+  .positionPhoneField{
+    top: 33px;
+  }
+  }
+  
+  
+  @media (max-width:1023px) and (min-width:768px) {
+    .positionPhoneField{
+      top: 8px;
+    }
+  }
+  @media (max-width: 767px){
+    .positionPhoneField{
+      top: 6px;
+    }
+  }

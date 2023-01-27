@@ -1,0 +1,12 @@
+query getAllHomePageCategorySettings {
+        getAllHomePageCategorySettings {
+            status
+            errorMessage
+            results{
+            title
+            description
+            logo
+            banner
+            }
+        }
+}

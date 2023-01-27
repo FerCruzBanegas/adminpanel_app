@@ -1,0 +1,33 @@
+@import '../../variables.css';
+@import '../../Common.css';
+@import '../../responsive-common.css';
+.safetyContainer {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 40px 50px 0;
+}
+.signUp h3 {
+    font-size: 40px;
+    color: #000000;
+    font-weight: 400;
+    letter-spacing: 1.6px;
+}
+.signUp p {
+    font-size: 20px;
+    color: #464646;
+    word-spacing: 1px;
+    letter-spacing: 0.18px;
+    margin: 25px 0 0 0;
+}
+
+.appImg {
+    width: 100%;
+    max-width: 232px;
+}
+.paddingRight {
+    padding-right: 15px;
+}
+.paddingLeft {
+    padding-left: 6px;
+}

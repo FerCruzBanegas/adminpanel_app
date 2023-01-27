@@ -1,0 +1,52 @@
+@import '../../variables.css';
+@import '../../Common.css';
+@import '../../responsive-common.css';
+
+.aboutContainer{
+    padding: 120px 0 140px;
+}
+.gridSystem{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background: transparent;
+}
+.padding{
+    padding: 52px 0 0 60px;
+}
+.imgWidthCategory{
+    width:100%;
+}
+.titleFont{
+    font-size: 40px;
+    color: #161616;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.contentFont{
+    font-size: 18px;
+    color: #39483A;
+    margin-top: 20px;
+}
+.bgColor{
+    margin-bottom: 55px;
+}
+.bgColor:nth-of-type(odd){
+    background: transparent;
+}
+.bgColor:nth-of-type(even){
+    background: #FFFDF7;
+    padding: 84px 0;
+}
+.bgColor:nth-of-type(even) .orderOne{
+    order: 2;
+}
+.bgColor:nth-of-type(even) .orderTwo{
+    order: 1;
+    padding: 52px 25px 0 0px;
+}
+.bgColor:first-child{
+    margin-top: 55px;
+}
+.bgColor:last-child{
+    margin-bottom: 0;
+}

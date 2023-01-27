@@ -1,0 +1,15 @@
+query ($id: String!, $period: String!, $limit: Int) {
+  getMapViewData(id: $id, period: $period, limit: $limit) {
+      status
+      results {
+        id
+        userType
+        isActive
+        activeStatus
+        profile {
+          lat
+          lng
+        }
+    }
+  }
+}

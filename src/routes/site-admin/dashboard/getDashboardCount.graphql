@@ -1,0 +1,35 @@
+{
+  getDashboardCount{
+    result{
+      totalPartnersCount
+      todayPartnersCount
+      weekPartnersCount
+      monthPartnersCount
+      totalUsersCount
+      todayUsersCount
+      weekUsersCount
+      monthUsersCount
+      totalBookingsCount
+      todayBookingsCount
+      weekBookingsCount
+      monthBookingsCount
+      todayEarnings {
+        userServiceFee
+        partnerServiceFee
+      }
+      weeklyEarnings {
+        userServiceFee
+        partnerServiceFee
+      }
+      monthlyEarnings {
+        userServiceFee
+        partnerServiceFee
+      }
+      totalEarnings {
+        userServiceFee
+        partnerServiceFee
+      }
+      currency
+    }
+  }
+}

@@ -1,0 +1,5490 @@
+[
+  {
+    "id": "exceedLimit",
+    "description": "exceedLimit",
+    "defaultMessage": "Maximum allowed character is 255.",
+    "message": "Maximalt tillåtet tecken är 255.",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.email",
+    "description": "Your Email Address to Login",
+    "defaultMessage": "Email Address",
+    "message": "E-postadress",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Ogiltig e-postadress",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "Det finns inget konto för det här e -postmeddelandet. Se till att det skrivs in korrekt, eller \"Registrera dig\" istället",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "E -post krävs",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "Du är redan inloggad!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.password",
+    "description": "Your Password to Login",
+    "defaultMessage": "Password",
+    "message": "Lösenord",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "Ditt lösenord måste vara minst 8 tecken. Var god försök igen",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "lösenord krävs",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Fel lösenord. Var god försök igen",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Förlåt, något gick fel. Var god försök igen",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.userLoggedIn",
+    "description": "You are already Logged-in as user",
+    "defaultMessage": "You are already logged in as User, please logout in the main site to continue!",
+    "message": "Du är redan inloggad som användare, utloggning på huvudsidan för att fortsätta!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "AddListSettingsForm.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Lägg till",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNew",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "namn",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNewDescription",
+    "description": "description",
+    "defaultMessage": "Description",
+    "message": "Beskrivning",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.delete",
+    "description": "Delete Button",
+    "defaultMessage": "Delete",
+    "message": "Radera",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.required",
+    "description": "Required",
+    "defaultMessage": "*Required",
+    "message": "*Nödvändig",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.update",
+    "description": "Update Button",
+    "defaultMessage": "Update",
+    "message": "Uppdatering",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.blankSpace",
+    "description": "Password error",
+    "defaultMessage": "Password should not be blank space.",
+    "message": "Lösenord ska inte vara tomt utrymme.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailBlankSpace",
+    "description": "email address error",
+    "defaultMessage": "Email should not be blank spaces",
+    "message": "E -post bör inte vara tomma utrymmen",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailInvalid",
+    "description": "email address error",
+    "defaultMessage": "*Invalid email address",
+    "message": "*Ogiltig e-postadress",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.passwordInvalid",
+    "description": "Password minimum characters error",
+    "defaultMessage": "Password should be minimum 8 characters.",
+    "message": "Lösenordet ska vara minst 8 tecken.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "app.Amount",
+    "description": "Amount",
+    "defaultMessage": "Amount",
+    "message": "Belopp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.BaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Base Currency",
+    "message": "Basvaluta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Becomeahost",
+    "description": "Becomeahost",
+    "defaultMessage": "Become a host",
+    "message": "Bli värd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Disable",
+    "description": "Ban Status",
+    "defaultMessage": "Disable",
+    "message": "Inaktivera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Disabled",
+    "description": "Ban Status",
+    "defaultMessage": "Disabled",
+    "message": "Inaktiverad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Discover",
+    "description": "Discover",
+    "defaultMessage": "Discover",
+    "message": "Upptäck",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Enable",
+    "description": "Ban Status",
+    "defaultMessage": "Enable",
+    "message": "Gör det möjligt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Enabled",
+    "description": "Ban Status",
+    "defaultMessage": "Enabled",
+    "message": "Aktiverad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.HomeSiteSettings",
+    "description": "HomeSiteSettings",
+    "defaultMessage": "Homepage Settings",
+    "message": "Hemsida inställningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Hosting",
+    "description": "Hosting",
+    "defaultMessage": "Hosting",
+    "message": "Hosting",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Preferred Distance Type",
+    "description": "Preferred Distance Type",
+    "defaultMessage": "Preferred Distance Type",
+    "message": "Föredragen distansstyp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Safety",
+    "description": "Safety",
+    "defaultMessage": "Safety",
+    "message": "Säkerhet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Support",
+    "description": "Ban Status",
+    "defaultMessage": "Support",
+    "message": "Stöd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Terms",
+    "description": "Terms",
+    "defaultMessage": "Terms & Privacy",
+    "message": "Villkor och integritet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Travel",
+    "description": "Trust",
+    "defaultMessage": "Travel Credit",
+    "message": "Resekredit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Trust",
+    "description": "Trust",
+    "defaultMessage": "Trust & Safety",
+    "message": "Förtroende och säkerhet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Wooberly",
+    "description": "Wooberly",
+    "defaultMessage": "Wooberly",
+    "message": "Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.about",
+    "description": "About Nav link",
+    "defaultMessage": "About",
+    "message": "Handla om",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutFooter",
+    "description": "AboutFooter",
+    "defaultMessage": "About Us",
+    "message": "Om oss",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutFooterDesc",
+    "description": "aboutFooterDesc",
+    "defaultMessage": "An cum maiorum repudiandae, cu eam dolore bonorum probatus. Et legere sanctus cum, quot nostrud postulant ex mei. Ad ullum audire admodum eos. Ne eam quod habeo aeque, ad decoreos.",
+    "message": "En cum maiorum repudiandae, cu eam dolore bonorum probatus. ET LEGERE SANCTUS CUM, QUT NOSTRUD POSTULANT EX MEI. Ad ullum audire admodum eos. Ne eam quod habeo aeque, annons Decoreos.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutImage1",
+    "description": "Feature Icon 1",
+    "defaultMessage": "Feature Icon #1",
+    "message": "Funktionsikon nr 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutImage2",
+    "description": "Feature Icon 2",
+    "defaultMessage": "Feature Icon #2",
+    "message": "Funktionsikon nr 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutSectionSettings",
+    "description": "Top Features Settings",
+    "defaultMessage": "Top Features",
+    "message": "Toppfunktioner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.action",
+    "description": "Action",
+    "defaultMessage": "Action",
+    "message": "Handling",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.active",
+    "description": "Active Status",
+    "defaultMessage": "Active",
+    "message": "Aktiva",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Lägg till",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addAdminRole",
+    "description": "Title",
+    "defaultMessage": "Add Admin Role",
+    "message": "Lägg till administratörsroll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addAdminUserLabel",
+    "description": "Add Admin User",
+    "defaultMessage": "Add Admin User",
+    "message": "Lägg till administratörsanvändare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCancelReason",
+    "description": "Add Cancel Reason",
+    "defaultMessage": "Add Cancel Reason",
+    "message": "Lägg till avbryt skäl",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCategory",
+    "description": "Add category form header",
+    "defaultMessage": "Add Category",
+    "message": "Lägg till Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addFare",
+    "description": "Button",
+    "defaultMessage": "Add Fare",
+    "message": "Lägga till pris",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addLocation",
+    "description": "addLocation",
+    "defaultMessage": "Add Location",
+    "message": "Lägg till plats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addNewLabel",
+    "description": "Add New",
+    "defaultMessage": "Add New",
+    "message": "Lägg till ny",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addOnly",
+    "description": "Fares",
+    "defaultMessage": "Address",
+    "message": "Adress",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addPage",
+    "description": "Add Page",
+    "defaultMessage": "Add Page",
+    "message": "Lägg till sidan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addPromoCode",
+    "description": "Add PromoCode",
+    "defaultMessage": "Add Promo Code",
+    "message": "Lägg till kampanjkod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adeditFaredFare",
+    "description": "Button",
+    "defaultMessage": "Edit Fare",
+    "message": "Redigera pris",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminName",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "namn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminRole",
+    "description": "Admin Role",
+    "defaultMessage": "Admin Role",
+    "message": "Administrationsroll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminUserLabel",
+    "description": "Admin User",
+    "defaultMessage": "Admin User",
+    "message": "Administratör",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminpanel",
+    "description": "admin panel",
+    "defaultMessage": "Admin Panel",
+    "message": "Administratör",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allonly",
+    "description": "Fares",
+    "defaultMessage": "All",
+    "message": "Allt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedPaymentCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Allowed Payment Currency",
+    "message": "Tillåtet betalningsvaluta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.approve",
+    "description": "Approve",
+    "defaultMessage": "Approve",
+    "message": "Godkänna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.approved",
+    "description": "Approved Status",
+    "defaultMessage": "Approved",
+    "message": "Godkänd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.appstorelink",
+    "description": "Fares",
+    "defaultMessage": "App Store Link",
+    "message": "Appbutiklänk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.askQuestion",
+    "description": "Ban Status",
+    "defaultMessage": "Ask a question",
+    "message": "Ställa en fråga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availableSeats",
+    "description": "Available Seats",
+    "defaultMessage": "Available Seats",
+    "message": "Tillgängliga platser",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.ban",
+    "description": "Ban Status",
+    "defaultMessage": "Ban",
+    "message": "Förbjuda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.banStatus",
+    "description": "Ban Status Permit/Ban",
+    "defaultMessage": "Ban Status",
+    "message": "Förbudsstatus",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bannerDesc",
+    "description": "Description in header",
+    "defaultMessage": "Complex web apps made easy",
+    "message": "Komplexa webbappar gjorde enkla",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bannerTitle",
+    "description": "Title in page header",
+    "defaultMessage": "React",
+    "message": "Reagera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingDetails",
+    "description": "Booking Details",
+    "defaultMessage": "Booking Details",
+    "message": "Bokningsdetaljer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingId",
+    "description": "Booking ID",
+    "defaultMessage": "Booking ID",
+    "message": "Boknings -ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookings",
+    "description": "bookings",
+    "defaultMessage": "Bookings",
+    "message": "Bokningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingsMenu",
+    "description": "bookingsMenu",
+    "defaultMessage": "Manage Jobs",
+    "message": "Hantera jobb",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.brand",
+    "description": "Brand name displayed in header",
+    "defaultMessage": "app",
+    "message": "app",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.button",
+    "description": "Button",
+    "defaultMessage": "Button",
+    "message": "Knapp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.buttonLabel",
+    "description": "Change Password",
+    "defaultMessage": "Button Label",
+    "message": "Knappetikett",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelButton",
+    "description": "Cancel",
+    "defaultMessage": "Cancel",
+    "message": "Avbryt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Avbryta förnuftet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancellationReasons",
+    "description": "Cancellation Reasons",
+    "defaultMessage": "Cancellation Reasons",
+    "message": "Avbokningsskäl",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledBy",
+    "description": "Cancelled By",
+    "defaultMessage": "Cancelled By",
+    "message": "Avbruten av",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.capacity",
+    "description": "Capacity",
+    "defaultMessage": "Capacity",
+    "message": "Kapacitet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.card",
+    "description": "Card",
+    "defaultMessage": "Card",
+    "message": "Kort",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cash",
+    "description": "Cash",
+    "defaultMessage": "Cash",
+    "message": "Kontanter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categorieslist",
+    "description": "categoryMenu",
+    "defaultMessage": "Categories",
+    "message": "Kategorier",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.category",
+    "description": "Category",
+    "defaultMessage": "Category",
+    "message": "Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryContent",
+    "description": "Category Content",
+    "defaultMessage": "Category Content",
+    "message": "Kategoriinnehåll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryIcon",
+    "description": "",
+    "defaultMessage": "Category Icon",
+    "message": "Kategorikon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryId",
+    "description": "Category ID",
+    "defaultMessage": "Category ID",
+    "message": "Kategori ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryMapMarker",
+    "description": "",
+    "defaultMessage": "Category Map Marker",
+    "message": "Kategorikartmarkör",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryMenu",
+    "description": "categoryMenu",
+    "defaultMessage": "Manage Categories",
+    "message": "Hantera kategorier",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryName",
+    "description": "Category Name",
+    "defaultMessage": "Category Name",
+    "message": "kategori namn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryTitle",
+    "description": "Category Title",
+    "defaultMessage": "Category Title",
+    "message": "Kategorititel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.changeAdminPassword",
+    "description": "Change Admin Email/Password",
+    "defaultMessage": "Change Admin Email/Password",
+    "message": "Ändra administratörens e -post/lösenord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.changePassword",
+    "description": "Change Password",
+    "defaultMessage": "Change Password",
+    "message": "Ändra lösenord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chatLabel",
+    "description": "Chat",
+    "defaultMessage": "Chat",
+    "message": "Chatt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chatMessageLabel",
+    "description": "Chat Message",
+    "defaultMessage": "Chat Message",
+    "message": "Chattmeddelande",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.checkmein",
+    "description": "Fares",
+    "defaultMessage": "Check me in",
+    "message": "Kolla in mig",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.checkmeout",
+    "description": "Fares",
+    "defaultMessage": "Check me out",
+    "message": "Kolla in mig",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chooseFile",
+    "description": "",
+    "defaultMessage": "Choose File",
+    "message": "Välj FIL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chooseLanguageLabel",
+    "description": "Choose a Language",
+    "defaultMessage": "Choose a Language",
+    "message": "Välj ett språk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.city",
+    "description": "city",
+    "defaultMessage": "Lorem Ipsum is simply dummy text",
+    "message": "Lorem ipsum är helt enkelt dummy -text",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.citySectionSettings",
+    "description": "Category Settings",
+    "defaultMessage": "Category",
+    "message": "Kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.code",
+    "description": "text",
+    "defaultMessage": "Code",
+    "message": "Koda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.comments",
+    "description": "Comments",
+    "defaultMessage": "Comments",
+    "message": "Kommentarer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.completed",
+    "description": "Completed Status",
+    "defaultMessage": "Completed",
+    "message": "Avslutad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.completedLabel",
+    "description": "Label",
+    "defaultMessage": "Completed",
+    "message": "Avslutad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.confirmPassword",
+    "description": "Change Password",
+    "defaultMessage": "Confirm Password",
+    "message": "Bekräfta lösenord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contact",
+    "description": "Contact Nav link",
+    "defaultMessage": "Contact",
+    "message": "Kontakt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactUs",
+    "description": "contact",
+    "defaultMessage": "Contact Us",
+    "message": "Kontakta oss",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content",
+    "description": "Content 1",
+    "defaultMessage": "Content",
+    "message": "Innehåll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content1",
+    "description": "Content 1",
+    "defaultMessage": "Content 1",
+    "message": "Innehåll 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content2",
+    "description": "Content 2",
+    "defaultMessage": "Content 2",
+    "message": "Innehåll 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content3",
+    "description": "Content 3",
+    "defaultMessage": "Content 3",
+    "message": "Innehåll 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content4",
+    "description": "Content 4",
+    "defaultMessage": "Content 4",
+    "message": "Innehåll 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content5",
+    "description": "Content 5",
+    "defaultMessage": "Content 5",
+    "message": "Innehåll 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content6",
+    "description": "Content 6",
+    "defaultMessage": "Content 6",
+    "message": "Innehåll 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contentpageManagement",
+    "description": "Content Management",
+    "defaultMessage": "Content Management",
+    "message": "Innehållshantering",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.copyRightcontent",
+    "description": "Change Password",
+    "defaultMessage": "Copyrights content",
+    "message": "Upphovsrättinnehåll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.copyRights",
+    "description": "Copy Rights",
+    "defaultMessage": "Wooberly 2020. All Rights Reserved",
+    "message": "WOOBERLY 2020. Alla rättigheter reserverade",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.country",
+    "description": "Country Name",
+    "defaultMessage": "Country",
+    "message": "Land",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.countryCodeError",
+    "description": "Invalid Country Code",
+    "defaultMessage": "Invalid Country Code",
+    "message": "Ogiltig landskod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.createdAt",
+    "description": "Created date",
+    "defaultMessage": "Account Created on",
+    "message": "Konto skapat på",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.credentialError",
+    "description": "Fares",
+    "defaultMessage": "Sorry, a critical error occurred on this page.",
+    "message": "Tyvärr, ett kritiskt fel inträffade på den här sidan.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currencies",
+    "description": "Ban Status",
+    "defaultMessage": "Currencies",
+    "message": "Valutor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currency",
+    "description": "Currency Type",
+    "defaultMessage": "Currency",
+    "message": "Valuta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currencyList",
+    "description": "Manage Currency",
+    "defaultMessage": "Manage Currency",
+    "message": "Hantera valuta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dashboard",
+    "description": "dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "instrumentbräda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.decline",
+    "description": "Decline",
+    "defaultMessage": "Decline",
+    "message": "Nedgång",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.declined",
+    "description": "Declined Status",
+    "defaultMessage": "Declined",
+    "message": "Tackade nej",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.deleteAction",
+    "description": "Delete action name",
+    "defaultMessage": "Delete",
+    "message": "Radera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.description",
+    "description": "text",
+    "defaultMessage": "Description",
+    "message": "Beskrivning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.details",
+    "description": "Details",
+    "defaultMessage": "Details",
+    "message": "Information",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.discount",
+    "description": "text",
+    "defaultMessage": "Discount",
+    "message": "Rabatt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "Delectus Scaevola Avaboraret Vel AD, Vis No Noster Vocent Prodesset, Nec Ei Omittantur Dissentiet. Nobis Postea ei est.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppText",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The User App",
+    "message": "Ladda ner användarappen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropLocation",
+    "description": "Drop Location",
+    "defaultMessage": "Drop Location",
+    "message": "Droppplats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropzoneUpload",
+    "description": "Dropzone upload info",
+    "defaultMessage": "Upload a file from your computer",
+    "message": "Ladda upp en fil från din dator",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropzoneUploadError",
+    "description": "Dropzone upload error message",
+    "defaultMessage": "Remove the existing image and try upload again",
+    "message": "Ta bort den befintliga bilden och försök ladda upp igen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dummyText",
+    "description": "dummyText",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem ipsum är helt enkelt dummy -text i utskrifts- och inställningsindustrin. Lorem ipsum har varit Industriys standarddummitext sedan 1500 -talet, då en okänd skrivare tog en kök av typ och förvrängde den för att skapa en typ av exemplar.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.earnings",
+    "description": "Earnings",
+    "defaultMessage": "Your Earnings",
+    "message": "Dina intäkter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.edit",
+    "description": "edit",
+    "defaultMessage": "Edit",
+    "message": "Redigera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAction",
+    "description": "Edit action name",
+    "defaultMessage": "Edit",
+    "message": "Redigera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAdminRole",
+    "description": "Title",
+    "defaultMessage": "Edit Admin Role",
+    "message": "Redigera administratörsroll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAdminUserLabel",
+    "description": "Edit Admin User",
+    "defaultMessage": "Edit Admin User",
+    "message": "Redigera administratörsanvändare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editCancelReason",
+    "description": "Edit Cancel Reason",
+    "defaultMessage": "Edit Cancel Reason",
+    "message": "Redigera avbryt anledning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editCategory",
+    "description": "Edit category form header",
+    "defaultMessage": "Edit Category",
+    "message": "Redigera kategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editLocation",
+    "description": "Edit Location",
+    "defaultMessage": "Edit Location",
+    "message": "Redigera plats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPageDetails",
+    "description": "Edit Page Details",
+    "defaultMessage": "Edit Page Details",
+    "message": "Redigera siddetaljer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPromoCode",
+    "description": "Edit PromoCode",
+    "defaultMessage": "Edit Promo Code",
+    "message": "Redigera kampanjkod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Ogiltig e-postadress",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "Det finns inget konto för det här e -postmeddelandet. Se till att det skrivs in korrekt, eller \"Registrera dig\" istället",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "E -post krävs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailText",
+    "description": "Email",
+    "defaultMessage": "Email",
+    "message": "E-post",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailaddress",
+    "description": "emailaddress",
+    "defaultMessage": "Email Address",
+    "message": "E-postadress",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.enableDisable",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Enable / Disable",
+    "message": "Ställ in aktivera / inaktivera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.errorOnly",
+    "description": "Fares",
+    "defaultMessage": "Error",
+    "message": "Fel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit",
+    "description": "Exceeding character limit",
+    "defaultMessage": "Exceeding character limit",
+    "message": "Överstigande karaktärsgräns",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit100",
+    "description": "Maximum 100 words",
+    "defaultMessage": "Maximum 100 words",
+    "message": "Maximalt 100 ord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.expireDate",
+    "description": "text",
+    "defaultMessage": "Expiry Date",
+    "message": "Utgångsdatum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.expired",
+    "description": "Expired Status",
+    "defaultMessage": "Expired",
+    "message": "Utgånget",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exportDataIntoCSV",
+    "description": "Export Data into CSV",
+    "defaultMessage": "Export Data into CSV",
+    "message": "Exportera data till CSV",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.facebookUrl",
+    "description": "Fares",
+    "defaultMessage": "Facebook URL",
+    "message": "Facebookadress",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fares",
+    "description": "Fares",
+    "defaultMessage": "Fares",
+    "message": "Priser",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #1",
+    "message": "Funktionsbeskrivning nr 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #2",
+    "message": "Funktionsbeskrivning nr 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #3",
+    "message": "Funktionsbeskrivning nr 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #4",
+    "message": "Funktionsbeskrivning nr 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #5",
+    "message": "Funktionsbeskrivning #5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #6",
+    "message": "Funktionsbeskrivning nr 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #1",
+    "message": "Funktionstitel nr 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #2",
+    "message": "Funktionstitel nr 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #3",
+    "message": "Funktionstitel nr 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #4",
+    "message": "Funktionstitel nr 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #5",
+    "message": "Funktionstitel nr 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #6",
+    "message": "Funktionstitel nr 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.firstName",
+    "description": "firstName",
+    "defaultMessage": "First Name",
+    "message": "Förnamn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixed",
+    "description": "Fixed Fee Type",
+    "defaultMessage": "Fixed",
+    "message": "Fast",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixedAmount",
+    "description": "text",
+    "defaultMessage": "Fixed Amount",
+    "message": "Bestämd mängd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.floatError",
+    "description": "Numeric Error Response",
+    "defaultMessage": "It should be a number value",
+    "message": "Det bör vara ett nummervärde",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.followUs",
+    "description": "Follow Us",
+    "defaultMessage": "Follow  Us",
+    "message": "Följ oss",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerCategory",
+    "description": "Footer Category",
+    "defaultMessage": "Footer Category",
+    "message": "Sidfotkategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerContent1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Content #1",
+    "message": "Sidfotinnehåll nr 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo1",
+    "description": "Footer Logo 1",
+    "defaultMessage": "Footer Logo #1",
+    "message": "Footer -logotyp nr 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo2",
+    "description": "Footer Logo 2",
+    "defaultMessage": "Footer Logo #2",
+    "message": "Footer -logotyp nr 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo3",
+    "description": "Footer Logo 3",
+    "defaultMessage": "Footer Logo #3",
+    "message": "Footer Logo #3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo4",
+    "description": "Footer Logo 4",
+    "defaultMessage": "Footer Logo #4",
+    "message": "Footer Logo #4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerSectionSettings",
+    "description": "Footer Settings",
+    "defaultMessage": "Footer",
+    "message": "Sidfot",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Title #1",
+    "message": "Sidfot av titel nr 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerUrltitle",
+    "description": "Change Password",
+    "defaultMessage": "Footer URL Title",
+    "message": "Sidfotens url -titel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.forceUpdate",
+    "description": "forceUpdate",
+    "defaultMessage": "Force update",
+    "message": "Tvinga en uppdatering",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.form",
+    "description": "form",
+    "defaultMessage": "Form",
+    "message": "Form",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.formssidebar",
+    "description": "formssidebar",
+    "defaultMessage": "Forms",
+    "message": "Former",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.goBack",
+    "description": "Go Back Button Text",
+    "defaultMessage": "Go Back",
+    "message": "Gå tillbaka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.goToMainSite",
+    "description": "goToMainSite option",
+    "defaultMessage": "Go to main site",
+    "message": "Gå till huvudplatsen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescFive",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per GLORIATUR TINCIDUNT. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescFour",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per GLORIATUR TINCIDUNT. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescOne",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per GLORIATUR TINCIDUNT. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescSix",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per GLORIATUR TINCIDUNT. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescThree",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per GLORIATUR TINCIDUNT. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescTwo",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "Id per GLORIATUR TINCIDUNT. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitle",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleFive",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleFour",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleSix",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleThree",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleTwo",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.heading",
+    "description": "heading",
+    "defaultMessage": "Heading",
+    "message": "Rubrik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.holdPayout",
+    "description": "Hold Payout",
+    "defaultMessage": "Hold Payout",
+    "message": "Ha utbetalning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeContent",
+    "description": "Start Riding With Wooberly",
+    "defaultMessage": "Start Riding With Wooberly",
+    "message": "Börja rida med Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeContent1",
+    "description": "Banner Content",
+    "defaultMessage": "Banner Content",
+    "message": "Bannerinnehåll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage1",
+    "description": "Banner Image 1",
+    "defaultMessage": "Banner Image #1",
+    "message": "Bannerbild nr 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage2",
+    "description": "Banner Image 2",
+    "defaultMessage": "Banner Image #2",
+    "message": "Bannerbild nr 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage3",
+    "description": "Banner Image 3",
+    "defaultMessage": "Banner Image #3",
+    "message": "Bannerbild #3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage4",
+    "description": "Banner Image 4",
+    "defaultMessage": "Banner Image #4",
+    "message": "Bannerbild #4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage5",
+    "description": "Banner Image 5",
+    "defaultMessage": "Banner Image #5",
+    "message": "Bannerbild #5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage6",
+    "description": "Banner Image 6",
+    "defaultMessage": "Banner Image #6",
+    "message": "Bannerbild #6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage7",
+    "description": "Banner Image Tablet",
+    "defaultMessage": "Banner Image Tablet",
+    "message": "Bannerbildstablett",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage8",
+    "description": "Banner Image Mobile",
+    "defaultMessage": "Banner Image Mobile",
+    "message": "Bannerbild mobil",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeSectionSettings",
+    "description": "Banner Settings",
+    "defaultMessage": "Banner",
+    "message": "Baner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeTitle",
+    "description": "Banner Title",
+    "defaultMessage": "Banner Title",
+    "message": "Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeonly",
+    "description": "Fares",
+    "defaultMessage": "Home",
+    "message": "Hem",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homepageBanner",
+    "description": "Homepage Banner Settings",
+    "defaultMessage": "Homepage Banner",
+    "message": "Hemsida banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.id",
+    "description": "ID text",
+    "defaultMessage": "ID",
+    "message": "Id",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.image",
+    "description": "Label",
+    "defaultMessage": "Image",
+    "message": "Bild",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.inactive",
+    "description": "Inactive Status",
+    "defaultMessage": "Inactive",
+    "message": "Inaktiv",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.instaUrl",
+    "description": "Fares",
+    "defaultMessage": "Instagram URL",
+    "message": "Instagram URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.insuranceImage",
+    "description": "insuranceImage",
+    "defaultMessage": "Insurance Image",
+    "message": "Försäkringsbild",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.intError",
+    "description": "Integer Error Response",
+    "defaultMessage": "It should be a decimal value",
+    "message": "Det borde vara ett decimalvärde",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalidUrl",
+    "description": "Invalid Page URL",
+    "defaultMessage": "Invalid Page URL",
+    "message": "Ogiltig sid URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalidVersionNumber",
+    "description": "invalidVersionNumber",
+    "defaultMessage": "Invalid Version Number",
+    "message": "Ogiltig versionnummer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.km",
+    "description": "Km",
+    "defaultMessage": "Km",
+    "message": "Km",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.lastHours",
+    "description": "Ban Status",
+    "defaultMessage": "Last 24 hours",
+    "message": "De senaste 24 timmarna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.lastName",
+    "description": "lastName",
+    "defaultMessage": "Last Name",
+    "message": "Efternamn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.leaveEmail",
+    "description": "Change Password",
+    "defaultMessage": "Leave email address field blank if you don't want to change the email",
+    "message": "Lämna e -postadressfältet tomt om du inte vill ändra e -postmeddelandet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.licenceBackImage",
+    "description": "licenceBackImage",
+    "defaultMessage": "Licence Back Image",
+    "message": "Licens Back Bild",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.licenceFrontImage",
+    "description": "licenceFrontImage",
+    "defaultMessage": "Licence Front Image",
+    "message": "Licensfrontbild",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.listings",
+    "description": "Ban Status",
+    "defaultMessage": "Listings",
+    "message": "Listor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.loadMoreMsg",
+    "description": "Load more button",
+    "defaultMessage": "Load More",
+    "message": "Ladda mer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.location",
+    "description": "location",
+    "defaultMessage": "Manage Location",
+    "message": "Hantera plats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.locationName",
+    "description": "Table header",
+    "defaultMessage": "Location",
+    "message": "Plats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.locations",
+    "description": "Pagination",
+    "defaultMessage": "Locations",
+    "message": "Plats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "Du är redan inloggad!",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.login",
+    "description": "Login Nav link",
+    "defaultMessage": "Login",
+    "message": "Logga in",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logo",
+    "description": "Logo",
+    "defaultMessage": "Logo",
+    "message": "Logotyp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logoheight",
+    "description": "Fares",
+    "defaultMessage": "Logo Height",
+    "message": "Logotyphöjd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logout",
+    "description": "logout option",
+    "defaultMessage": "Logout",
+    "message": "Logga ut",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logowidth",
+    "description": "Fares",
+    "defaultMessage": "Logo Width",
+    "message": "Logotypbredd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdmin",
+    "description": "Manage Admins",
+    "defaultMessage": "Manage Admins",
+    "message": "Hantera administratörer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdminRoles",
+    "description": "Manage Admin Roles",
+    "defaultMessage": "Manage Admin Roles",
+    "message": "Hantera administratörsroller",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdminUsers",
+    "description": "Manage Admin Users",
+    "defaultMessage": "Manage Admin Users",
+    "message": "Hantera administratörsanvändare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Avbryta förnuftet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCurrency",
+    "description": "manageCurrency sidemenu",
+    "defaultMessage": "Manage Currency",
+    "message": "Hantera valuta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageDashboard",
+    "description": "Manage Dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "instrumentbräda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageFailedPayout",
+    "description": "Failed Payout",
+    "defaultMessage": "Failed Payout",
+    "message": "Misslyckad utbetalning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageFare",
+    "description": "Admin sidemenu",
+    "defaultMessage": "Manage Fare",
+    "message": "Förvalta biljettpris",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageNotifications",
+    "description": "Manage Notifications",
+    "defaultMessage": "Manage Notifications",
+    "message": "Hantera aviseringar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePayout",
+    "description": "managePayout",
+    "defaultMessage": "Manage Payout",
+    "message": "Hantera utbetalning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePromoCode",
+    "description": "managePromoCode sidemenu",
+    "defaultMessage": "Manage Promo Code",
+    "message": "Hantera kampanjkod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maximumUploadSizeLabel",
+    "description": "",
+    "defaultMessage": "Maximum upload size",
+    "message": "Maximal uppladdningsstorlek",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuFour",
+    "description": "menuFour",
+    "defaultMessage": "MenuFour",
+    "message": "Menfur",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuOne",
+    "description": "form",
+    "defaultMessage": "MenuOne",
+    "message": "Menyon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuTwo",
+    "description": "MenuTwo",
+    "defaultMessage": "MenuTwo",
+    "message": "Menutwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.messageLength",
+    "description": "Message must be 200 characters or less",
+    "defaultMessage": "Message must be 200 characters or less",
+    "message": "Meddelandet måste vara 200 tecken eller mindre",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.messageRequired",
+    "description": "Message is required",
+    "defaultMessage": "Message is required",
+    "message": "Meddelande krävs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDesc",
+    "description": "Fares",
+    "defaultMessage": "Meta Description",
+    "message": "Metabeskrivning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDescription",
+    "description": "Description must be 255 characters or less",
+    "defaultMessage": "Description must be 255 characters or less",
+    "message": "Beskrivningen måste vara 255 tecken eller mindre",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDescriptionText",
+    "description": "Meta Description",
+    "defaultMessage": "Meta Description",
+    "message": "Metabeskrivning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaKeyword",
+    "description": "Keyword must be 255 characters or less",
+    "defaultMessage": "Keyword must be 255 characters or less",
+    "message": "Nyckelordet måste vara 255 tecken eller mindre",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaTitle",
+    "description": "Meta Title",
+    "defaultMessage": "Meta Title",
+    "message": "Metatitel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metakey",
+    "description": "Fares",
+    "defaultMessage": "Meta Keyword",
+    "message": "Metatyckelord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mile",
+    "description": "Mile",
+    "defaultMessage": "Mile",
+    "message": "Mile",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.miles",
+    "description": "Fares",
+    "defaultMessage": "Miles",
+    "message": "Miles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutePrice",
+    "description": "Minute Price",
+    "defaultMessage": "Minute Price",
+    "message": "Minutpris",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutes",
+    "description": "minutes",
+    "defaultMessage": "minutes",
+    "message": "minuter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.montly",
+    "description": "montly",
+    "defaultMessage": "This Month",
+    "message": "Den här månaden",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.msgOnly",
+    "description": "Change Password",
+    "defaultMessage": "Message",
+    "message": "Meddelande",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.nameOnly",
+    "description": "Change Password",
+    "defaultMessage": "Name",
+    "message": "namn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.no",
+    "description": "no",
+    "defaultMessage": "No",
+    "message": "Nej",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noItmesFound",
+    "description": "No items found",
+    "defaultMessage": "No items found",
+    "message": "Inga föremål hittades",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noResult",
+    "description": "noResult",
+    "defaultMessage": "No results found",
+    "message": "Inga resultat funna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notFound",
+    "description": "Ban Status",
+    "defaultMessage": "Sorry, the page you were trying to view does not exist.",
+    "message": "Tyvärr, den sida du försökte se finns inte.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notRequired",
+    "description": "Label",
+    "defaultMessage": "No Action Required",
+    "message": "Ingen åtgärd krävs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notRequiredMessage",
+    "description": "Not Required",
+    "defaultMessage": "Not Required",
+    "message": "Krävs inte",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.numberError",
+    "description": "Invalid Phone Number",
+    "defaultMessage": "Invalid Phone Number",
+    "message": "Ogiltigt telefonnummer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.numericValue",
+    "description": "Numeric value required",
+    "defaultMessage": "Numeric value required",
+    "message": "Numeriskt värde krävs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.offline",
+    "description": "offline",
+    "defaultMessage": "Offline",
+    "message": "Off-line",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.oneOne",
+    "description": "Ban Status",
+    "defaultMessage": "One",
+    "message": "Ett",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.online",
+    "description": "online",
+    "defaultMessage": "Online",
+    "message": "Uppkopplad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.optionOne",
+    "description": "Fares",
+    "defaultMessage": "option 1",
+    "message": "Alternativ 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.overAll",
+    "description": "Overall",
+    "defaultMessage": "Overall",
+    "message": "Övergripande",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageBanner",
+    "description": "Page Banner",
+    "defaultMessage": "Page Banner",
+    "message": "Sidbanner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageImageBanner",
+    "description": "Page Image Banner",
+    "defaultMessage": "Page Image Banner",
+    "message": "Sidbildbanner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageName",
+    "description": "Page Name",
+    "defaultMessage": "Page Name",
+    "message": "Sidnamn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageTitle",
+    "description": "Page Title",
+    "defaultMessage": "Page Title",
+    "message": "Namn på sidan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageUrl",
+    "description": "Page URL",
+    "defaultMessage": "Page URL",
+    "message": "Sid -URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paid",
+    "description": "Paid",
+    "defaultMessage": "Paid",
+    "message": "Betalad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.password",
+    "description": "password",
+    "defaultMessage": "Password",
+    "message": "Lösenord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "Ditt lösenord måste vara minst 8 tecken. Var god försök igen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "lösenord krävs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordText",
+    "description": "Password Content",
+    "defaultMessage": "Provide new password only. Ignore this field to use the existing password for this user.",
+    "message": "Ange endast nytt lösenord. Ignorera detta fält för att använda det befintliga lösenordet för den här användaren.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Fel lösenord. Var god försök igen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paymentMethod",
+    "description": "Payment Method",
+    "defaultMessage": "Payment Method",
+    "message": "Betalningsmetod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paymentType",
+    "description": "Payment Type",
+    "defaultMessage": "Payment Type",
+    "message": "Betalnings typ",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.payoutAmount",
+    "description": "Payout Amount",
+    "defaultMessage": "Payout Amount",
+    "message": "Utbetalnings mängd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.payoutStatus",
+    "description": "Payout Status",
+    "defaultMessage": "Payout Status",
+    "message": "Utbetalningsstatus",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pending",
+    "description": "Pending Status",
+    "defaultMessage": "Pending",
+    "message": "I väntan på",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pendingLabel",
+    "description": "Label",
+    "defaultMessage": "Pending",
+    "message": "I väntan på",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentError",
+    "description": "Choose percentage value between 1 to 99",
+    "defaultMessage": "Choose percentage value between 1 to 99",
+    "message": "Välj procentuellt värde mellan 1 till 99",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentage",
+    "description": "text",
+    "defaultMessage": "Percentage",
+    "message": "Procentsats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentageFeeType",
+    "description": "Percentage Fee Type",
+    "defaultMessage": "Percentage",
+    "message": "Procentsats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.permit",
+    "description": "Permit Status",
+    "defaultMessage": "Permit",
+    "message": "Tillåta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.phoneDialCode",
+    "description": "Phone Dial Code",
+    "defaultMessage": "Country Code",
+    "message": "Landskod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.phoneNumber",
+    "description": "phoneNumber",
+    "defaultMessage": "Phone Number",
+    "message": "Telefonnummer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pickupLocation",
+    "description": "PickUp Location",
+    "defaultMessage": "PickUp Location",
+    "message": "Hämtningsplats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformEarnings",
+    "description": "Label",
+    "defaultMessage": "Platform Earnings",
+    "message": "Plattformsintäkter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformOffered",
+    "description": "Label",
+    "defaultMessage": "Platform Overdrafts",
+    "message": "Plattformsredskap",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.playstorelink",
+    "description": "Fares",
+    "defaultMessage": "Play Store Link",
+    "message": "Spelaffärslänk",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.precautionNotification",
+    "description": "Title",
+    "defaultMessage": "Precaution Notification",
+    "message": "Anmälan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.preview",
+    "description": "Preview",
+    "defaultMessage": "Preview",
+    "message": "Förhandsvisning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.privacyPolicies",
+    "description": "Privacy Policy",
+    "defaultMessage": "Privacy Policy",
+    "message": "Integritetspolicy",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.privileges",
+    "description": "Privileges",
+    "defaultMessage": "Privileges",
+    "message": "Behörighet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.processedCash",
+    "description": "Label",
+    "defaultMessage": "Processed via cash",
+    "message": "Bearbetas via kontanter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.profileId",
+    "description": "Profile Id for user",
+    "defaultMessage": "Profile ID",
+    "message": "Profil -ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.profilePicture",
+    "description": "profilePicture",
+    "defaultMessage": "Profile Picture",
+    "message": "Profilbild",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoCodeId",
+    "description": "Promo Code",
+    "defaultMessage": "Promo Code",
+    "message": "Rabattkod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoType",
+    "description": "text",
+    "defaultMessage": "Type",
+    "message": "Typ",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.radioButton",
+    "description": "Change Password",
+    "defaultMessage": "Radio button",
+    "message": "Radio knapp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.ratings",
+    "description": "Ratings",
+    "defaultMessage": "Ratings",
+    "message": "Betyg",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.rcImage",
+    "description": "rcImage",
+    "defaultMessage": "RC Book Image",
+    "message": "RC bokbild",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reason",
+    "description": "Reason",
+    "defaultMessage": "Reason",
+    "message": "Anledning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reasonRequired",
+    "description": "Reason is required",
+    "defaultMessage": "Reason is required",
+    "message": "Anledning krävs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.recommand",
+    "description": "recommand",
+    "defaultMessage": "Recommand",
+    "message": "Rekommendation och",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.redioOne",
+    "description": "Fares",
+    "defaultMessage": "radio 1",
+    "message": "Radio 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.removeLocation",
+    "description": "Polygon remove",
+    "defaultMessage": "Remove Location",
+    "message": "Ta bort platsen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.rentallContent",
+    "description": "app",
+    "defaultMessage": "app",
+    "message": "app",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reportIssue",
+    "description": "Ban Status",
+    "defaultMessage": "Report an issue",
+    "message": "Rapportera ett problem",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.required",
+    "description": "required error message",
+    "defaultMessage": "*Required",
+    "message": "*Nödvändig",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reservations",
+    "description": "Ban Status",
+    "defaultMessage": "Reservations",
+    "message": "Reservationer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reviewsBy",
+    "description": "reviewsBy",
+    "defaultMessage": "Reviews By",
+    "message": "Recensioner av",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.role",
+    "description": "Role",
+    "defaultMessage": "Role",
+    "message": "Roll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.roleName",
+    "description": "Role Name",
+    "defaultMessage": "Role Name",
+    "message": "Rollnamn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyButton",
+    "description": "safetyButton",
+    "defaultMessage": "View all safety features",
+    "message": "Visa alla säkerhetsfunktioner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyContent",
+    "description": "Safety",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem ipsum är helt enkelt dummy -text i utskrifts- och inställningsindustrin. Lorem ipsum har varit branschens standarddummitext sedan 1500 -talet, då en okänd skrivare tog en kök av typ och förvrängde den för att skapa en typ av exemplar.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "PlayStore -logotyp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "AppStore -logotyp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage3",
+    "description": "User App Image",
+    "defaultMessage": "User App Image",
+    "message": "Användarappbild",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetySectionSettings",
+    "description": "User Apps Settings",
+    "defaultMessage": "User App",
+    "message": "Användarapp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.searchLocation",
+    "description": "Auto-Complete input",
+    "defaultMessage": "Search Location",
+    "message": "Sökplats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.searchOnly",
+    "description": "Change Password",
+    "defaultMessage": "Search",
+    "message": "Sök",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.select",
+    "description": "select",
+    "defaultMessage": "Select",
+    "message": "Välj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.selectRole",
+    "description": "Select Role",
+    "defaultMessage": "Select Role",
+    "message": "Välj roll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.setBase",
+    "description": "Ban Status",
+    "defaultMessage": "Set as base currency",
+    "message": "Ställ in som basvaluta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.setBaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Base Currency",
+    "message": "Ställa in basvaluta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.settings",
+    "description": "settings",
+    "defaultMessage": "Settings",
+    "message": "inställningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signup",
+    "description": "Sign up Nav link",
+    "defaultMessage": "Sign up",
+    "message": "Bli Medlem",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupDrive",
+    "description": "Sign up to drive",
+    "defaultMessage": "Sign up to drive",
+    "message": "Registrera dig för att köra",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Play Store Logo",
+    "message": "Lootyp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "App Store Logo",
+    "message": "App Store -logotyp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage3",
+    "description": "Service provider App Image",
+    "defaultMessage": "Service Provider App Image",
+    "message": "Serviceleverantörsappbild",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupRide",
+    "description": "Sign up to ride",
+    "defaultMessage": "Sign up to ride",
+    "message": "Registrera dig för att åka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupSectionSettings",
+    "description": "Service Provider Apps Settings",
+    "defaultMessage": "Service Provider App",
+    "message": "Tjänsteleverantörsapp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteAdmin",
+    "description": "siteAdmin",
+    "defaultMessage": "Site Admin",
+    "message": "Platsadministratör",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteName",
+    "description": "Fares",
+    "defaultMessage": "Site Name",
+    "message": "Sidnamn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteSettings",
+    "description": "Site Settings",
+    "defaultMessage": "Site Settings",
+    "message": "Webbplatsinställningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteTitle",
+    "description": "Fares",
+    "defaultMessage": "Site Title",
+    "message": "Sidans Titel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderContent",
+    "description": "Luxury",
+    "defaultMessage": "Luxury",
+    "message": "Lyx",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderTitle",
+    "description": "sliderTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderTitleDesc",
+    "description": "sliderTitleDesc",
+    "defaultMessage": "Percipit repudiandae an eum, enim case eos no. Percipit tractatos pertinacia cum id, ad eos facete malorum recusabo, vis insolens perpetua definitionem ex.",
+    "message": "Percipit repudiandae an eum, enim case eos nr. Percipit tractatos pertinacia cum id, ad eos facete malorum recusabo, vis insolens perpetua definitionem ex.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Förlåt, något gick fel. Var god försök igen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.startDriving",
+    "description": "Start Driving",
+    "defaultMessage": "Start Driving",
+    "message": "Börja köra",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.startRideing",
+    "description": "Start Riding",
+    "defaultMessage": "Start Riding",
+    "message": "Börja rida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.started",
+    "description": "Started Status",
+    "defaultMessage": "Started",
+    "message": "Satte igång",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.state",
+    "description": "Fares",
+    "defaultMessage": "State",
+    "message": "stat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.staticpageManagement",
+    "description": "Manage Static Content",
+    "defaultMessage": "Manage Static Content",
+    "message": "Hantera statiskt innehåll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.status",
+    "description": "Status Active/Inactive",
+    "defaultMessage": "Status",
+    "message": "Status",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.stripePublishableKey",
+    "description": "Stripe Publishable Key",
+    "defaultMessage": "Stripe Publishable Key",
+    "message": "Randens publicerbara nyckel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuOne",
+    "description": "subMenuOne",
+    "defaultMessage": "subMenuOne",
+    "message": "undermenyn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuThree",
+    "description": "subMenuThree",
+    "defaultMessage": "subMenuThree",
+    "message": "undermenyn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuTwo",
+    "description": "subMenuTwo",
+    "defaultMessage": "subMenuTwo",
+    "message": "undermening",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.submitButton",
+    "description": "Submit",
+    "defaultMessage": "Submit",
+    "message": "Skicka in",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.symbol",
+    "description": "currencyManagement value",
+    "defaultMessage": "Symbol",
+    "message": "Symbol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.table",
+    "description": "Table",
+    "defaultMessage": "Table",
+    "message": "Tabell",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tableCell",
+    "description": "Fares",
+    "defaultMessage": "Table cell",
+    "message": "Bordscell",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tableHead",
+    "description": "Fares",
+    "defaultMessage": "Table heading",
+    "message": "Bordsrubrik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.textarea",
+    "description": "textarea",
+    "defaultMessage": "Text Area",
+    "message": "Textområde",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsAmount",
+    "description": "Tips Amount",
+    "defaultMessage": "Tips Amount",
+    "message": "Tipsbelopp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title",
+    "description": "text",
+    "defaultMessage": "Title",
+    "message": "Titel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title1",
+    "description": "Title 1",
+    "defaultMessage": "Title 1",
+    "message": "Avdelning 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title2",
+    "description": "Title 2",
+    "defaultMessage": "Title 2",
+    "message": "Avdelning 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title3",
+    "description": "Title 3",
+    "defaultMessage": "Title 3",
+    "message": "Avdelning 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title4",
+    "description": "Title 4",
+    "defaultMessage": "Title 4",
+    "message": "Avdelning 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title5",
+    "description": "Title 5",
+    "defaultMessage": "Title 5",
+    "message": "Avdelning 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title6",
+    "description": "Title 6",
+    "defaultMessage": "Title 6",
+    "message": "Avdelning 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.to",
+    "description": "Label",
+    "defaultMessage": "To",
+    "message": "Till",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.today",
+    "description": "today",
+    "defaultMessage": "Today",
+    "message": "I dag",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tollFee",
+    "description": "tollFee",
+    "defaultMessage": "Toll Fee",
+    "message": "Tullavgift",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.topFeatures",
+    "description": "Top Features Section Settings",
+    "defaultMessage": "Top Features Section Settings",
+    "message": "Sektionsinställningar för toppfunktioner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalDuration",
+    "description": "Total Duration",
+    "defaultMessage": "Total Duration",
+    "message": "Total varaktighet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalFare",
+    "description": "Total Fare",
+    "defaultMessage": "Total Fare",
+    "message": "Totalpris",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalList",
+    "description": "Ban Status",
+    "defaultMessage": "Total Listings",
+    "message": "Totala listor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalReserv",
+    "description": "Ban Status",
+    "defaultMessage": "Total Reservations",
+    "message": "Totala reservationer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalRideDistance",
+    "description": "Total  Distance",
+    "defaultMessage": "Total  Distance",
+    "message": "Totalt avstånd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalUser",
+    "description": "Ban Status",
+    "defaultMessage": "Total Users",
+    "message": "Totala användare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripDate",
+    "description": "Trip Date",
+    "defaultMessage": "Trip Date",
+    "message": "Resdatum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripEnd",
+    "description": "Trip End",
+    "defaultMessage": "Trip End",
+    "message": "Resa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripStart",
+    "description": "Trip Start",
+    "defaultMessage": "Trip Start",
+    "message": "Trippstart",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.twiterUrl",
+    "description": "Fares",
+    "defaultMessage": "Twitter URL",
+    "message": "Twitter -URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unitPrice",
+    "description": "Unit Price",
+    "defaultMessage": "Unit Price",
+    "message": "Enhetspris",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unpaid",
+    "description": "Unpaid",
+    "defaultMessage": "Unpaid",
+    "message": "Obetald",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.update",
+    "description": "Update",
+    "defaultMessage": "Update",
+    "message": "Uppdatering",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.updatedAt",
+    "description": "Label",
+    "defaultMessage": "Updated At",
+    "message": "Uppdaterad på",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.useFullLink",
+    "description": "Usefull Links",
+    "defaultMessage": "Usefull Links",
+    "message": "Användbara länkar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.usedPromoCode",
+    "description": "text",
+    "defaultMessage": "Used Promo Code",
+    "message": "Används kampanjkod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userStatus",
+    "description": "User Status Active/Inactive",
+    "defaultMessage": "User Status",
+    "message": "Användarstatus",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.users",
+    "description": "users",
+    "defaultMessage": "Users",
+    "message": "Användare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validUrl",
+    "description": "Valid URL required",
+    "defaultMessage": "Valid URL required",
+    "message": "Giltig URL krävs",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateConfirmPasswordLength",
+    "description": "Confirm Password length Validation",
+    "defaultMessage": "Confirm Password must be minimum 8 characters",
+    "message": "Bekräfta lösenordet måste vara minst 8 tecken",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validatePasswordLength",
+    "description": "Password length Validation",
+    "defaultMessage": "Password must be minimum 8 characters",
+    "message": "Lösenordet måste vara minst 8 tecken",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validatePasswordMatch",
+    "description": "Password mismatch",
+    "defaultMessage": "Password is mismatching with Confirm password",
+    "message": "Lösenordet är felaktigt med bekräftelse av lösenord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.view",
+    "description": "View Details Link",
+    "defaultMessage": "View",
+    "message": "Se",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.viewCity",
+    "description": "view City",
+    "defaultMessage": "View city",
+    "message": "View City",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.wallet",
+    "description": "Wallet",
+    "defaultMessage": "Wallet",
+    "message": "Plånbok",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.walletBalance",
+    "description": "Wallet Balance",
+    "defaultMessage": "Wallet Balance",
+    "message": "Plånboksbalans",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.weekly",
+    "description": "weekly",
+    "defaultMessage": "This Week",
+    "message": "Denna vecka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.yes",
+    "description": "Yes",
+    "defaultMessage": "Yes",
+    "message": "Ja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.youtubeUrl",
+    "description": "Fares",
+    "defaultMessage": "Youtube URL",
+    "message": "YouTube URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addOrChange",
+    "description": "Label",
+    "defaultMessage": "Add or Change",
+    "message": "Lägg till eller ändra",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addStop",
+    "description": "Label",
+    "defaultMessage": "Add Stop",
+    "message": "Lägg till stopp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.all",
+    "description": "all",
+    "defaultMessage": "All",
+    "message": "Allt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.assign",
+    "description": "Label",
+    "defaultMessage": "Assign",
+    "message": "Tilldela",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.at",
+    "description": "Label",
+    "defaultMessage": "at",
+    "message": "på",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.autoAssign",
+    "description": "Label",
+    "defaultMessage": "Auto Assign",
+    "message": "Auto tilldelning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.baseFare",
+    "description": "Label",
+    "defaultMessage": "Base Fare",
+    "message": "Grundavgift",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookNow",
+    "description": "Label",
+    "defaultMessage": "Book Now",
+    "message": "Boka nu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingFee",
+    "description": "Label",
+    "defaultMessage": "Booking Fee",
+    "message": "Bokningsavgift",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelBooking",
+    "description": "Label",
+    "defaultMessage": "Cancel Booking",
+    "message": "Avbrytbokning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.createBooking",
+    "description": "Create Booking",
+    "defaultMessage": "Create Booking",
+    "message": "Skapa bokning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editBooking",
+    "description": "Label",
+    "defaultMessage": "Edit Booking",
+    "message": "Redigera bokning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editDateAndTime",
+    "description": "Label",
+    "defaultMessage": "Edit Date & Time",
+    "message": "Redigera datum och tid",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit200",
+    "description": "Message",
+    "defaultMessage": "Please dont exceed 200 words",
+    "message": "Vänligen överstiga inte 200 ord",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fareEstimation",
+    "description": "Label",
+    "defaultMessage": "Fare Estimation",
+    "message": "Biljettberäkning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.heatMap",
+    "description": "heatMap",
+    "defaultMessage": "HeatMap",
+    "message": "Värmekarta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hide",
+    "description": "hide",
+    "defaultMessage": "Hide",
+    "message": "Dölj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalid",
+    "description": "invalid",
+    "defaultMessage": "Invalid",
+    "message": "Ogiltig",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageDispatcher",
+    "description": "manageDispatcher",
+    "defaultMessage": "Manage Dispatcher",
+    "message": "Hantera avsändaren",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageForceUpdate",
+    "description": "manageForceUpdate",
+    "defaultMessage": "Manage Apps Force Update",
+    "message": "Hantera Apps Force -uppdatering",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mapView",
+    "description": "mapView",
+    "defaultMessage": "Map View",
+    "message": "Kartvy",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutesShort",
+    "description": "Label",
+    "defaultMessage": "mins",
+    "message": "min",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mobileSettings",
+    "description": "Mobile App Settings",
+    "defaultMessage": "Mobile App Settings",
+    "message": "Mobilappinställningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.next",
+    "description": "Next",
+    "defaultMessage": "Next",
+    "message": "Nästa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noCabs",
+    "description": "Label",
+    "defaultMessage": "No Cabs",
+    "message": "Inga hytter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.now",
+    "description": "Label",
+    "defaultMessage": "Book now",
+    "message": "Boka nu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perKm",
+    "description": "Label",
+    "defaultMessage": "Per Km",
+    "message": "Per km",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perMile",
+    "description": "Label",
+    "defaultMessage": "Per Mile",
+    "message": "Per mil",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perMinute",
+    "description": "Label",
+    "defaultMessage": "Per Minute",
+    "message": "Varje minut",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reset",
+    "description": "Label",
+    "defaultMessage": "Reset",
+    "message": "Återställa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.show",
+    "description": "show",
+    "defaultMessage": "Show",
+    "message": "Visa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepMode",
+    "description": "sleepMode",
+    "defaultMessage": "Manage Service Provider App Sleep Mode",
+    "message": "Hantera tjänsteleverantörsappens sömnläge",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.stripeSettings",
+    "description": "stripeSettings",
+    "defaultMessage": "Stripe Settings",
+    "message": "Randinställningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.total",
+    "description": "Label",
+    "defaultMessage": "Total",
+    "message": "Total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tracking",
+    "description": "tracking",
+    "defaultMessage": "Tracking",
+    "message": "Spårning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.travelFare",
+    "description": "Label",
+    "defaultMessage": "Travel Fare",
+    "message": "Resespris",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.markerInfo",
+    "description": "Marker Info",
+    "defaultMessage": "Marker Info",
+    "message": "Markörinfo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.favIconlogoLabel",
+    "description": "Fav Icon",
+    "defaultMessage": "Fav Icon",
+    "message": "FAV -ikon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allDays",
+    "description": "select label",
+    "defaultMessage": "All days",
+    "message": "Alla dagar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactEmail",
+    "description": "contactEmail",
+    "defaultMessage": "Contact email",
+    "message": "Kontakta e -post",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactPhoneNumber",
+    "description": "contactPhoneNumber",
+    "defaultMessage": "Contact phone number",
+    "message": "Kontaktnummer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.last30Days",
+    "description": "select label",
+    "defaultMessage": "Last 30 days",
+    "message": "De senaste 30 dagarna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.last7Days",
+    "description": "select label",
+    "defaultMessage": "Last 7 days",
+    "message": "De senaste sju dagarna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.skype",
+    "description": "skype",
+    "defaultMessage": "Skype",
+    "message": "Skype",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCurrency",
+    "description": "addCurrency",
+    "defaultMessage": "Add currency",
+    "message": "Lägga till valuta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledByPartner",
+    "description": "Cancelled By Service Provider Status",
+    "defaultMessage": "Cancelled By Service Provider",
+    "message": "Avbryts av tjänsteleverantören",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledByUser",
+    "description": "Cancelled By User Status",
+    "defaultMessage": "Cancelled By User",
+    "message": "Avbruten av användaren",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partner",
+    "description": "partner",
+    "defaultMessage": "Service Provider",
+    "message": "Tjänsteleverantör",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepPartnerAndroid",
+    "description": "sleepPartnerAndroid",
+    "defaultMessage": "Service Provider Android App",
+    "message": "Tjänsteleverantör Android -app",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepPartnerios",
+    "description": "sleepPartnerios",
+    "defaultMessage": "Service Provider iOS App",
+    "message": "Tjänsteleverantör iOS -app",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.user",
+    "description": "user",
+    "defaultMessage": "User",
+    "message": "Användare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingStatus",
+    "description": "Job Status",
+    "defaultMessage": "Job Status",
+    "message": "Jobbstatus",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryBanner",
+    "description": "Category Banner",
+    "defaultMessage": "Banner",
+    "message": "Baner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryLogo",
+    "description": "Category Logo",
+    "defaultMessage": "Logo",
+    "message": "Logotyp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixedFareType",
+    "description": "Fixed fare Type",
+    "defaultMessage": "Fixed fare Type",
+    "message": "Fast biljetttyp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hourlyFareType",
+    "description": "Hourly fare type",
+    "defaultMessage": "Hourly fare type",
+    "message": "Timpris",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isJobPhotoRequired",
+    "description": "isJobPhotoRequired",
+    "defaultMessage": "Allow users to upload photos for the job",
+    "message": "Låt användare ladda upp foton för jobbet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isPopular",
+    "description": "Is-Popular",
+    "defaultMessage": "Is-Popular",
+    "message": "Är populär",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.legal",
+    "description": "legal",
+    "defaultMessage": "Legal",
+    "message": "Rättslig",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.name",
+    "description": "name",
+    "defaultMessage": "Name",
+    "message": "namn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerServiceFee",
+    "description": "Service Provider Service Fee",
+    "defaultMessage": "Service Provider Service Fee",
+    "message": "Tjänsteleverantörsavgift",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pricingType",
+    "description": "Pricing Type",
+    "defaultMessage": "Pricing Type",
+    "message": "Prissättningstyp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategoryMenu",
+    "description": "Manage SubCategory",
+    "defaultMessage": "Manage Sub Category",
+    "message": "Hantera underkategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userServiceFee",
+    "description": "User Service Fee",
+    "defaultMessage": "User Service Fee",
+    "message": "Användaravgift",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.usersMenu",
+    "description": "usersMenu",
+    "defaultMessage": "Manage Users",
+    "message": "Hantera användare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addSubCategory",
+    "description": "Add subcategory form header",
+    "defaultMessage": "Add Sub Category",
+    "message": "Lägg till underkategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editSubCategory",
+    "description": "Edit subcategory form header",
+    "defaultMessage": "Edit Sub Category",
+    "message": "Redigera underkategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editUser",
+    "description": "Edit User form header",
+    "defaultMessage": "Edit User",
+    "message": "Redigera användare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.basePrice",
+    "description": "base price amount",
+    "defaultMessage": "Base Price",
+    "message": "Grundpris",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hourlyPrice",
+    "description": "Hourly Price",
+    "defaultMessage": "Hourly Price",
+    "message": "Timpris",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isPriceEditable",
+    "description": "Can be editable by service provider?",
+    "defaultMessage": "Can be editable by service provider?",
+    "message": "Kan redigeras av tjänsteleverantören?",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maxQuantity",
+    "description": "Maximum Quantity",
+    "defaultMessage": "Maximum Quantity",
+    "message": "Maximal mängd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minHours",
+    "description": "Minimum Hours",
+    "defaultMessage": "Minimum Hours",
+    "message": "Lägsta timmar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategory",
+    "description": "SubCategory",
+    "defaultMessage": "Sub Category",
+    "message": "Underkategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategoryName",
+    "description": "subCategoryName",
+    "defaultMessage": "Sub Category Name",
+    "message": "Underkategori",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.travelCharge",
+    "description": "Travelling Charge",
+    "defaultMessage": "Visit Fee",
+    "message": "Besöksavgift",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowableDistaceField",
+    "description": "allowableDistaceField",
+    "defaultMessage": "Maximum Allowable distance",
+    "message": "Maximalt tillåtet avstånd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowableDistaceTitle",
+    "description": "allowableDistaceTitle",
+    "defaultMessage": "Maximum distance to cover while fetching service providers",
+    "message": "Maximalt avstånd att täcka när du hämtar tjänsteleverantörer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedServices",
+    "description": "allowedServices",
+    "defaultMessage": "Maximum jobs that users can book",
+    "message": "Maximala jobb som användare kan boka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedServicesTitle",
+    "description": "allowedServicesTitle",
+    "defaultMessage": "Manage maximum jobs that users can book",
+    "message": "Hantera maximala jobb som användare kan boka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notificationInterval",
+    "description": "notificationInterval",
+    "defaultMessage": "Job acceptance time for the service provider",
+    "message": "Jobb acceptanstid för tjänsteleverantören",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerAndriodVersion",
+    "description": "Andriod",
+    "defaultMessage": "Service Provider Android Version",
+    "message": "Tjänsteleverantör Android -version",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerPrivacyPolicy",
+    "description": "Title",
+    "defaultMessage": "Service Provider Privacy Policy",
+    "message": "Tjänsteleverantörens sekretesspolicy",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partneriosVersion",
+    "description": "iOS",
+    "defaultMessage": "Service Provider iOS Version",
+    "message": "Tjänsteleverantör iOS -version",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userAndriodVersion",
+    "description": "userAndriodVersion",
+    "defaultMessage": "User Android Version",
+    "message": "Användar Android -version",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.useriosVersion",
+    "description": "useriosVersion",
+    "defaultMessage": "User iOS Version",
+    "message": "Användare iOS -version",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPartner",
+    "description": "Edit Service Provider form header",
+    "defaultMessage": "Edit Service Provider",
+    "message": "Redigera tjänsteleverantör",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerMenu",
+    "description": "partnerMenu",
+    "defaultMessage": "Manage Service Providers",
+    "message": "Hantera tjänsteleverantörer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCatbackGroundImageegoryName",
+    "description": "backGroundImage",
+    "defaultMessage": "Background Image",
+    "message": "Bakgrundsbild",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maximumEmergencyContact",
+    "description": "maximumEmergencyContact",
+    "defaultMessage": "Maximum Emergency Contact",
+    "message": "Maximal nödkontakt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoCodeImage",
+    "description": "title",
+    "defaultMessage": "Promo Code Image",
+    "message": "Promokodbild",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.activePartners",
+    "description": "activePartners",
+    "defaultMessage": "Active Service Providers",
+    "message": "Aktiva tjänsteleverantörer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availablePartners",
+    "description": "availablePartners",
+    "defaultMessage": "Available Service Providers",
+    "message": "Tillgängliga tjänsteleverantörer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppTextPartner",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Service Provider App",
+    "message": "Ladda ner App Service Provider",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePartnerPayout",
+    "description": "Manage Service Provider Payouts",
+    "defaultMessage": "Manage Service Provider Payouts",
+    "message": "Hantera utbetalningar av tjänsteleverantör",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Service Provider Billing Information",
+    "message": "Tjänsteleverantörens faktureringsinformation",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerEarnings",
+    "description": "Label",
+    "defaultMessage": "Service Provider Earnings",
+    "message": "Tjänsteleverantörsresultat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerEmail",
+    "description": "Service Provider Email",
+    "defaultMessage": "Service Provider Email",
+    "message": "Tjänsteleverantör e -post",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerName",
+    "description": "Service Provider Name",
+    "defaultMessage": "Service Provider Name",
+    "message": "Tjänsteleverantör",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerPayout",
+    "description": "managePayout",
+    "defaultMessage": "Service Provider Payout",
+    "message": "Utbetalning av tjänsteleverantör",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerappcntn",
+    "description": "Fares",
+    "defaultMessage": "Service Provider App Content",
+    "message": "Serviceleverantör Appinnehåll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerapptitle",
+    "description": "Fares",
+    "defaultMessage": "Service Provider App Title",
+    "message": "Serviceleverantörsapptitel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partners",
+    "description": "partner",
+    "defaultMessage": "Service Providers",
+    "message": "Tjänsteleverantörer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsGivenToPartner",
+    "description": "Label",
+    "defaultMessage": "Tips given to the service provider",
+    "message": "Tips som ges till tjänsteleverantören",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsReceivedFromUser",
+    "description": "Label",
+    "defaultMessage": "Tips received from the user",
+    "message": "Tips mottagna från användaren",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unActivatedPartners",
+    "description": "unActivatedPartners",
+    "defaultMessage": "Unactivated Service Providers",
+    "message": "Oaktiverade tjänsteleverantörer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unAvailablePartners",
+    "description": "unAvailablePartners",
+    "defaultMessage": "Unavailable Service Providers",
+    "message": "Otillgängliga tjänsteleverantörer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userAppContent",
+    "description": "Change Password",
+    "defaultMessage": "User App Content",
+    "message": "Användarappinnehåll",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userApptitle",
+    "description": "Change Password",
+    "defaultMessage": "User App Title",
+    "message": "Användarapptitel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userBillingInformation",
+    "description": "Label",
+    "defaultMessage": "User Billing Information",
+    "message": "Användarfaktureringsinformation",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userEmail",
+    "description": "User Email",
+    "defaultMessage": "User Email",
+    "message": "Användarmail",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userName",
+    "description": "User Name",
+    "defaultMessage": "User Name",
+    "message": "Användarnamn",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userPayableAmount",
+    "description": "userPayableAmount",
+    "defaultMessage": "User Payable Amount",
+    "message": "Användarbetalningsbelopp",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availableDrivers",
+    "description": "availableDrivers",
+    "defaultMessage": "Available Drivers",
+    "message": "Tillgängliga förare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCancelledBookings",
+    "description": "manageCancelledBookings sidemenu",
+    "defaultMessage": "Cancelled Jobs",
+    "message": "Avbrutna jobb",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCompletedBooking",
+    "description": "CompletedBooking sidemenu",
+    "defaultMessage": "Completed Jobs",
+    "message": "Avslutade jobb",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unActivatedDrivers",
+    "description": "unActivatedDrivers",
+    "defaultMessage": "Unactivated Drivers",
+    "message": "Oaktiverade förare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unAvailableDrivers",
+    "description": "unAvailableDrivers",
+    "defaultMessage": "Unavailable Drivers",
+    "message": "Otillgängliga förare",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userExperience",
+    "description": "userExperience",
+    "defaultMessage": "User Experience",
+    "message": "Användarupplevelse",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userIdentity",
+    "description": "userIdentity",
+    "defaultMessage": "User Identity",
+    "message": "Användaridentitet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.welcomeAdminLabel",
+    "description": "Welcome Admin !!!",
+    "defaultMessage": "Welcome Admin !!!",
+    "message": "Välkommen administratör !!!",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.additionalFee",
+    "description": "Additional Charge",
+    "defaultMessage": "Additional Charge",
+    "message": "Extra kostnad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.arrived",
+    "description": "Arrived",
+    "defaultMessage": "Arrived",
+    "message": "Anlända",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.duration",
+    "description": "duration",
+    "defaultMessage": "Job acceptance time",
+    "message": "Arbetstillfälletid",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.earningsLabel",
+    "description": "Earnings",
+    "defaultMessage": "Earnings",
+    "message": "Förtjänst",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.estimatedPrice",
+    "description": "estimatedPrice",
+    "defaultMessage": "Estimated price",
+    "message": "Beräknat pris",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hideDescription",
+    "description": "View Listing",
+    "defaultMessage": "Hide description",
+    "message": "Dölj beskrivning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.itemTotal",
+    "description": "Label",
+    "defaultMessage": "Item Total",
+    "message": "PUNKTALT",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.job",
+    "description": "job",
+    "defaultMessage": "Job list",
+    "message": "Arbetslista",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobCompleted",
+    "description": "Job Completed",
+    "defaultMessage": "Job Completed",
+    "message": "Jobb slutfört",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobDescription",
+    "description": "jobDescription",
+    "defaultMessage": "Job description",
+    "message": "Arbetsbeskrivning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobDetails",
+    "description": "jobDetails",
+    "defaultMessage": "Job Details",
+    "message": "Jobb detaljer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobLocation",
+    "description": "jobLocation",
+    "defaultMessage": "Job location",
+    "message": "Jobbplats",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobPhoto",
+    "description": "hide",
+    "defaultMessage": "Job photos",
+    "message": "Jobbbilder",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobProgress",
+    "description": "jobProgress",
+    "defaultMessage": "Job Progress",
+    "message": "Jobbframsteg",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobRequestWindow",
+    "description": "jobRequestWindow",
+    "defaultMessage": "Manage service provider app's job request window information",
+    "message": "Hantera tjänsteleverantörsappens information om jobbförfrågan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobStarted",
+    "description": "Job Started",
+    "defaultMessage": "Job Started",
+    "message": "Job började",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerNumber",
+    "description": "Service Provider Number",
+    "defaultMessage": "Service Provider Phone Number",
+    "message": "Telefonnummer för tjänsteleverantör",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformDiscount",
+    "description": "Special platformDiscount",
+    "defaultMessage": "Platform offered discount",
+    "message": "Plattform erbjöd rabatt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestAccepted",
+    "description": "Request Accepted",
+    "defaultMessage": "Request Accepted",
+    "message": "Begäran accepteras",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestCancelled",
+    "description": "Request Cancelled",
+    "defaultMessage": "Request Cancelled",
+    "message": "Begäran avbröts",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestCreated",
+    "description": "Request Created",
+    "defaultMessage": "Request Created",
+    "message": "Begäran skapad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestDecline",
+    "description": "Request Declined",
+    "defaultMessage": "Request Declined",
+    "message": "Begäran minskade",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestReviewed",
+    "description": "Request Reviewed",
+    "defaultMessage": "Request Reviewed",
+    "message": "Begär granskad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.serviceFee",
+    "description": "serviceFee",
+    "defaultMessage": "Service Fee",
+    "message": "Serviceavgift",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.showDescription",
+    "description": "View Listing",
+    "defaultMessage": "Show more description",
+    "message": "Visa mer beskrivning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategories",
+    "description": "subCategories",
+    "defaultMessage": "Sub Categories",
+    "message": "Underkategorier",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalEarnings",
+    "description": "Earnings",
+    "defaultMessage": "Total Earnings",
+    "message": "Totala intäkter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalWorkingHours",
+    "description": "Total working hours",
+    "defaultMessage": "Total working hours =",
+    "message": "Total arbetstid =",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userDiscount",
+    "description": "discount text",
+    "defaultMessage": "Coupon Discount",
+    "message": "Kupongrabatt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userNumber",
+    "description": "User Number",
+    "defaultMessage": "User Phone Number",
+    "message": "Användartelefonnummer",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateInterval",
+    "description": "validateInterval",
+    "defaultMessage": "Notification interval must be greater than 0.5 min",
+    "message": "Meddelandeintervall måste vara större än 0,5 min",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.eligibleForAService",
+    "description": "text",
+    "defaultMessage": "Eligible for a Service",
+    "message": "Berättigad till en tjänst",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notEligibleForAService",
+    "description": "text",
+    "defaultMessage": "Not eligible for a Service",
+    "message": "Inte berättigad till en tjänst",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.accountId",
+    "description": "ACCOUNT_SID",
+    "defaultMessage": "ACCOUNT_SID",
+    "message": "Account_Sid",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.apiKey",
+    "description": "API KEY",
+    "defaultMessage": "API KEY",
+    "message": "API -nyckel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.appOpenTrip",
+    "description": "appOpenTrip",
+    "defaultMessage": "Open the provider app when a request notification is received",
+    "message": "Öppna leverantörsappen när en begäran om begäran tas emot",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editSmsMethod",
+    "description": "editSmsMethod",
+    "defaultMessage": "Edit SMS Methods",
+    "message": "Redigera SMS -metoder",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobId",
+    "description": "Job",
+    "defaultMessage": "Job ID",
+    "message": "Jobb id",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobs",
+    "description": "jobs",
+    "defaultMessage": "Jobs",
+    "message": "Jobb",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageSmsMethod",
+    "description": "manageSmsMethod",
+    "defaultMessage": "Manage SMS Methods",
+    "message": "Hantera SMS -metoder",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noLimit",
+    "description": "noLimit",
+    "defaultMessage": "No Limit",
+    "message": "Ingen gräns",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.records",
+    "description": "records",
+    "defaultMessage": "Records per page",
+    "message": "Poster per sida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestTone",
+    "description": "requestTone",
+    "defaultMessage": "Request accept timer tone",
+    "message": "Begär Acceptera timerton",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.secretId",
+    "description": "AUTHTOKEN",
+    "defaultMessage": "AUTHTOKEN",
+    "message": "Autortoken",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.secretKey",
+    "description": "SECRET KEY",
+    "defaultMessage": "SECRET KEY",
+    "message": "HEMLIG NYCKEL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.uploadRequestTone",
+    "description": "uploadRequestTone",
+    "defaultMessage": "Upload timer tone",
+    "message": "Ladda upp timertonen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.viewJob",
+    "description": "view Job",
+    "defaultMessage": "View job",
+    "message": "Visa jobb",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.receipt",
+    "description": "receipt",
+    "defaultMessage": "Receipt",
+    "message": "Mottagande",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageSchedule",
+    "description": "manageSchedule",
+    "defaultMessage": "Manage Schedule Booking",
+    "message": "Hantera schemabokning",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduleBooking",
+    "description": "Label",
+    "defaultMessage": "Schedule Bookings",
+    "message": "Schema bokningar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduleBookingHistory",
+    "description": "Heading",
+    "defaultMessage": "Schedule Booking History",
+    "message": "Schema bokningshistorik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduled",
+    "description": "Trip status",
+    "defaultMessage": "Scheduled",
+    "message": "Planerad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduledFrom",
+    "description": "Label",
+    "defaultMessage": "Scheduled From",
+    "message": "Planerad från",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduledTo",
+    "description": "Label",
+    "defaultMessage": "Scheduled To",
+    "message": "Planerad till",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.defaultScheduleInterval",
+    "description": "defaultScheduleInterval",
+    "defaultMessage": "Default Schedule Interval",
+    "message": "Standardplanintervall",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateScheduleInterval",
+    "description": "validateScheduleInterval",
+    "defaultMessage": "Schedule interval must be greater than 20 min",
+    "message": "Schemaläggningsintervall måste vara större än 20 minuter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestScheduled",
+    "description": "Request Scheduled",
+    "defaultMessage": "Request Scheduled",
+    "message": "Begäran schemalagd",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  }
+]

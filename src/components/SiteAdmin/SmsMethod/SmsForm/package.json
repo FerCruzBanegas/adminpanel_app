@@ -1,0 +1,6 @@
+{
+    "name": "SmsForm",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./SmsForm.js"   
+}

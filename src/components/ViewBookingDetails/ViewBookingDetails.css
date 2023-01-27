@@ -1,0 +1,271 @@
+@import '../../components/variables.css';
+@import '../../components/Common.css';
+@import '../../components/responsive-common.css';
+
+.removedBorderAndPadding {
+    padding: 0 !important;
+}
+
+.collapsedTable {
+    margin: 12px 0 !important;
+}
+
+.collapsedTable thead th {
+    box-shadow: none !important;
+}
+
+.setHeightAuto {
+    height: auto;
+}
+.circle{
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background: #212529;
+    border-radius: 50%;
+    margin-right: 5px;
+    position: relative;
+    top: 6.3px;
+}
+.circleHeight{
+    height: 48px;
+    display: grid;
+    grid-template-columns: 20px auto auto;
+}
+.circleHeight:nth-child(2) .circle::after{
+    content: '';
+    width: 1.5px;
+    height: 100%;
+    background: #212529;
+    position: absolute;
+    bottom: 15px;
+    left: 6px;
+    min-height: 30px;
+}
+.circleHeight:nth-child(3) .circle::after{
+    content: '';
+    width: 1.5px;
+    height: 100%;
+    background: #212529;
+    position: absolute;
+    bottom: 15px;
+    left: 6px;
+    min-height: 30px;
+}
+.circleHeight:last-child{
+    height: auto;
+}
+.circleGray{
+    background: #ccc;
+}
+.circleGray::after{
+    background: #ccc !important;
+}
+.addOrChangeBtn{
+    float: right;
+    color: #0074C2 !important;
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+.addChange{
+    min-width: 155px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 25px auto;
+    grid-gap: 12px;
+    /* align-items: center; */
+    padding-bottom: 20px;
+    position: relative;
+    height: 65px;
+}
+.iconWidth{
+    width: 100%;
+    max-width: 25px;
+}
+.smallContent{
+    font-size: 14px;
+    color: #7D7D7D;
+}
+.grid::after{
+    content: '';
+    position: absolute;
+    z-index: 1;
+    top: 29px;
+    bottom: 0;
+    left: 12px;
+    border-left: 1.5px dashed #ccc;
+    height: 40px;
+}
+.grid:last-child::after{
+    display: none;
+}
+.grid:last-child{
+    padding-bottom: 0;
+    height: auto;
+}
+.completed{
+position: relative;
+}
+.completed::after{
+    content: '';
+    position: absolute;
+    z-index: 1;
+    top: 29px;
+    bottom: 0;
+    left: 12px;
+    border-left: 1.5px dashed #DFA32A;
+    height: 40px;
+}
+.paddingTop{
+    padding-top: 15px;
+}
+.tableGrid{
+    display: grid;
+    grid-template-columns: 100% auto;
+}
+.tablePadding{
+    padding-left: 10px;
+}
+.fontCss{
+    font-size: 15px;
+    color: #A19F9B;
+}
+.downIconCss{
+    position: absolute;
+    top: 30px;
+    right: 20px;
+    font-size: 24px;
+}
+.name{
+    padding-left: 12px;
+    display: inline-block;
+}
+.pricingCss{
+    font-size: 14px;
+    color: #DFA32A;
+    padding-top: 2px;
+}
+.timeCss{
+    padding-left: 2px;
+    position: relative;
+    top: 1px;
+}
+.timeGrid{
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    padding: 13px 15px;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+.timeGrid:last-child{
+    border-bottom: 0;
+}
+.totalCss{
+    padding: 15px;
+    border: 1px solid rgba(0,0,0,.125);
+    max-width: 350px;
+    border-radius: 10px;
+    margin: 15px auto;
+    text-align: center;
+}
+.subCategoryImage{
+    width: 100%;
+    max-width: 100px;
+}
+.jobPhotos{
+    margin-bottom: 15px;
+    cursor:pointer;
+}
+.photoBg{
+    width: 100%;
+    min-height: 140px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+}
+.lineBreak {
+	white-space: pre-line;
+}
+.timerGrid{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.timeLinePhoto{
+    width: 80px;
+    height: 65px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 7px 0px;
+
+}
+.displayFlexTimeLine{
+    display: flex;
+}
+.disInline{
+    display: inline-block;
+}
+@media screen and (max-width: 1023px) {
+    .circleHeight{
+        height: auto;
+    }
+    .circleHeight:nth-child(2) .circle::after{
+        background: transparent !important;
+    }
+    .circleHeight:nth-child(3) .circle::after{
+        background: transparent !important;
+    }
+}
+@media (max-width:1023px) and (min-width:768px) {
+    .photoBg {
+        width: 50%;
+        padding-top: 27.66%;
+    }
+    }
+@media screen and (max-width: 767px) {
+.textAlignMb{
+    text-align: center;
+}
+.canCancelBtnMb{
+    display: block;
+    margin: 0  auto 18px auto;
+}
+.photoBg {
+    padding-top: 27.66%;
+}
+}
+
+.toolTop {
+	position: relative;
+	opacity: 1;
+	padding: 6px 10px;
+	left: -50%;
+	top: -60px;
+	background-color: #ffffff;
+}
+.toolMarker {
+	height: 12px;
+	width: 12px;
+	border-radius: 50%;
+	position: absolute;
+	top: 6px;
+	left: -6px;
+	background: #fff;
+}
+.toolLable {
+	position: relative;
+	left: -50%;
+	top: 3px;
+	text-align: center;
+}
+.toolText {
+	margin-top: 30px;
+}
+.faqImage {
+    width: 100%;
+    max-width: 19px;
+    vertical-align: top;
+    margin-left: 5px;
+    margin-top: 4px;
+}

@@ -1,0 +1,5490 @@
+[
+  {
+    "id": "exceedLimit",
+    "description": "exceedLimit",
+    "defaultMessage": "Maximum allowed character is 255.",
+    "message": "Maksimalni dopušteni karakter je 255.",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.email",
+    "description": "Your Email Address to Login",
+    "defaultMessage": "Email Address",
+    "message": "Email adresa",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Nevažeća adresa e -pošte",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "Za ovu e -poštu ne postoji račun. Provjerite je li upisano ispravno ili se umjesto toga \"prijavite",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "Potrebna je e -pošta",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "Već si prijavljen!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.password",
+    "description": "Your Password to Login",
+    "defaultMessage": "Password",
+    "message": "Lozinka",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "Vaša lozinka mora biti najmanje 8 znakova. Molim te pokušaj ponovno",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "potrebna je lozinka",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Pogrešna lozinka. Molim te pokušaj ponovno",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Oprostite, nešto je pošlo naopako. Molim te pokušaj ponovno",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.userLoggedIn",
+    "description": "You are already Logged-in as user",
+    "defaultMessage": "You are already logged in as User, please logout in the main site to continue!",
+    "message": "Već ste prijavljeni kao korisnik, odjavite se na glavnoj web stranici da biste nastavili!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "AddListSettingsForm.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Dodati",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNew",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "Ime",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNewDescription",
+    "description": "description",
+    "defaultMessage": "Description",
+    "message": "Opis",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.delete",
+    "description": "Delete Button",
+    "defaultMessage": "Delete",
+    "message": "Izbrisati",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.required",
+    "description": "Required",
+    "defaultMessage": "*Required",
+    "message": "*Potreban",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.update",
+    "description": "Update Button",
+    "defaultMessage": "Update",
+    "message": "Ažuriraj",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.blankSpace",
+    "description": "Password error",
+    "defaultMessage": "Password should not be blank space.",
+    "message": "Lozinka ne bi trebala biti prazan prostor.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailBlankSpace",
+    "description": "email address error",
+    "defaultMessage": "Email should not be blank spaces",
+    "message": "E -pošta ne bi trebala biti prazni prostori",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailInvalid",
+    "description": "email address error",
+    "defaultMessage": "*Invalid email address",
+    "message": "*Nevažeća adresa e -pošte",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.passwordInvalid",
+    "description": "Password minimum characters error",
+    "defaultMessage": "Password should be minimum 8 characters.",
+    "message": "Lozinka bi trebala biti najmanje 8 znakova.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "app.Amount",
+    "description": "Amount",
+    "defaultMessage": "Amount",
+    "message": "Iznos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.BaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Base Currency",
+    "message": "Bazna valuta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Becomeahost",
+    "description": "Becomeahost",
+    "defaultMessage": "Become a host",
+    "message": "Postanite domaćin",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Disable",
+    "description": "Ban Status",
+    "defaultMessage": "Disable",
+    "message": "Onesposobiti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Disabled",
+    "description": "Ban Status",
+    "defaultMessage": "Disabled",
+    "message": "Onemogućeno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Discover",
+    "description": "Discover",
+    "defaultMessage": "Discover",
+    "message": "Otkriti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Enable",
+    "description": "Ban Status",
+    "defaultMessage": "Enable",
+    "message": "Omogućiti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Enabled",
+    "description": "Ban Status",
+    "defaultMessage": "Enabled",
+    "message": "Omogućeno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.HomeSiteSettings",
+    "description": "HomeSiteSettings",
+    "defaultMessage": "Homepage Settings",
+    "message": "Postavke početne stranice",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Hosting",
+    "description": "Hosting",
+    "defaultMessage": "Hosting",
+    "message": "Usluge poslužitelja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Preferred Distance Type",
+    "description": "Preferred Distance Type",
+    "defaultMessage": "Preferred Distance Type",
+    "message": "Preferirana vrsta udaljenosti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Safety",
+    "description": "Safety",
+    "defaultMessage": "Safety",
+    "message": "Sigurnost",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Support",
+    "description": "Ban Status",
+    "defaultMessage": "Support",
+    "message": "Podržati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Terms",
+    "description": "Terms",
+    "defaultMessage": "Terms & Privacy",
+    "message": "Uvjeti i privatnost",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Travel",
+    "description": "Trust",
+    "defaultMessage": "Travel Credit",
+    "message": "Travel Credit",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Trust",
+    "description": "Trust",
+    "defaultMessage": "Trust & Safety",
+    "message": "Povjerenje i sigurnost",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Wooberly",
+    "description": "Wooberly",
+    "defaultMessage": "Wooberly",
+    "message": "Lukavo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.about",
+    "description": "About Nav link",
+    "defaultMessage": "About",
+    "message": "Oko",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutFooter",
+    "description": "AboutFooter",
+    "defaultMessage": "About Us",
+    "message": "O nama",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutFooterDesc",
+    "description": "aboutFooterDesc",
+    "defaultMessage": "An cum maiorum repudiandae, cu eam dolore bonorum probatus. Et legere sanctus cum, quot nostrud postulant ex mei. Ad ullum audire admodum eos. Ne eam quod habeo aeque, ad decoreos.",
+    "message": "Cum maiorum repudiandae, cu eam dolore bonorum probatus. Et legere sanctus cum, quostrud postulant ex mei. Ad ullum audire Admodum eos. Ne eam quod habeo aeque, ad decoreos.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutImage1",
+    "description": "Feature Icon 1",
+    "defaultMessage": "Feature Icon #1",
+    "message": "Ikona značajki #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutImage2",
+    "description": "Feature Icon 2",
+    "defaultMessage": "Feature Icon #2",
+    "message": "Ikona značajki #2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutSectionSettings",
+    "description": "Top Features Settings",
+    "defaultMessage": "Top Features",
+    "message": "Vrhunske značajke",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.action",
+    "description": "Action",
+    "defaultMessage": "Action",
+    "message": "Akcijski",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.active",
+    "description": "Active Status",
+    "defaultMessage": "Active",
+    "message": "Aktivan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Dodati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addAdminRole",
+    "description": "Title",
+    "defaultMessage": "Add Admin Role",
+    "message": "Dodajte administratorsku ulogu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addAdminUserLabel",
+    "description": "Add Admin User",
+    "defaultMessage": "Add Admin User",
+    "message": "Dodaj korisnika administratora",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCancelReason",
+    "description": "Add Cancel Reason",
+    "defaultMessage": "Add Cancel Reason",
+    "message": "Dodaj Odustajanje razloga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCategory",
+    "description": "Add category form header",
+    "defaultMessage": "Add Category",
+    "message": "Dodaj kategoriju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addFare",
+    "description": "Button",
+    "defaultMessage": "Add Fare",
+    "message": "Dodajte cijenu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addLocation",
+    "description": "addLocation",
+    "defaultMessage": "Add Location",
+    "message": "Dodaj lokaciju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addNewLabel",
+    "description": "Add New",
+    "defaultMessage": "Add New",
+    "message": "Dodaj novi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addOnly",
+    "description": "Fares",
+    "defaultMessage": "Address",
+    "message": "Adresa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addPage",
+    "description": "Add Page",
+    "defaultMessage": "Add Page",
+    "message": "Dodajte stranicu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addPromoCode",
+    "description": "Add PromoCode",
+    "defaultMessage": "Add Promo Code",
+    "message": "Dodajte promo kod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adeditFaredFare",
+    "description": "Button",
+    "defaultMessage": "Edit Fare",
+    "message": "Uredi kartu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminName",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "Ime",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminRole",
+    "description": "Admin Role",
+    "defaultMessage": "Admin Role",
+    "message": "Administrativna uloga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminUserLabel",
+    "description": "Admin User",
+    "defaultMessage": "Admin User",
+    "message": "Administratorski korisnik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminpanel",
+    "description": "admin panel",
+    "defaultMessage": "Admin Panel",
+    "message": "upravljačka ploča",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allonly",
+    "description": "Fares",
+    "defaultMessage": "All",
+    "message": "svi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedPaymentCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Allowed Payment Currency",
+    "message": "Dopuštena valuta plaćanja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.approve",
+    "description": "Approve",
+    "defaultMessage": "Approve",
+    "message": "Odobriti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.approved",
+    "description": "Approved Status",
+    "defaultMessage": "Approved",
+    "message": "Odobren",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.appstorelink",
+    "description": "Fares",
+    "defaultMessage": "App Store Link",
+    "message": "Link App Store",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.askQuestion",
+    "description": "Ban Status",
+    "defaultMessage": "Ask a question",
+    "message": "Pitati pitanje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availableSeats",
+    "description": "Available Seats",
+    "defaultMessage": "Available Seats",
+    "message": "Dostupna sjedala",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.ban",
+    "description": "Ban Status",
+    "defaultMessage": "Ban",
+    "message": "Zabrana",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.banStatus",
+    "description": "Ban Status Permit/Ban",
+    "defaultMessage": "Ban Status",
+    "message": "Status zabrane",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bannerDesc",
+    "description": "Description in header",
+    "defaultMessage": "Complex web apps made easy",
+    "message": "Složene web aplikacije olakšale su",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bannerTitle",
+    "description": "Title in page header",
+    "defaultMessage": "React",
+    "message": "Reagirati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingDetails",
+    "description": "Booking Details",
+    "defaultMessage": "Booking Details",
+    "message": "Pojedinosti o rezervaciji",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingId",
+    "description": "Booking ID",
+    "defaultMessage": "Booking ID",
+    "message": "ID rezervacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookings",
+    "description": "bookings",
+    "defaultMessage": "Bookings",
+    "message": "Rezervacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingsMenu",
+    "description": "bookingsMenu",
+    "defaultMessage": "Manage Jobs",
+    "message": "Upravljanje poslovima",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.brand",
+    "description": "Brand name displayed in header",
+    "defaultMessage": "app",
+    "message": "aplikacija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.button",
+    "description": "Button",
+    "defaultMessage": "Button",
+    "message": "Dugme",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.buttonLabel",
+    "description": "Change Password",
+    "defaultMessage": "Button Label",
+    "message": "Naljepnica",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelButton",
+    "description": "Cancel",
+    "defaultMessage": "Cancel",
+    "message": "Otkazati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Otkaži razlog",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancellationReasons",
+    "description": "Cancellation Reasons",
+    "defaultMessage": "Cancellation Reasons",
+    "message": "Razlozi otkaza",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledBy",
+    "description": "Cancelled By",
+    "defaultMessage": "Cancelled By",
+    "message": "Otkazano od strane",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.capacity",
+    "description": "Capacity",
+    "defaultMessage": "Capacity",
+    "message": "Kapacitet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.card",
+    "description": "Card",
+    "defaultMessage": "Card",
+    "message": "Kartica",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cash",
+    "description": "Cash",
+    "defaultMessage": "Cash",
+    "message": "Unovčiti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categorieslist",
+    "description": "categoryMenu",
+    "defaultMessage": "Categories",
+    "message": "Kategorije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.category",
+    "description": "Category",
+    "defaultMessage": "Category",
+    "message": "Kategorija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryContent",
+    "description": "Category Content",
+    "defaultMessage": "Category Content",
+    "message": "Sadržaj kategorije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryIcon",
+    "description": "",
+    "defaultMessage": "Category Icon",
+    "message": "Ikona kategorije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryId",
+    "description": "Category ID",
+    "defaultMessage": "Category ID",
+    "message": "ID kategorije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryMapMarker",
+    "description": "",
+    "defaultMessage": "Category Map Marker",
+    "message": "Oznaka mape kategorije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryMenu",
+    "description": "categoryMenu",
+    "defaultMessage": "Manage Categories",
+    "message": "Upravljati kategorijama",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryName",
+    "description": "Category Name",
+    "defaultMessage": "Category Name",
+    "message": "ime kategorije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryTitle",
+    "description": "Category Title",
+    "defaultMessage": "Category Title",
+    "message": "Naslov kategorije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.changeAdminPassword",
+    "description": "Change Admin Email/Password",
+    "defaultMessage": "Change Admin Email/Password",
+    "message": "Promijenite administratorsku e -poštu/lozinku",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.changePassword",
+    "description": "Change Password",
+    "defaultMessage": "Change Password",
+    "message": "Promijenite lozinku",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chatLabel",
+    "description": "Chat",
+    "defaultMessage": "Chat",
+    "message": "razgovor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chatMessageLabel",
+    "description": "Chat Message",
+    "defaultMessage": "Chat Message",
+    "message": "Chat poruka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.checkmein",
+    "description": "Fares",
+    "defaultMessage": "Check me in",
+    "message": "Provjeri me",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.checkmeout",
+    "description": "Fares",
+    "defaultMessage": "Check me out",
+    "message": "Pogledajte me",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chooseFile",
+    "description": "",
+    "defaultMessage": "Choose File",
+    "message": "Odaberite datoteku",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chooseLanguageLabel",
+    "description": "Choose a Language",
+    "defaultMessage": "Choose a Language",
+    "message": "Odaberite jezik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.city",
+    "description": "city",
+    "defaultMessage": "Lorem Ipsum is simply dummy text",
+    "message": "Lorem ipsum je jednostavno lutkasta tekst",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.citySectionSettings",
+    "description": "Category Settings",
+    "defaultMessage": "Category",
+    "message": "Kategorija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.code",
+    "description": "text",
+    "defaultMessage": "Code",
+    "message": "Kodirati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.comments",
+    "description": "Comments",
+    "defaultMessage": "Comments",
+    "message": "Komentari",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.completed",
+    "description": "Completed Status",
+    "defaultMessage": "Completed",
+    "message": "Dovršen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.completedLabel",
+    "description": "Label",
+    "defaultMessage": "Completed",
+    "message": "Dovršen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.confirmPassword",
+    "description": "Change Password",
+    "defaultMessage": "Confirm Password",
+    "message": "Potvrdi lozinku",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contact",
+    "description": "Contact Nav link",
+    "defaultMessage": "Contact",
+    "message": "Kontakt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactUs",
+    "description": "contact",
+    "defaultMessage": "Contact Us",
+    "message": "Kontaktirajte nas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content",
+    "description": "Content 1",
+    "defaultMessage": "Content",
+    "message": "Sadržaj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content1",
+    "description": "Content 1",
+    "defaultMessage": "Content 1",
+    "message": "Sadržaj 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content2",
+    "description": "Content 2",
+    "defaultMessage": "Content 2",
+    "message": "Sadržaj 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content3",
+    "description": "Content 3",
+    "defaultMessage": "Content 3",
+    "message": "Sadržaj 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content4",
+    "description": "Content 4",
+    "defaultMessage": "Content 4",
+    "message": "Sadržaj 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content5",
+    "description": "Content 5",
+    "defaultMessage": "Content 5",
+    "message": "Sadržaj 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content6",
+    "description": "Content 6",
+    "defaultMessage": "Content 6",
+    "message": "Sadržaj 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contentpageManagement",
+    "description": "Content Management",
+    "defaultMessage": "Content Management",
+    "message": "Upravljanje sadržajem",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.copyRightcontent",
+    "description": "Change Password",
+    "defaultMessage": "Copyrights content",
+    "message": "Sadržaj autorskih prava",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.copyRights",
+    "description": "Copy Rights",
+    "defaultMessage": "Wooberly 2020. All Rights Reserved",
+    "message": "Wooberly 2020. Sva prava pridržana",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.country",
+    "description": "Country Name",
+    "defaultMessage": "Country",
+    "message": "Zemlja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.countryCodeError",
+    "description": "Invalid Country Code",
+    "defaultMessage": "Invalid Country Code",
+    "message": "Nevažeći kodeks države",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.createdAt",
+    "description": "Created date",
+    "defaultMessage": "Account Created on",
+    "message": "Račun stvoren na",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.credentialError",
+    "description": "Fares",
+    "defaultMessage": "Sorry, a critical error occurred on this page.",
+    "message": "Oprostite, na ovoj stranici se dogodila kritična pogreška.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currencies",
+    "description": "Ban Status",
+    "defaultMessage": "Currencies",
+    "message": "Valute",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currency",
+    "description": "Currency Type",
+    "defaultMessage": "Currency",
+    "message": "Valuta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currencyList",
+    "description": "Manage Currency",
+    "defaultMessage": "Manage Currency",
+    "message": "Upravljati valutom",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dashboard",
+    "description": "dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "Nadzorna ploča",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.decline",
+    "description": "Decline",
+    "defaultMessage": "Decline",
+    "message": "Odbiti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.declined",
+    "description": "Declined Status",
+    "defaultMessage": "Declined",
+    "message": "Odbijeno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.deleteAction",
+    "description": "Delete action name",
+    "defaultMessage": "Delete",
+    "message": "Izbrisati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.description",
+    "description": "text",
+    "defaultMessage": "Description",
+    "message": "Opis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.details",
+    "description": "Details",
+    "defaultMessage": "Details",
+    "message": "Detalji",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.discount",
+    "description": "text",
+    "defaultMessage": "Discount",
+    "message": "Popust",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "Delectus scaevola elaboraret vel ad ad, ne noster vocent prodsset, nec ei omittantur disidentiet. Nobis Postea ei est.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppText",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The User App",
+    "message": "Preuzmite korisničku aplikaciju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropLocation",
+    "description": "Drop Location",
+    "defaultMessage": "Drop Location",
+    "message": "Napusti mjesto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropzoneUpload",
+    "description": "Dropzone upload info",
+    "defaultMessage": "Upload a file from your computer",
+    "message": "Pošaljite datoteku s računala",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropzoneUploadError",
+    "description": "Dropzone upload error message",
+    "defaultMessage": "Remove the existing image and try upload again",
+    "message": "Uklonite postojeću sliku i pokušajte ponovo prenijeti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dummyText",
+    "description": "dummyText",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum je jednostavno lukav tekst industrije tiskanja i unosa. Lorem Ipsum bio je industrijski standardni tekst lutke još od 1500 -ih, kada je nepoznati pisač uzeo vrstu tipa i zabio ga kako bi napravio knjigu uzoraka tipa.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.earnings",
+    "description": "Earnings",
+    "defaultMessage": "Your Earnings",
+    "message": "Vaša zarada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.edit",
+    "description": "edit",
+    "defaultMessage": "Edit",
+    "message": "Uredi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAction",
+    "description": "Edit action name",
+    "defaultMessage": "Edit",
+    "message": "Uredi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAdminRole",
+    "description": "Title",
+    "defaultMessage": "Edit Admin Role",
+    "message": "Uredi administratorsku ulogu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAdminUserLabel",
+    "description": "Edit Admin User",
+    "defaultMessage": "Edit Admin User",
+    "message": "Uredi Admin korisnika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editCancelReason",
+    "description": "Edit Cancel Reason",
+    "defaultMessage": "Edit Cancel Reason",
+    "message": "Uredi Otkaži razlog",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editCategory",
+    "description": "Edit category form header",
+    "defaultMessage": "Edit Category",
+    "message": "Uredi kategoriju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editLocation",
+    "description": "Edit Location",
+    "defaultMessage": "Edit Location",
+    "message": "Uređivanje lokacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPageDetails",
+    "description": "Edit Page Details",
+    "defaultMessage": "Edit Page Details",
+    "message": "Uredi detalje stranice",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPromoCode",
+    "description": "Edit PromoCode",
+    "defaultMessage": "Edit Promo Code",
+    "message": "Uređivanje promo koda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Nevažeća adresa e -pošte",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "Za ovu e -poštu ne postoji račun. Provjerite je li upisano ispravno ili se umjesto toga \"prijavite",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "Potrebna je e -pošta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailText",
+    "description": "Email",
+    "defaultMessage": "Email",
+    "message": "E -pošta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailaddress",
+    "description": "emailaddress",
+    "defaultMessage": "Email Address",
+    "message": "Email adresa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.enableDisable",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Enable / Disable",
+    "message": "Set Omogući / onemogući",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.errorOnly",
+    "description": "Fares",
+    "defaultMessage": "Error",
+    "message": "Pogreška",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit",
+    "description": "Exceeding character limit",
+    "defaultMessage": "Exceeding character limit",
+    "message": "Prekoračenje ograničenja karaktera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit100",
+    "description": "Maximum 100 words",
+    "defaultMessage": "Maximum 100 words",
+    "message": "Maksimalno 100 riječi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.expireDate",
+    "description": "text",
+    "defaultMessage": "Expiry Date",
+    "message": "Datum isteka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.expired",
+    "description": "Expired Status",
+    "defaultMessage": "Expired",
+    "message": "Istekao",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exportDataIntoCSV",
+    "description": "Export Data into CSV",
+    "defaultMessage": "Export Data into CSV",
+    "message": "Izvoz podataka u CSV",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.facebookUrl",
+    "description": "Fares",
+    "defaultMessage": "Facebook URL",
+    "message": "Facebook URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fares",
+    "description": "Fares",
+    "defaultMessage": "Fares",
+    "message": "Cijeni",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #1",
+    "message": "Opis značajke br. 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #2",
+    "message": "Opis značajke br. 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #3",
+    "message": "Opis značajke br. 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #4",
+    "message": "Opis značajke #4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #5",
+    "message": "Opis značajke br. 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #6",
+    "message": "Opis značajke br. 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #1",
+    "message": "Naslov značajke br. 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #2",
+    "message": "Naslov značajke br. 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #3",
+    "message": "Naslov značajke br. 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #4",
+    "message": "Naslov značajki #4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #5",
+    "message": "Naslov značajke br. 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #6",
+    "message": "Naslov značajki br. 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.firstName",
+    "description": "firstName",
+    "defaultMessage": "First Name",
+    "message": "Ime",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixed",
+    "description": "Fixed Fee Type",
+    "defaultMessage": "Fixed",
+    "message": "Fiksni",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixedAmount",
+    "description": "text",
+    "defaultMessage": "Fixed Amount",
+    "message": "Fiksni iznos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.floatError",
+    "description": "Numeric Error Response",
+    "defaultMessage": "It should be a number value",
+    "message": "To bi trebala biti vrijednost broja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.followUs",
+    "description": "Follow Us",
+    "defaultMessage": "Follow  Us",
+    "message": "Prati nas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerCategory",
+    "description": "Footer Category",
+    "defaultMessage": "Footer Category",
+    "message": "Kategorija podnožja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerContent1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Content #1",
+    "message": "Sadržaj podnožja br. 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo1",
+    "description": "Footer Logo 1",
+    "defaultMessage": "Footer Logo #1",
+    "message": "Logo podnožja br. 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo2",
+    "description": "Footer Logo 2",
+    "defaultMessage": "Footer Logo #2",
+    "message": "Logo podnožja br. 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo3",
+    "description": "Footer Logo 3",
+    "defaultMessage": "Footer Logo #3",
+    "message": "Logo podnožja br. 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo4",
+    "description": "Footer Logo 4",
+    "defaultMessage": "Footer Logo #4",
+    "message": "Logo podnožja #4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerSectionSettings",
+    "description": "Footer Settings",
+    "defaultMessage": "Footer",
+    "message": "Podnožje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Title #1",
+    "message": "Naslov podnožja br. 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerUrltitle",
+    "description": "Change Password",
+    "defaultMessage": "Footer URL Title",
+    "message": "Naslov URL -a za podnožje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.forceUpdate",
+    "description": "forceUpdate",
+    "defaultMessage": "Force update",
+    "message": "Ažuriranje snage",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.form",
+    "description": "form",
+    "defaultMessage": "Form",
+    "message": "Oblik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.formssidebar",
+    "description": "formssidebar",
+    "defaultMessage": "Forms",
+    "message": "Obrazac",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.goBack",
+    "description": "Go Back Button Text",
+    "defaultMessage": "Go Back",
+    "message": "Vratiti se",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.goToMainSite",
+    "description": "goToMainSite option",
+    "defaultMessage": "Go to main site",
+    "message": "Idite na glavno mjesto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescFive",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID po Gloriatur Tincidunt. Vim Odio Unum Atomorum at. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescFour",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID po Gloriatur Tincidunt. Vim Odio Unum Atomorum at. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescOne",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID po Gloriatur Tincidunt. Vim Odio Unum Atomorum at. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescSix",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID po Gloriatur Tincidunt. Vim Odio Unum Atomorum at. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescThree",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID po Gloriatur Tincidunt. Vim Odio Unum Atomorum at. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescTwo",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID po Gloriatur Tincidunt. Vim Odio Unum Atomorum at. Ut essent dicunt dolorum mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitle",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleFive",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleFour",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleSix",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleThree",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleTwo",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.heading",
+    "description": "heading",
+    "defaultMessage": "Heading",
+    "message": "Naslov",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.holdPayout",
+    "description": "Hold Payout",
+    "defaultMessage": "Hold Payout",
+    "message": "Zadržati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeContent",
+    "description": "Start Riding With Wooberly",
+    "defaultMessage": "Start Riding With Wooberly",
+    "message": "Počnite voziti s Wooberlyjem",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeContent1",
+    "description": "Banner Content",
+    "defaultMessage": "Banner Content",
+    "message": "Sadržaj natpisa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage1",
+    "description": "Banner Image 1",
+    "defaultMessage": "Banner Image #1",
+    "message": "Slika natpisa br. 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage2",
+    "description": "Banner Image 2",
+    "defaultMessage": "Banner Image #2",
+    "message": "Slika natpisa br. 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage3",
+    "description": "Banner Image 3",
+    "defaultMessage": "Banner Image #3",
+    "message": "Slika natpisa br. 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage4",
+    "description": "Banner Image 4",
+    "defaultMessage": "Banner Image #4",
+    "message": "Slika natpisa br. 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage5",
+    "description": "Banner Image 5",
+    "defaultMessage": "Banner Image #5",
+    "message": "Slika natpisa br. 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage6",
+    "description": "Banner Image 6",
+    "defaultMessage": "Banner Image #6",
+    "message": "Slika natpisa br. 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage7",
+    "description": "Banner Image Tablet",
+    "defaultMessage": "Banner Image Tablet",
+    "message": "Tablet s natpisom",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage8",
+    "description": "Banner Image Mobile",
+    "defaultMessage": "Banner Image Mobile",
+    "message": "Slika natpisa Mobile",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeSectionSettings",
+    "description": "Banner Settings",
+    "defaultMessage": "Banner",
+    "message": "Baner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeTitle",
+    "description": "Banner Title",
+    "defaultMessage": "Banner Title",
+    "message": "Naslov natpisa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeonly",
+    "description": "Fares",
+    "defaultMessage": "Home",
+    "message": "Dom",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homepageBanner",
+    "description": "Homepage Banner Settings",
+    "defaultMessage": "Homepage Banner",
+    "message": "Natpis na početnoj stranici",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.id",
+    "description": "ID text",
+    "defaultMessage": "ID",
+    "message": "iskaznica",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.image",
+    "description": "Label",
+    "defaultMessage": "Image",
+    "message": "Slika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.inactive",
+    "description": "Inactive Status",
+    "defaultMessage": "Inactive",
+    "message": "Neaktivan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.instaUrl",
+    "description": "Fares",
+    "defaultMessage": "Instagram URL",
+    "message": "Instagram URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.insuranceImage",
+    "description": "insuranceImage",
+    "defaultMessage": "Insurance Image",
+    "message": "Slika osiguranja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.intError",
+    "description": "Integer Error Response",
+    "defaultMessage": "It should be a decimal value",
+    "message": "To bi trebala biti decimalna vrijednost",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalidUrl",
+    "description": "Invalid Page URL",
+    "defaultMessage": "Invalid Page URL",
+    "message": "Nevažeći URL stranice",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalidVersionNumber",
+    "description": "invalidVersionNumber",
+    "defaultMessage": "Invalid Version Number",
+    "message": "Nevažeći broj verzije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.km",
+    "description": "Km",
+    "defaultMessage": "Km",
+    "message": "Km",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.lastHours",
+    "description": "Ban Status",
+    "defaultMessage": "Last 24 hours",
+    "message": "Zadnjih 24 sata",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.lastName",
+    "description": "lastName",
+    "defaultMessage": "Last Name",
+    "message": "Prezime",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.leaveEmail",
+    "description": "Change Password",
+    "defaultMessage": "Leave email address field blank if you don't want to change the email",
+    "message": "Ostavite polje adrese e -pošte prazno ako ne želite promijeniti e -poštu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.licenceBackImage",
+    "description": "licenceBackImage",
+    "defaultMessage": "Licence Back Image",
+    "message": "Licenca Povratna slika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.licenceFrontImage",
+    "description": "licenceFrontImage",
+    "defaultMessage": "Licence Front Image",
+    "message": "Prednja slika licence",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.listings",
+    "description": "Ban Status",
+    "defaultMessage": "Listings",
+    "message": "Popisi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.loadMoreMsg",
+    "description": "Load more button",
+    "defaultMessage": "Load More",
+    "message": "Učitaj više",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.location",
+    "description": "location",
+    "defaultMessage": "Manage Location",
+    "message": "Upravljanje lokacijom",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.locationName",
+    "description": "Table header",
+    "defaultMessage": "Location",
+    "message": "Mjesto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.locations",
+    "description": "Pagination",
+    "defaultMessage": "Locations",
+    "message": "Mjesta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "Već si prijavljen!",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.login",
+    "description": "Login Nav link",
+    "defaultMessage": "Login",
+    "message": "Prijaviti se",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logo",
+    "description": "Logo",
+    "defaultMessage": "Logo",
+    "message": "Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logoheight",
+    "description": "Fares",
+    "defaultMessage": "Logo Height",
+    "message": "Visina logotipa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logout",
+    "description": "logout option",
+    "defaultMessage": "Logout",
+    "message": "Odjavite se",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logowidth",
+    "description": "Fares",
+    "defaultMessage": "Logo Width",
+    "message": "Širina logotipa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdmin",
+    "description": "Manage Admins",
+    "defaultMessage": "Manage Admins",
+    "message": "Upravljanje administratorima",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdminRoles",
+    "description": "Manage Admin Roles",
+    "defaultMessage": "Manage Admin Roles",
+    "message": "Upravljanje ulogama administratora",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdminUsers",
+    "description": "Manage Admin Users",
+    "defaultMessage": "Manage Admin Users",
+    "message": "Upravljanje korisnicima administratora",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Otkaži razlog",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCurrency",
+    "description": "manageCurrency sidemenu",
+    "defaultMessage": "Manage Currency",
+    "message": "Upravljati valutom",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageDashboard",
+    "description": "Manage Dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "Nadzorna ploča",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageFailedPayout",
+    "description": "Failed Payout",
+    "defaultMessage": "Failed Payout",
+    "message": "Neuspjela isplata",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageFare",
+    "description": "Admin sidemenu",
+    "defaultMessage": "Manage Fare",
+    "message": "Upravljati cijenom",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageNotifications",
+    "description": "Manage Notifications",
+    "defaultMessage": "Manage Notifications",
+    "message": "Upravljanje obavijestima",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePayout",
+    "description": "managePayout",
+    "defaultMessage": "Manage Payout",
+    "message": "Upravljanje isplatom",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePromoCode",
+    "description": "managePromoCode sidemenu",
+    "defaultMessage": "Manage Promo Code",
+    "message": "Upravljanje promo kodom",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maximumUploadSizeLabel",
+    "description": "",
+    "defaultMessage": "Maximum upload size",
+    "message": "Maksimalna veličina prijenosa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuFour",
+    "description": "menuFour",
+    "defaultMessage": "MenuFour",
+    "message": "Izbornik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuOne",
+    "description": "form",
+    "defaultMessage": "MenuOne",
+    "message": "Mental",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuTwo",
+    "description": "MenuTwo",
+    "defaultMessage": "MenuTwo",
+    "message": "Menutwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.messageLength",
+    "description": "Message must be 200 characters or less",
+    "defaultMessage": "Message must be 200 characters or less",
+    "message": "Poruka mora biti 200 znakova ili manje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.messageRequired",
+    "description": "Message is required",
+    "defaultMessage": "Message is required",
+    "message": "Poruka je potrebna",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDesc",
+    "description": "Fares",
+    "defaultMessage": "Meta Description",
+    "message": "Meta opis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDescription",
+    "description": "Description must be 255 characters or less",
+    "defaultMessage": "Description must be 255 characters or less",
+    "message": "Opis mora biti 255 znakova ili manje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDescriptionText",
+    "description": "Meta Description",
+    "defaultMessage": "Meta Description",
+    "message": "Meta opis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaKeyword",
+    "description": "Keyword must be 255 characters or less",
+    "defaultMessage": "Keyword must be 255 characters or less",
+    "message": "Ključna riječ mora biti 255 znakova ili manje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaTitle",
+    "description": "Meta Title",
+    "defaultMessage": "Meta Title",
+    "message": "Meta naslov",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metakey",
+    "description": "Fares",
+    "defaultMessage": "Meta Keyword",
+    "message": "Meta ključna riječ",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mile",
+    "description": "Mile",
+    "defaultMessage": "Mile",
+    "message": "Milja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.miles",
+    "description": "Fares",
+    "defaultMessage": "Miles",
+    "message": "Milja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutePrice",
+    "description": "Minute Price",
+    "defaultMessage": "Minute Price",
+    "message": "Minutna cijena",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutes",
+    "description": "minutes",
+    "defaultMessage": "minutes",
+    "message": "minute",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.montly",
+    "description": "montly",
+    "defaultMessage": "This Month",
+    "message": "Ovaj mjesec",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.msgOnly",
+    "description": "Change Password",
+    "defaultMessage": "Message",
+    "message": "Poruka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.nameOnly",
+    "description": "Change Password",
+    "defaultMessage": "Name",
+    "message": "Ime",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.no",
+    "description": "no",
+    "defaultMessage": "No",
+    "message": "Ne",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noItmesFound",
+    "description": "No items found",
+    "defaultMessage": "No items found",
+    "message": "Nije pronađena predmeta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noResult",
+    "description": "noResult",
+    "defaultMessage": "No results found",
+    "message": "Nema rezultata",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notFound",
+    "description": "Ban Status",
+    "defaultMessage": "Sorry, the page you were trying to view does not exist.",
+    "message": "Oprostite, stranica koju ste pokušavali pogledati ne postoji.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notRequired",
+    "description": "Label",
+    "defaultMessage": "No Action Required",
+    "message": "Nije potrebna radnja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notRequiredMessage",
+    "description": "Not Required",
+    "defaultMessage": "Not Required",
+    "message": "Nije obavezno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.numberError",
+    "description": "Invalid Phone Number",
+    "defaultMessage": "Invalid Phone Number",
+    "message": "Nevažeći telefonski broj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.numericValue",
+    "description": "Numeric value required",
+    "defaultMessage": "Numeric value required",
+    "message": "Potrebna numerička vrijednost",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.offline",
+    "description": "offline",
+    "defaultMessage": "Offline",
+    "message": "Izvan mreže",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.oneOne",
+    "description": "Ban Status",
+    "defaultMessage": "One",
+    "message": "Jedan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.online",
+    "description": "online",
+    "defaultMessage": "Online",
+    "message": "Na liniji",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.optionOne",
+    "description": "Fares",
+    "defaultMessage": "option 1",
+    "message": "opcija 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.overAll",
+    "description": "Overall",
+    "defaultMessage": "Overall",
+    "message": "Opći",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageBanner",
+    "description": "Page Banner",
+    "defaultMessage": "Page Banner",
+    "message": "Natpis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageImageBanner",
+    "description": "Page Image Banner",
+    "defaultMessage": "Page Image Banner",
+    "message": "Natpis slike",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageName",
+    "description": "Page Name",
+    "defaultMessage": "Page Name",
+    "message": "Naziv stranice",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageTitle",
+    "description": "Page Title",
+    "defaultMessage": "Page Title",
+    "message": "Naslov stranice",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageUrl",
+    "description": "Page URL",
+    "defaultMessage": "Page URL",
+    "message": "URL URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paid",
+    "description": "Paid",
+    "defaultMessage": "Paid",
+    "message": "Plaćen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.password",
+    "description": "password",
+    "defaultMessage": "Password",
+    "message": "Lozinka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "Vaša lozinka mora biti najmanje 8 znakova. Molim te pokušaj ponovno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "potrebna je lozinka",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordText",
+    "description": "Password Content",
+    "defaultMessage": "Provide new password only. Ignore this field to use the existing password for this user.",
+    "message": "Navedite samo novu lozinku. Zanemarite ovo polje za upotrebu postojeće lozinke za ovog korisnika.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Pogrešna lozinka. Molim te pokušaj ponovno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paymentMethod",
+    "description": "Payment Method",
+    "defaultMessage": "Payment Method",
+    "message": "Način plaćanja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paymentType",
+    "description": "Payment Type",
+    "defaultMessage": "Payment Type",
+    "message": "Način plaćanja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.payoutAmount",
+    "description": "Payout Amount",
+    "defaultMessage": "Payout Amount",
+    "message": "Iznos isplate",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.payoutStatus",
+    "description": "Payout Status",
+    "defaultMessage": "Payout Status",
+    "message": "Status isplate",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pending",
+    "description": "Pending Status",
+    "defaultMessage": "Pending",
+    "message": "U tijeku",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pendingLabel",
+    "description": "Label",
+    "defaultMessage": "Pending",
+    "message": "U tijeku",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentError",
+    "description": "Choose percentage value between 1 to 99",
+    "defaultMessage": "Choose percentage value between 1 to 99",
+    "message": "Odaberite postotnu vrijednost između 1 do 99",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentage",
+    "description": "text",
+    "defaultMessage": "Percentage",
+    "message": "Postotak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentageFeeType",
+    "description": "Percentage Fee Type",
+    "defaultMessage": "Percentage",
+    "message": "Postotak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.permit",
+    "description": "Permit Status",
+    "defaultMessage": "Permit",
+    "message": "Dozvola",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.phoneDialCode",
+    "description": "Phone Dial Code",
+    "defaultMessage": "Country Code",
+    "message": "Kod države",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.phoneNumber",
+    "description": "phoneNumber",
+    "defaultMessage": "Phone Number",
+    "message": "Broj telefona",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pickupLocation",
+    "description": "PickUp Location",
+    "defaultMessage": "PickUp Location",
+    "message": "Mjesto preuzimanja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformEarnings",
+    "description": "Label",
+    "defaultMessage": "Platform Earnings",
+    "message": "Zarada platforme",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformOffered",
+    "description": "Label",
+    "defaultMessage": "Platform Overdrafts",
+    "message": "Prekoračenja platforme",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.playstorelink",
+    "description": "Fares",
+    "defaultMessage": "Play Store Link",
+    "message": "Reproducirajte vezu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.precautionNotification",
+    "description": "Title",
+    "defaultMessage": "Precaution Notification",
+    "message": "Obavijest o opremi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.preview",
+    "description": "Preview",
+    "defaultMessage": "Preview",
+    "message": "Pregled",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.privacyPolicies",
+    "description": "Privacy Policy",
+    "defaultMessage": "Privacy Policy",
+    "message": "Pravila o privatnosti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.privileges",
+    "description": "Privileges",
+    "defaultMessage": "Privileges",
+    "message": "Privilegije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.processedCash",
+    "description": "Label",
+    "defaultMessage": "Processed via cash",
+    "message": "Obrađen putem gotovine",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.profileId",
+    "description": "Profile Id for user",
+    "defaultMessage": "Profile ID",
+    "message": "ID profila",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.profilePicture",
+    "description": "profilePicture",
+    "defaultMessage": "Profile Picture",
+    "message": "Profilna slika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoCodeId",
+    "description": "Promo Code",
+    "defaultMessage": "Promo Code",
+    "message": "Promo kod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoType",
+    "description": "text",
+    "defaultMessage": "Type",
+    "message": "Tip",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.radioButton",
+    "description": "Change Password",
+    "defaultMessage": "Radio button",
+    "message": "Radio gumb",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.ratings",
+    "description": "Ratings",
+    "defaultMessage": "Ratings",
+    "message": "Ocjena",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.rcImage",
+    "description": "rcImage",
+    "defaultMessage": "RC Book Image",
+    "message": "RC slika knjige",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reason",
+    "description": "Reason",
+    "defaultMessage": "Reason",
+    "message": "Razlog",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reasonRequired",
+    "description": "Reason is required",
+    "defaultMessage": "Reason is required",
+    "message": "Potreban je razlog",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.recommand",
+    "description": "recommand",
+    "defaultMessage": "Recommand",
+    "message": "Preporučiti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.redioOne",
+    "description": "Fares",
+    "defaultMessage": "radio 1",
+    "message": "radio 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.removeLocation",
+    "description": "Polygon remove",
+    "defaultMessage": "Remove Location",
+    "message": "Uklonite mjesto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.rentallContent",
+    "description": "app",
+    "defaultMessage": "app",
+    "message": "aplikacija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reportIssue",
+    "description": "Ban Status",
+    "defaultMessage": "Report an issue",
+    "message": "Prijaviti problem",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.required",
+    "description": "required error message",
+    "defaultMessage": "*Required",
+    "message": "*Potreban",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reservations",
+    "description": "Ban Status",
+    "defaultMessage": "Reservations",
+    "message": "Rezervacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reviewsBy",
+    "description": "reviewsBy",
+    "defaultMessage": "Reviews By",
+    "message": "Recenzije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.role",
+    "description": "Role",
+    "defaultMessage": "Role",
+    "message": "Uloga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.roleName",
+    "description": "Role Name",
+    "defaultMessage": "Role Name",
+    "message": "Naziv uloge",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyButton",
+    "description": "safetyButton",
+    "defaultMessage": "View all safety features",
+    "message": "Pogledajte sve sigurnosne značajke",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyContent",
+    "description": "Safety",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum je jednostavno lukav tekst industrije tiskanja i unosa. Lorem Ipsum bio je standardni tekst u industriji još od 1500 -ih, kada je nepoznati pisač uzeo galiju tipa i zabio ga kako bi napravio knjigu uzoraka tipa.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "Playstore logotip",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "Logotip Appstore",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage3",
+    "description": "User App Image",
+    "defaultMessage": "User App Image",
+    "message": "Korisnička aplikacija Slika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetySectionSettings",
+    "description": "User Apps Settings",
+    "defaultMessage": "User App",
+    "message": "Korisnička aplikacija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.searchLocation",
+    "description": "Auto-Complete input",
+    "defaultMessage": "Search Location",
+    "message": "Mjesto pretraživanja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.searchOnly",
+    "description": "Change Password",
+    "defaultMessage": "Search",
+    "message": "traži",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.select",
+    "description": "select",
+    "defaultMessage": "Select",
+    "message": "Izaberi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.selectRole",
+    "description": "Select Role",
+    "defaultMessage": "Select Role",
+    "message": "Odaberite ulogu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.setBase",
+    "description": "Ban Status",
+    "defaultMessage": "Set as base currency",
+    "message": "Postavite kao osnovnu valutu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.setBaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Base Currency",
+    "message": "Postavite osnovnu valutu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.settings",
+    "description": "settings",
+    "defaultMessage": "Settings",
+    "message": "Postavke",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signup",
+    "description": "Sign up Nav link",
+    "defaultMessage": "Sign up",
+    "message": "Prijaviti se",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupDrive",
+    "description": "Sign up to drive",
+    "defaultMessage": "Sign up to drive",
+    "message": "Prijavite se za vožnju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Play Store Logo",
+    "message": "Reproducirajte logotip trgovine",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "App Store Logo",
+    "message": "Logotip App Store -a",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage3",
+    "description": "Service provider App Image",
+    "defaultMessage": "Service Provider App Image",
+    "message": "Slika davatelja usluga aplikacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupRide",
+    "description": "Sign up to ride",
+    "defaultMessage": "Sign up to ride",
+    "message": "Prijavite se za vožnju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupSectionSettings",
+    "description": "Service Provider Apps Settings",
+    "defaultMessage": "Service Provider App",
+    "message": "Aplikacija davatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteAdmin",
+    "description": "siteAdmin",
+    "defaultMessage": "Site Admin",
+    "message": "Administrator web mjesta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteName",
+    "description": "Fares",
+    "defaultMessage": "Site Name",
+    "message": "Ime stranice",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteSettings",
+    "description": "Site Settings",
+    "defaultMessage": "Site Settings",
+    "message": "Postavke web mjesta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteTitle",
+    "description": "Fares",
+    "defaultMessage": "Site Title",
+    "message": "Naslov stranice",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderContent",
+    "description": "Luxury",
+    "defaultMessage": "Luxury",
+    "message": "Luksuzno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderTitle",
+    "description": "sliderTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderTitleDesc",
+    "description": "sliderTitleDesc",
+    "defaultMessage": "Percipit repudiandae an eum, enim case eos no. Percipit tractatos pertinacia cum id, ad eos facete malorum recusabo, vis insolens perpetua definitionem ex.",
+    "message": "PERCIPIT REPUDIANDAE A EUM, ENIM SLUČAJ EOS BR. PERCIPIT TRACTATOS PERTINACIA CUM ID, AD EOS facete Malorum Recusabo, Vis Insolens Perpetua DefinitionEm Ex.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Oprostite, nešto je pošlo naopako. Molim te pokušaj ponovno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.startDriving",
+    "description": "Start Driving",
+    "defaultMessage": "Start Driving",
+    "message": "Počnite voziti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.startRideing",
+    "description": "Start Riding",
+    "defaultMessage": "Start Riding",
+    "message": "Počnite voziti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.started",
+    "description": "Started Status",
+    "defaultMessage": "Started",
+    "message": "Pokrenut",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.state",
+    "description": "Fares",
+    "defaultMessage": "State",
+    "message": "država",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.staticpageManagement",
+    "description": "Manage Static Content",
+    "defaultMessage": "Manage Static Content",
+    "message": "Upravljanje statičkim sadržajem",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.status",
+    "description": "Status Active/Inactive",
+    "defaultMessage": "Status",
+    "message": "Status",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.stripePublishableKey",
+    "description": "Stripe Publishable Key",
+    "defaultMessage": "Stripe Publishable Key",
+    "message": "Stripe za objavljivanje ključa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuOne",
+    "description": "subMenuOne",
+    "defaultMessage": "subMenuOne",
+    "message": "podmukao",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuThree",
+    "description": "subMenuThree",
+    "defaultMessage": "subMenuThree",
+    "message": "podmlata",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuTwo",
+    "description": "subMenuTwo",
+    "defaultMessage": "subMenuTwo",
+    "message": "submenutwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.submitButton",
+    "description": "Submit",
+    "defaultMessage": "Submit",
+    "message": "podnijeti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.symbol",
+    "description": "currencyManagement value",
+    "defaultMessage": "Symbol",
+    "message": "Simbol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.table",
+    "description": "Table",
+    "defaultMessage": "Table",
+    "message": "Stol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tableCell",
+    "description": "Fares",
+    "defaultMessage": "Table cell",
+    "message": "Stanična stanica",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tableHead",
+    "description": "Fares",
+    "defaultMessage": "Table heading",
+    "message": "Naslov stola",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.textarea",
+    "description": "textarea",
+    "defaultMessage": "Text Area",
+    "message": "Tekstualno područje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsAmount",
+    "description": "Tips Amount",
+    "defaultMessage": "Tips Amount",
+    "message": "Savjeti iznos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title",
+    "description": "text",
+    "defaultMessage": "Title",
+    "message": "Titula",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title1",
+    "description": "Title 1",
+    "defaultMessage": "Title 1",
+    "message": "Naslov 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title2",
+    "description": "Title 2",
+    "defaultMessage": "Title 2",
+    "message": "Naslov 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title3",
+    "description": "Title 3",
+    "defaultMessage": "Title 3",
+    "message": "Naslov 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title4",
+    "description": "Title 4",
+    "defaultMessage": "Title 4",
+    "message": "Naslov 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title5",
+    "description": "Title 5",
+    "defaultMessage": "Title 5",
+    "message": "Naslov 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title6",
+    "description": "Title 6",
+    "defaultMessage": "Title 6",
+    "message": "Naslov 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.to",
+    "description": "Label",
+    "defaultMessage": "To",
+    "message": "Do",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.today",
+    "description": "today",
+    "defaultMessage": "Today",
+    "message": "Danas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tollFee",
+    "description": "tollFee",
+    "defaultMessage": "Toll Fee",
+    "message": "Naplata",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.topFeatures",
+    "description": "Top Features Section Settings",
+    "defaultMessage": "Top Features Section Settings",
+    "message": "Postavke odjeljka gornje značajke",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalDuration",
+    "description": "Total Duration",
+    "defaultMessage": "Total Duration",
+    "message": "Ukupno trajanje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalFare",
+    "description": "Total Fare",
+    "defaultMessage": "Total Fare",
+    "message": "Totalna cijena",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalList",
+    "description": "Ban Status",
+    "defaultMessage": "Total Listings",
+    "message": "Ukupni popisi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalReserv",
+    "description": "Ban Status",
+    "defaultMessage": "Total Reservations",
+    "message": "Ukupne rezervacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalRideDistance",
+    "description": "Total  Distance",
+    "defaultMessage": "Total  Distance",
+    "message": "Ukupna udaljenost",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalUser",
+    "description": "Ban Status",
+    "defaultMessage": "Total Users",
+    "message": "Totalni korisnici",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripDate",
+    "description": "Trip Date",
+    "defaultMessage": "Trip Date",
+    "message": "Datum putovanja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripEnd",
+    "description": "Trip End",
+    "defaultMessage": "Trip End",
+    "message": "Završetak",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripStart",
+    "description": "Trip Start",
+    "defaultMessage": "Trip Start",
+    "message": "Pokretanje putovanja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.twiterUrl",
+    "description": "Fares",
+    "defaultMessage": "Twitter URL",
+    "message": "URL Twittera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unitPrice",
+    "description": "Unit Price",
+    "defaultMessage": "Unit Price",
+    "message": "Jedinična cijena",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unpaid",
+    "description": "Unpaid",
+    "defaultMessage": "Unpaid",
+    "message": "Neplaćen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.update",
+    "description": "Update",
+    "defaultMessage": "Update",
+    "message": "Ažuriraj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.updatedAt",
+    "description": "Label",
+    "defaultMessage": "Updated At",
+    "message": "Ažurirano na",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.useFullLink",
+    "description": "Usefull Links",
+    "defaultMessage": "Usefull Links",
+    "message": "Korisne veze",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.usedPromoCode",
+    "description": "text",
+    "defaultMessage": "Used Promo Code",
+    "message": "Rabljeni promo kod",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userStatus",
+    "description": "User Status Active/Inactive",
+    "defaultMessage": "User Status",
+    "message": "Status korisnika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.users",
+    "description": "users",
+    "defaultMessage": "Users",
+    "message": "Korisnici",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validUrl",
+    "description": "Valid URL required",
+    "defaultMessage": "Valid URL required",
+    "message": "Važeći URL potreban",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateConfirmPasswordLength",
+    "description": "Confirm Password length Validation",
+    "defaultMessage": "Confirm Password must be minimum 8 characters",
+    "message": "Potvrdite lozinku mora biti najmanje 8 znakova",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validatePasswordLength",
+    "description": "Password length Validation",
+    "defaultMessage": "Password must be minimum 8 characters",
+    "message": "Lozinka mora biti najmanje 8 znakova",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validatePasswordMatch",
+    "description": "Password mismatch",
+    "defaultMessage": "Password is mismatching with Confirm password",
+    "message": "Lozinka je neusklađivanje s potvrdom lozinke",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.view",
+    "description": "View Details Link",
+    "defaultMessage": "View",
+    "message": "Pogled",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.viewCity",
+    "description": "view City",
+    "defaultMessage": "View city",
+    "message": "Pogledajte grad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.wallet",
+    "description": "Wallet",
+    "defaultMessage": "Wallet",
+    "message": "Novčanik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.walletBalance",
+    "description": "Wallet Balance",
+    "defaultMessage": "Wallet Balance",
+    "message": "Ravnoteža novčanika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.weekly",
+    "description": "weekly",
+    "defaultMessage": "This Week",
+    "message": "Ovaj tjedan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.yes",
+    "description": "Yes",
+    "defaultMessage": "Yes",
+    "message": "Da",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.youtubeUrl",
+    "description": "Fares",
+    "defaultMessage": "Youtube URL",
+    "message": "YouTube URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addOrChange",
+    "description": "Label",
+    "defaultMessage": "Add or Change",
+    "message": "Dodaj ili promijeni",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addStop",
+    "description": "Label",
+    "defaultMessage": "Add Stop",
+    "message": "Dodati zaustavljanje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.all",
+    "description": "all",
+    "defaultMessage": "All",
+    "message": "svi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.assign",
+    "description": "Label",
+    "defaultMessage": "Assign",
+    "message": "Dodijeliti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.at",
+    "description": "Label",
+    "defaultMessage": "at",
+    "message": "na",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.autoAssign",
+    "description": "Label",
+    "defaultMessage": "Auto Assign",
+    "message": "Automatski dodijeliti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.baseFare",
+    "description": "Label",
+    "defaultMessage": "Base Fare",
+    "message": "Osnovna cijena",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookNow",
+    "description": "Label",
+    "defaultMessage": "Book Now",
+    "message": "Rezervirajte sada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingFee",
+    "description": "Label",
+    "defaultMessage": "Booking Fee",
+    "message": "Naknada za rezervaciju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelBooking",
+    "description": "Label",
+    "defaultMessage": "Cancel Booking",
+    "message": "Otkaži rezervaciju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.createBooking",
+    "description": "Create Booking",
+    "defaultMessage": "Create Booking",
+    "message": "Stvorite rezervaciju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editBooking",
+    "description": "Label",
+    "defaultMessage": "Edit Booking",
+    "message": "Uredi rezervaciju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editDateAndTime",
+    "description": "Label",
+    "defaultMessage": "Edit Date & Time",
+    "message": "Uređivanje Datum i vrijeme",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit200",
+    "description": "Message",
+    "defaultMessage": "Please dont exceed 200 words",
+    "message": "Molim vas, nemojte prelaziti 200 riječi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fareEstimation",
+    "description": "Label",
+    "defaultMessage": "Fare Estimation",
+    "message": "Procjena cijene",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.heatMap",
+    "description": "heatMap",
+    "defaultMessage": "HeatMap",
+    "message": "Toplotna mapa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hide",
+    "description": "hide",
+    "defaultMessage": "Hide",
+    "message": "Sakriti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalid",
+    "description": "invalid",
+    "defaultMessage": "Invalid",
+    "message": "Nevažeći",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageDispatcher",
+    "description": "manageDispatcher",
+    "defaultMessage": "Manage Dispatcher",
+    "message": "Upravljanje dispečerom",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageForceUpdate",
+    "description": "manageForceUpdate",
+    "defaultMessage": "Manage Apps Force Update",
+    "message": "Upravljanje aplikacijama Force Update",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mapView",
+    "description": "mapView",
+    "defaultMessage": "Map View",
+    "message": "Prikaz karte",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutesShort",
+    "description": "Label",
+    "defaultMessage": "mins",
+    "message": "min",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mobileSettings",
+    "description": "Mobile App Settings",
+    "defaultMessage": "Mobile App Settings",
+    "message": "Postavke mobilnih aplikacija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.next",
+    "description": "Next",
+    "defaultMessage": "Next",
+    "message": "Sljedeći",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noCabs",
+    "description": "Label",
+    "defaultMessage": "No Cabs",
+    "message": "Nema taksija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.now",
+    "description": "Label",
+    "defaultMessage": "Book now",
+    "message": "Rezervirajte sada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perKm",
+    "description": "Label",
+    "defaultMessage": "Per Km",
+    "message": "Po km",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perMile",
+    "description": "Label",
+    "defaultMessage": "Per Mile",
+    "message": "Na milju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perMinute",
+    "description": "Label",
+    "defaultMessage": "Per Minute",
+    "message": "Po minuti",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reset",
+    "description": "Label",
+    "defaultMessage": "Reset",
+    "message": "Resetirati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.show",
+    "description": "show",
+    "defaultMessage": "Show",
+    "message": "Pokazati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepMode",
+    "description": "sleepMode",
+    "defaultMessage": "Manage Service Provider App Sleep Mode",
+    "message": "Upravljanje pružateljem usluga aplikacije Način mirovanja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.stripeSettings",
+    "description": "stripeSettings",
+    "defaultMessage": "Stripe Settings",
+    "message": "Postavke pruge",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.total",
+    "description": "Label",
+    "defaultMessage": "Total",
+    "message": "Ukupno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tracking",
+    "description": "tracking",
+    "defaultMessage": "Tracking",
+    "message": "Praćenje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.travelFare",
+    "description": "Label",
+    "defaultMessage": "Travel Fare",
+    "message": "Putnička cijena",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.markerInfo",
+    "description": "Marker Info",
+    "defaultMessage": "Marker Info",
+    "message": "Informacije o oznaci",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.favIconlogoLabel",
+    "description": "Fav Icon",
+    "defaultMessage": "Fav Icon",
+    "message": "Fav ikona",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allDays",
+    "description": "select label",
+    "defaultMessage": "All days",
+    "message": "Svi dani",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactEmail",
+    "description": "contactEmail",
+    "defaultMessage": "Contact email",
+    "message": "Email za kontakt",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactPhoneNumber",
+    "description": "contactPhoneNumber",
+    "defaultMessage": "Contact phone number",
+    "message": "Kontaktirajte telefonski broj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.last30Days",
+    "description": "select label",
+    "defaultMessage": "Last 30 days",
+    "message": "Zadnjih 30 dana",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.last7Days",
+    "description": "select label",
+    "defaultMessage": "Last 7 days",
+    "message": "Zadnjih 7 dana",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.skype",
+    "description": "skype",
+    "defaultMessage": "Skype",
+    "message": "Skype",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCurrency",
+    "description": "addCurrency",
+    "defaultMessage": "Add currency",
+    "message": "Dodati valutu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledByPartner",
+    "description": "Cancelled By Service Provider Status",
+    "defaultMessage": "Cancelled By Service Provider",
+    "message": "Otkazan od strane davatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledByUser",
+    "description": "Cancelled By User Status",
+    "defaultMessage": "Cancelled By User",
+    "message": "Otkazan od strane korisnik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partner",
+    "description": "partner",
+    "defaultMessage": "Service Provider",
+    "message": "Davatelj usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepPartnerAndroid",
+    "description": "sleepPartnerAndroid",
+    "defaultMessage": "Service Provider Android App",
+    "message": "Pružatelj usluga Android App",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepPartnerios",
+    "description": "sleepPartnerios",
+    "defaultMessage": "Service Provider iOS App",
+    "message": "Davatelj usluga iOS App",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.user",
+    "description": "user",
+    "defaultMessage": "User",
+    "message": "Korisnik",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingStatus",
+    "description": "Job Status",
+    "defaultMessage": "Job Status",
+    "message": "Status posla",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryBanner",
+    "description": "Category Banner",
+    "defaultMessage": "Banner",
+    "message": "Baner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryLogo",
+    "description": "Category Logo",
+    "defaultMessage": "Logo",
+    "message": "Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixedFareType",
+    "description": "Fixed fare Type",
+    "defaultMessage": "Fixed fare Type",
+    "message": "Fiksni tip cijene",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hourlyFareType",
+    "description": "Hourly fare type",
+    "defaultMessage": "Hourly fare type",
+    "message": "Vrsta cijene po satu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isJobPhotoRequired",
+    "description": "isJobPhotoRequired",
+    "defaultMessage": "Allow users to upload photos for the job",
+    "message": "Dopustite korisnicima da prenose fotografije za posao",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isPopular",
+    "description": "Is-Popular",
+    "defaultMessage": "Is-Popular",
+    "message": "Je popularan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.legal",
+    "description": "legal",
+    "defaultMessage": "Legal",
+    "message": "Pravni",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.name",
+    "description": "name",
+    "defaultMessage": "Name",
+    "message": "Ime",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerServiceFee",
+    "description": "Service Provider Service Fee",
+    "defaultMessage": "Service Provider Service Fee",
+    "message": "Naknada za usluge pružatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pricingType",
+    "description": "Pricing Type",
+    "defaultMessage": "Pricing Type",
+    "message": "Vrsta cijena",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategoryMenu",
+    "description": "Manage SubCategory",
+    "defaultMessage": "Manage Sub Category",
+    "message": "Upravljanje pod -kategorijom",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userServiceFee",
+    "description": "User Service Fee",
+    "defaultMessage": "User Service Fee",
+    "message": "Naknada za uslugu korisnika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.usersMenu",
+    "description": "usersMenu",
+    "defaultMessage": "Manage Users",
+    "message": "Upravljati korisnicima",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addSubCategory",
+    "description": "Add subcategory form header",
+    "defaultMessage": "Add Sub Category",
+    "message": "Dodajte pod kategoriju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editSubCategory",
+    "description": "Edit subcategory form header",
+    "defaultMessage": "Edit Sub Category",
+    "message": "Uredi pod kategoriju",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editUser",
+    "description": "Edit User form header",
+    "defaultMessage": "Edit User",
+    "message": "Uredi korisnika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.basePrice",
+    "description": "base price amount",
+    "defaultMessage": "Base Price",
+    "message": "Osnovna cijena",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hourlyPrice",
+    "description": "Hourly Price",
+    "defaultMessage": "Hourly Price",
+    "message": "Po satu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isPriceEditable",
+    "description": "Can be editable by service provider?",
+    "defaultMessage": "Can be editable by service provider?",
+    "message": "Može li se uređivati ​​pružatelj usluga?",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maxQuantity",
+    "description": "Maximum Quantity",
+    "defaultMessage": "Maximum Quantity",
+    "message": "Maksimalna količina",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minHours",
+    "description": "Minimum Hours",
+    "defaultMessage": "Minimum Hours",
+    "message": "Minimalni sati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategory",
+    "description": "SubCategory",
+    "defaultMessage": "Sub Category",
+    "message": "Sub kategorija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategoryName",
+    "description": "subCategoryName",
+    "defaultMessage": "Sub Category Name",
+    "message": "Naziv pod kategorije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.travelCharge",
+    "description": "Travelling Charge",
+    "defaultMessage": "Visit Fee",
+    "message": "Naknada za posjetu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowableDistaceField",
+    "description": "allowableDistaceField",
+    "defaultMessage": "Maximum Allowable distance",
+    "message": "Maksimalna dopuštena udaljenost",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowableDistaceTitle",
+    "description": "allowableDistaceTitle",
+    "defaultMessage": "Maximum distance to cover while fetching service providers",
+    "message": "Maksimalna udaljenost za presvlačenje tijekom dohvaćanja pružatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedServices",
+    "description": "allowedServices",
+    "defaultMessage": "Maximum jobs that users can book",
+    "message": "Maksimalni poslovi koje korisnici mogu rezervirati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedServicesTitle",
+    "description": "allowedServicesTitle",
+    "defaultMessage": "Manage maximum jobs that users can book",
+    "message": "Upravljajte maksimalnim poslovima koje korisnici mogu rezervirati",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notificationInterval",
+    "description": "notificationInterval",
+    "defaultMessage": "Job acceptance time for the service provider",
+    "message": "Vrijeme prihvaćanja posla za davatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerAndriodVersion",
+    "description": "Andriod",
+    "defaultMessage": "Service Provider Android Version",
+    "message": "Davatelj usluga Android verzija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerPrivacyPolicy",
+    "description": "Title",
+    "defaultMessage": "Service Provider Privacy Policy",
+    "message": "Pravila o privatnosti davatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partneriosVersion",
+    "description": "iOS",
+    "defaultMessage": "Service Provider iOS Version",
+    "message": "Davatelj usluga iOS verzija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userAndriodVersion",
+    "description": "userAndriodVersion",
+    "defaultMessage": "User Android Version",
+    "message": "Korisnički android verzija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.useriosVersion",
+    "description": "useriosVersion",
+    "defaultMessage": "User iOS Version",
+    "message": "Korisnički iOS verzija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPartner",
+    "description": "Edit Service Provider form header",
+    "defaultMessage": "Edit Service Provider",
+    "message": "Uređivanje davatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerMenu",
+    "description": "partnerMenu",
+    "defaultMessage": "Manage Service Providers",
+    "message": "Upravljanje pružateljima usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCatbackGroundImageegoryName",
+    "description": "backGroundImage",
+    "defaultMessage": "Background Image",
+    "message": "Pozadinska slika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maximumEmergencyContact",
+    "description": "maximumEmergencyContact",
+    "defaultMessage": "Maximum Emergency Contact",
+    "message": "Maksimalni kontakt za hitne slučajeve",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoCodeImage",
+    "description": "title",
+    "defaultMessage": "Promo Code Image",
+    "message": "Promo kod slike",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.activePartners",
+    "description": "activePartners",
+    "defaultMessage": "Active Service Providers",
+    "message": "Aktivni davatelji usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availablePartners",
+    "description": "availablePartners",
+    "defaultMessage": "Available Service Providers",
+    "message": "Dostupni pružatelji usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppTextPartner",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Service Provider App",
+    "message": "Preuzmite aplikaciju davatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePartnerPayout",
+    "description": "Manage Service Provider Payouts",
+    "defaultMessage": "Manage Service Provider Payouts",
+    "message": "Upravljanje isplatama davatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Service Provider Billing Information",
+    "message": "Podaci o naplati pružatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerEarnings",
+    "description": "Label",
+    "defaultMessage": "Service Provider Earnings",
+    "message": "Zarada davatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerEmail",
+    "description": "Service Provider Email",
+    "defaultMessage": "Service Provider Email",
+    "message": "E -pošta davatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerName",
+    "description": "Service Provider Name",
+    "defaultMessage": "Service Provider Name",
+    "message": "Ime davatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerPayout",
+    "description": "managePayout",
+    "defaultMessage": "Service Provider Payout",
+    "message": "Isplata pružatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerappcntn",
+    "description": "Fares",
+    "defaultMessage": "Service Provider App Content",
+    "message": "Sadržaj aplikacije davatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerapptitle",
+    "description": "Fares",
+    "defaultMessage": "Service Provider App Title",
+    "message": "Naslov aplikacije davatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partners",
+    "description": "partner",
+    "defaultMessage": "Service Providers",
+    "message": "Davatelji usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsGivenToPartner",
+    "description": "Label",
+    "defaultMessage": "Tips given to the service provider",
+    "message": "Savjeti davatelj usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsReceivedFromUser",
+    "description": "Label",
+    "defaultMessage": "Tips received from the user",
+    "message": "Savjeti primljeni od korisnika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unActivatedPartners",
+    "description": "unActivatedPartners",
+    "defaultMessage": "Unactivated Service Providers",
+    "message": "Neaktivirani pružatelji usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unAvailablePartners",
+    "description": "unAvailablePartners",
+    "defaultMessage": "Unavailable Service Providers",
+    "message": "Nedostupni davatelji usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userAppContent",
+    "description": "Change Password",
+    "defaultMessage": "User App Content",
+    "message": "Sadržaj korisničke aplikacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userApptitle",
+    "description": "Change Password",
+    "defaultMessage": "User App Title",
+    "message": "Naslov korisničke aplikacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userBillingInformation",
+    "description": "Label",
+    "defaultMessage": "User Billing Information",
+    "message": "Podaci o naplati korisnika",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userEmail",
+    "description": "User Email",
+    "defaultMessage": "User Email",
+    "message": "Korisnička e -pošta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userName",
+    "description": "User Name",
+    "defaultMessage": "User Name",
+    "message": "Korisničko ime",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userPayableAmount",
+    "description": "userPayableAmount",
+    "defaultMessage": "User Payable Amount",
+    "message": "Korisnički iznos koji se plaća",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availableDrivers",
+    "description": "availableDrivers",
+    "defaultMessage": "Available Drivers",
+    "message": "Dostupni vozači",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCancelledBookings",
+    "description": "manageCancelledBookings sidemenu",
+    "defaultMessage": "Cancelled Jobs",
+    "message": "Otkazani poslovi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCompletedBooking",
+    "description": "CompletedBooking sidemenu",
+    "defaultMessage": "Completed Jobs",
+    "message": "Završeni poslovi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unActivatedDrivers",
+    "description": "unActivatedDrivers",
+    "defaultMessage": "Unactivated Drivers",
+    "message": "Neaktivirani vozači",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unAvailableDrivers",
+    "description": "unAvailableDrivers",
+    "defaultMessage": "Unavailable Drivers",
+    "message": "Nedostupni vozači",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userExperience",
+    "description": "userExperience",
+    "defaultMessage": "User Experience",
+    "message": "Korisničko iskustvo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userIdentity",
+    "description": "userIdentity",
+    "defaultMessage": "User Identity",
+    "message": "Korisnički identitet",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.welcomeAdminLabel",
+    "description": "Welcome Admin !!!",
+    "defaultMessage": "Welcome Admin !!!",
+    "message": "Dobrodošli admin !!!",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.additionalFee",
+    "description": "Additional Charge",
+    "defaultMessage": "Additional Charge",
+    "message": "Dodatni naboj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.arrived",
+    "description": "Arrived",
+    "defaultMessage": "Arrived",
+    "message": "Stiglo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.duration",
+    "description": "duration",
+    "defaultMessage": "Job acceptance time",
+    "message": "Vrijeme prihvaćanja posla",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.earningsLabel",
+    "description": "Earnings",
+    "defaultMessage": "Earnings",
+    "message": "Zarada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.estimatedPrice",
+    "description": "estimatedPrice",
+    "defaultMessage": "Estimated price",
+    "message": "Procijenjena cijena",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hideDescription",
+    "description": "View Listing",
+    "defaultMessage": "Hide description",
+    "message": "Sakrij opis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.itemTotal",
+    "description": "Label",
+    "defaultMessage": "Item Total",
+    "message": "Predmet ukupno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.job",
+    "description": "job",
+    "defaultMessage": "Job list",
+    "message": "Lista posla",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobCompleted",
+    "description": "Job Completed",
+    "defaultMessage": "Job Completed",
+    "message": "Posao dovršen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobDescription",
+    "description": "jobDescription",
+    "defaultMessage": "Job description",
+    "message": "Opis posla",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobDetails",
+    "description": "jobDetails",
+    "defaultMessage": "Job Details",
+    "message": "Pojedinosti o poslu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobLocation",
+    "description": "jobLocation",
+    "defaultMessage": "Job location",
+    "message": "Mjesto posla",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobPhoto",
+    "description": "hide",
+    "defaultMessage": "Job photos",
+    "message": "Fotografije radnih mjesta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobProgress",
+    "description": "jobProgress",
+    "defaultMessage": "Job Progress",
+    "message": "Napredak posla",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobRequestWindow",
+    "description": "jobRequestWindow",
+    "defaultMessage": "Manage service provider app's job request window information",
+    "message": "Upravljanje informacijama o zahtjevu za posao pružatelja usluga davatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobStarted",
+    "description": "Job Started",
+    "defaultMessage": "Job Started",
+    "message": "Posao je započeo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerNumber",
+    "description": "Service Provider Number",
+    "defaultMessage": "Service Provider Phone Number",
+    "message": "Telefonski broj davatelja usluga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformDiscount",
+    "description": "Special platformDiscount",
+    "defaultMessage": "Platform offered discount",
+    "message": "Platforma nudi popust",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestAccepted",
+    "description": "Request Accepted",
+    "defaultMessage": "Request Accepted",
+    "message": "Zahtjev prihvaćen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestCancelled",
+    "description": "Request Cancelled",
+    "defaultMessage": "Request Cancelled",
+    "message": "Zahtjev otkazan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestCreated",
+    "description": "Request Created",
+    "defaultMessage": "Request Created",
+    "message": "Zahtjev stvoren",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestDecline",
+    "description": "Request Declined",
+    "defaultMessage": "Request Declined",
+    "message": "Zahtjev odbio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestReviewed",
+    "description": "Request Reviewed",
+    "defaultMessage": "Request Reviewed",
+    "message": "Zahtjev pregledani",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.serviceFee",
+    "description": "serviceFee",
+    "defaultMessage": "Service Fee",
+    "message": "Pristojba",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.showDescription",
+    "description": "View Listing",
+    "defaultMessage": "Show more description",
+    "message": "Pokažite više opisa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategories",
+    "description": "subCategories",
+    "defaultMessage": "Sub Categories",
+    "message": "Pod kategorije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalEarnings",
+    "description": "Earnings",
+    "defaultMessage": "Total Earnings",
+    "message": "ukupna zarada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalWorkingHours",
+    "description": "Total working hours",
+    "defaultMessage": "Total working hours =",
+    "message": "Ukupno radno vrijeme =",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userDiscount",
+    "description": "discount text",
+    "defaultMessage": "Coupon Discount",
+    "message": "Popust na kupon",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userNumber",
+    "description": "User Number",
+    "defaultMessage": "User Phone Number",
+    "message": "Korisnički telefonski broj",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateInterval",
+    "description": "validateInterval",
+    "defaultMessage": "Notification interval must be greater than 0.5 min",
+    "message": "Interval obavijesti mora biti veći od 0,5 min",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.eligibleForAService",
+    "description": "text",
+    "defaultMessage": "Eligible for a Service",
+    "message": "Ispunjava uvjete za uslugu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notEligibleForAService",
+    "description": "text",
+    "defaultMessage": "Not eligible for a Service",
+    "message": "Ne ispunjava uvjete za uslugu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.accountId",
+    "description": "ACCOUNT_SID",
+    "defaultMessage": "ACCOUNT_SID",
+    "message": "Account_sid",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.apiKey",
+    "description": "API KEY",
+    "defaultMessage": "API KEY",
+    "message": "API ključ",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.appOpenTrip",
+    "description": "appOpenTrip",
+    "defaultMessage": "Open the provider app when a request notification is received",
+    "message": "Otvorite aplikaciju davatelja usluga kada se primi obavijest o zahtjevu",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editSmsMethod",
+    "description": "editSmsMethod",
+    "defaultMessage": "Edit SMS Methods",
+    "message": "Uredi SMS metode",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobId",
+    "description": "Job",
+    "defaultMessage": "Job ID",
+    "message": "Id posla",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobs",
+    "description": "jobs",
+    "defaultMessage": "Jobs",
+    "message": "Poslovi",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageSmsMethod",
+    "description": "manageSmsMethod",
+    "defaultMessage": "Manage SMS Methods",
+    "message": "Upravljanje SMS metodama",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noLimit",
+    "description": "noLimit",
+    "defaultMessage": "No Limit",
+    "message": "Nema ograničenja",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.records",
+    "description": "records",
+    "defaultMessage": "Records per page",
+    "message": "Zapisi po stranici",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestTone",
+    "description": "requestTone",
+    "defaultMessage": "Request accept timer tone",
+    "message": "Zatražite prihvatiti ton timera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.secretId",
+    "description": "AUTHTOKEN",
+    "defaultMessage": "AUTHTOKEN",
+    "message": "Authtoken",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.secretKey",
+    "description": "SECRET KEY",
+    "defaultMessage": "SECRET KEY",
+    "message": "Tajni ključ",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.uploadRequestTone",
+    "description": "uploadRequestTone",
+    "defaultMessage": "Upload timer tone",
+    "message": "Prenesite ton timera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.viewJob",
+    "description": "view Job",
+    "defaultMessage": "View job",
+    "message": "Pogledajte posao",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.receipt",
+    "description": "receipt",
+    "defaultMessage": "Receipt",
+    "message": "Priznanica",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageSchedule",
+    "description": "manageSchedule",
+    "defaultMessage": "Manage Schedule Booking",
+    "message": "Upravljanje rezervacijom rasporeda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduleBooking",
+    "description": "Label",
+    "defaultMessage": "Schedule Bookings",
+    "message": "Raspored rezervacija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduleBookingHistory",
+    "description": "Heading",
+    "defaultMessage": "Schedule Booking History",
+    "message": "Raspored povijesti rezervacije",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduled",
+    "description": "Trip status",
+    "defaultMessage": "Scheduled",
+    "message": "Zakazan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduledFrom",
+    "description": "Label",
+    "defaultMessage": "Scheduled From",
+    "message": "Zakazan od",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduledTo",
+    "description": "Label",
+    "defaultMessage": "Scheduled To",
+    "message": "Zakazan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.defaultScheduleInterval",
+    "description": "defaultScheduleInterval",
+    "defaultMessage": "Default Schedule Interval",
+    "message": "Interval zadanog rasporeda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateScheduleInterval",
+    "description": "validateScheduleInterval",
+    "defaultMessage": "Schedule interval must be greater than 20 min",
+    "message": "Interval rasporeda mora biti veći od 20 min",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestScheduled",
+    "description": "Request Scheduled",
+    "defaultMessage": "Request Scheduled",
+    "message": "Zahtjev je zakazan",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "CurrencyForm",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./CurrencyForm.js"
+}

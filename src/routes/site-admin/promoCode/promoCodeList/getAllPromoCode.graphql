@@ -1,0 +1,21 @@
+query($currentPage: Int) {
+    getAllPromoCode(currentPage: $currentPage) {
+        status
+        errorMessage
+        count
+        results {
+          id
+          title
+          description
+          imageName
+          code
+          type
+          promoValue
+          currency
+          expiryDate
+          isEnable
+          createdAt
+          updatedAt
+        }
+    }
+}

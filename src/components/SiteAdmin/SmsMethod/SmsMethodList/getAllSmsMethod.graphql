@@ -1,0 +1,16 @@
+query {
+    getAllSmsMethod {
+        status
+        errorMessage
+        results {
+            id
+            name
+            accountId
+            securityId
+            phoneNumber
+            phoneDialCode
+            phoneCountryCode
+            status
+        }
+    }
+}

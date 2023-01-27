@@ -1,0 +1,53 @@
+@import '../../../components/variables.css';
+@import '../../../components/Common.css';
+@import '../../../components/responsive-common.css';
+@import '../../variables.css';
+ .marbtm14 {
+	margin-bottom: 14px;
+}
+.container {
+	margin: 0 auto;
+}
+.headingMobile{
+	font-size: 20px;
+    font-weight: 600;
+}
+.normalFontWeight{
+	font-weight: 400;
+}
+.descriptionText {
+	font-size: 16px !important;
+	margin-bottom: 6px !important;
+}
+.paddingTop{
+	padding-top: 20px;
+}
+.headingMobile{
+	color: var(--admin-text-color);
+	margin-top: 0px;
+}
+.deleteIcon{
+	width: 80px;
+}
+.audioSection{
+	border:1px solid var(--btn-bordercolor-bg);
+	border-radius: 45px;
+	display: flex;
+	justify-content: space-between;
+    align-items: center;
+	min-height: 34px;
+    padding: 7px 20px;
+}
+.fontSize{
+	position: relative;
+    top: 1px;
+    font-size: 14px;
+	margin-left: 3px;
+}
+.flex{
+	display: flex;
+    cursor: pointer;
+}
+.paddingLeft{
+	padding-left: 23px;
+}

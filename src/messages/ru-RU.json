@@ -1,0 +1,5490 @@
+[
+  {
+    "id": "exceedLimit",
+    "description": "exceedLimit",
+    "defaultMessage": "Maximum allowed character is 255.",
+    "message": "Максимально допустимый символ составляет 255.",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.email",
+    "description": "Your Email Address to Login",
+    "defaultMessage": "Email Address",
+    "message": "Адрес электронной почты",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Неверный адрес электронной почты",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "Для этого электронного письма не существует учетной записи. Убедитесь, что он вводится правильно или «зарегистрироваться» вместо этого",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "Электронная почта требуется",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "Вы уже вошли в систему!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.password",
+    "description": "Your Password to Login",
+    "defaultMessage": "Password",
+    "message": "Пароль",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "Ваш пароль должен быть не менее 8 символов. Пожалуйста, попробуйте еще раз",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "Необходим пароль",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Неправильный пароль. Пожалуйста, попробуйте еще раз",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Извините, что-то пошло не так. Пожалуйста, попробуйте еще раз",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.userLoggedIn",
+    "description": "You are already Logged-in as user",
+    "defaultMessage": "You are already logged in as User, please logout in the main site to continue!",
+    "message": "Вы уже вошли в систему как пользователь, пожалуйста, выходите на основной сайт, чтобы продолжить!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "AddListSettingsForm.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Добавлять",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNew",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "Имя",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNewDescription",
+    "description": "description",
+    "defaultMessage": "Description",
+    "message": "Описание",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.delete",
+    "description": "Delete Button",
+    "defaultMessage": "Delete",
+    "message": "Удалить",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.required",
+    "description": "Required",
+    "defaultMessage": "*Required",
+    "message": "*Необходимый",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.update",
+    "description": "Update Button",
+    "defaultMessage": "Update",
+    "message": "Обновлять",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.blankSpace",
+    "description": "Password error",
+    "defaultMessage": "Password should not be blank space.",
+    "message": "Пароль не должен быть пустым пространством.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailBlankSpace",
+    "description": "email address error",
+    "defaultMessage": "Email should not be blank spaces",
+    "message": "Электронная почта не должна быть пустым пространством",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailInvalid",
+    "description": "email address error",
+    "defaultMessage": "*Invalid email address",
+    "message": "*Неверный адрес электронной почты",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.passwordInvalid",
+    "description": "Password minimum characters error",
+    "defaultMessage": "Password should be minimum 8 characters.",
+    "message": "Пароль должен быть минимум 8 символов.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "app.Amount",
+    "description": "Amount",
+    "defaultMessage": "Amount",
+    "message": "Количество",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.BaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Base Currency",
+    "message": "Базисная валюта",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Becomeahost",
+    "description": "Becomeahost",
+    "defaultMessage": "Become a host",
+    "message": "Стать хозяином",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Disable",
+    "description": "Ban Status",
+    "defaultMessage": "Disable",
+    "message": "Запрещать",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Disabled",
+    "description": "Ban Status",
+    "defaultMessage": "Disabled",
+    "message": "Неполноценный",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Discover",
+    "description": "Discover",
+    "defaultMessage": "Discover",
+    "message": "Обнаружить",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Enable",
+    "description": "Ban Status",
+    "defaultMessage": "Enable",
+    "message": "Давать возможность",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Enabled",
+    "description": "Ban Status",
+    "defaultMessage": "Enabled",
+    "message": "Включено",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.HomeSiteSettings",
+    "description": "HomeSiteSettings",
+    "defaultMessage": "Homepage Settings",
+    "message": "Настройки домашней страницы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Hosting",
+    "description": "Hosting",
+    "defaultMessage": "Hosting",
+    "message": "Хостинг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Preferred Distance Type",
+    "description": "Preferred Distance Type",
+    "defaultMessage": "Preferred Distance Type",
+    "message": "Предпочтительный тип расстояния",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Safety",
+    "description": "Safety",
+    "defaultMessage": "Safety",
+    "message": "Безопасность",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Support",
+    "description": "Ban Status",
+    "defaultMessage": "Support",
+    "message": "Поддерживать",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Terms",
+    "description": "Terms",
+    "defaultMessage": "Terms & Privacy",
+    "message": "Условия и конфиденциальность",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Travel",
+    "description": "Trust",
+    "defaultMessage": "Travel Credit",
+    "message": "Путешествие кредит",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Trust",
+    "description": "Trust",
+    "defaultMessage": "Trust & Safety",
+    "message": "Доверие и безопасность",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Wooberly",
+    "description": "Wooberly",
+    "defaultMessage": "Wooberly",
+    "message": "Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.about",
+    "description": "About Nav link",
+    "defaultMessage": "About",
+    "message": "О",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutFooter",
+    "description": "AboutFooter",
+    "defaultMessage": "About Us",
+    "message": "О нас",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutFooterDesc",
+    "description": "aboutFooterDesc",
+    "defaultMessage": "An cum maiorum repudiandae, cu eam dolore bonorum probatus. Et legere sanctus cum, quot nostrud postulant ex mei. Ad ullum audire admodum eos. Ne eam quod habeo aeque, ad decoreos.",
+    "message": "Cum Maiorum Repudiandae, Cu eam dolore bonorum probatus. Et Legere Sanctus cum, quot nostrud postulant ex mei. Ad ullum audire admodum eos. Ne eam quod habeo aeque, ad decoreos.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutImage1",
+    "description": "Feature Icon 1",
+    "defaultMessage": "Feature Icon #1",
+    "message": "Значок функции № 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutImage2",
+    "description": "Feature Icon 2",
+    "defaultMessage": "Feature Icon #2",
+    "message": "Значок функции № 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutSectionSettings",
+    "description": "Top Features Settings",
+    "defaultMessage": "Top Features",
+    "message": "Лучшие функции",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.action",
+    "description": "Action",
+    "defaultMessage": "Action",
+    "message": "Действие",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.active",
+    "description": "Active Status",
+    "defaultMessage": "Active",
+    "message": "Активный",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Добавлять",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addAdminRole",
+    "description": "Title",
+    "defaultMessage": "Add Admin Role",
+    "message": "Добавить административную роль",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addAdminUserLabel",
+    "description": "Add Admin User",
+    "defaultMessage": "Add Admin User",
+    "message": "Добавить пользователя администратора",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCancelReason",
+    "description": "Add Cancel Reason",
+    "defaultMessage": "Add Cancel Reason",
+    "message": "Добавить причину отменить",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCategory",
+    "description": "Add category form header",
+    "defaultMessage": "Add Category",
+    "message": "Добавить категорию",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addFare",
+    "description": "Button",
+    "defaultMessage": "Add Fare",
+    "message": "Добавить тариф",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addLocation",
+    "description": "addLocation",
+    "defaultMessage": "Add Location",
+    "message": "Добавить местоположение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addNewLabel",
+    "description": "Add New",
+    "defaultMessage": "Add New",
+    "message": "Добавить новое",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addOnly",
+    "description": "Fares",
+    "defaultMessage": "Address",
+    "message": "Адрес",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addPage",
+    "description": "Add Page",
+    "defaultMessage": "Add Page",
+    "message": "Добавить страницу",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addPromoCode",
+    "description": "Add PromoCode",
+    "defaultMessage": "Add Promo Code",
+    "message": "Добавить промо -код",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adeditFaredFare",
+    "description": "Button",
+    "defaultMessage": "Edit Fare",
+    "message": "Редактировать тариф",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminName",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "Имя",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminRole",
+    "description": "Admin Role",
+    "defaultMessage": "Admin Role",
+    "message": "Административная роль",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminUserLabel",
+    "description": "Admin User",
+    "defaultMessage": "Admin User",
+    "message": "Пользователь администратора",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminpanel",
+    "description": "admin panel",
+    "defaultMessage": "Admin Panel",
+    "message": "Панель администратора",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allonly",
+    "description": "Fares",
+    "defaultMessage": "All",
+    "message": "Все",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedPaymentCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Allowed Payment Currency",
+    "message": "Разрешенная платежная валюта",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.approve",
+    "description": "Approve",
+    "defaultMessage": "Approve",
+    "message": "Утвердить",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.approved",
+    "description": "Approved Status",
+    "defaultMessage": "Approved",
+    "message": "Одобренный",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.appstorelink",
+    "description": "Fares",
+    "defaultMessage": "App Store Link",
+    "message": "Ссылка магазина приложений",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.askQuestion",
+    "description": "Ban Status",
+    "defaultMessage": "Ask a question",
+    "message": "Задайте вопрос",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availableSeats",
+    "description": "Available Seats",
+    "defaultMessage": "Available Seats",
+    "message": "Доступные места",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.ban",
+    "description": "Ban Status",
+    "defaultMessage": "Ban",
+    "message": "Запрет",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.banStatus",
+    "description": "Ban Status Permit/Ban",
+    "defaultMessage": "Ban Status",
+    "message": "Статус запрета",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bannerDesc",
+    "description": "Description in header",
+    "defaultMessage": "Complex web apps made easy",
+    "message": "Сложные веб -приложения сделаны простыми",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bannerTitle",
+    "description": "Title in page header",
+    "defaultMessage": "React",
+    "message": "Реагировать",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingDetails",
+    "description": "Booking Details",
+    "defaultMessage": "Booking Details",
+    "message": "Детали бронирования",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingId",
+    "description": "Booking ID",
+    "defaultMessage": "Booking ID",
+    "message": "Идентификатор бронирования",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookings",
+    "description": "bookings",
+    "defaultMessage": "Bookings",
+    "message": "Заказы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingsMenu",
+    "description": "bookingsMenu",
+    "defaultMessage": "Manage Jobs",
+    "message": "Управлять работой",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.brand",
+    "description": "Brand name displayed in header",
+    "defaultMessage": "app",
+    "message": "приложение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.button",
+    "description": "Button",
+    "defaultMessage": "Button",
+    "message": "Кнопка",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.buttonLabel",
+    "description": "Change Password",
+    "defaultMessage": "Button Label",
+    "message": "Кнопка метки",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelButton",
+    "description": "Cancel",
+    "defaultMessage": "Cancel",
+    "message": "Отмена",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Отменить разум",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancellationReasons",
+    "description": "Cancellation Reasons",
+    "defaultMessage": "Cancellation Reasons",
+    "message": "Причины отмены",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledBy",
+    "description": "Cancelled By",
+    "defaultMessage": "Cancelled By",
+    "message": "Отменено",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.capacity",
+    "description": "Capacity",
+    "defaultMessage": "Capacity",
+    "message": "Вместимость",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.card",
+    "description": "Card",
+    "defaultMessage": "Card",
+    "message": "Карта",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cash",
+    "description": "Cash",
+    "defaultMessage": "Cash",
+    "message": "Денежные средства",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categorieslist",
+    "description": "categoryMenu",
+    "defaultMessage": "Categories",
+    "message": "Категории",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.category",
+    "description": "Category",
+    "defaultMessage": "Category",
+    "message": "Категория",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryContent",
+    "description": "Category Content",
+    "defaultMessage": "Category Content",
+    "message": "Категория содержание",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryIcon",
+    "description": "",
+    "defaultMessage": "Category Icon",
+    "message": "Иконка категории",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryId",
+    "description": "Category ID",
+    "defaultMessage": "Category ID",
+    "message": "Идентификатор категории",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryMapMarker",
+    "description": "",
+    "defaultMessage": "Category Map Marker",
+    "message": "Категория карта маркер",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryMenu",
+    "description": "categoryMenu",
+    "defaultMessage": "Manage Categories",
+    "message": "Управлять категориями",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryName",
+    "description": "Category Name",
+    "defaultMessage": "Category Name",
+    "message": "Название категории",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryTitle",
+    "description": "Category Title",
+    "defaultMessage": "Category Title",
+    "message": "Название категории",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.changeAdminPassword",
+    "description": "Change Admin Email/Password",
+    "defaultMessage": "Change Admin Email/Password",
+    "message": "Изменить электронную почту администратора/пароль",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.changePassword",
+    "description": "Change Password",
+    "defaultMessage": "Change Password",
+    "message": "Сменить пароль",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chatLabel",
+    "description": "Chat",
+    "defaultMessage": "Chat",
+    "message": "Чат",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chatMessageLabel",
+    "description": "Chat Message",
+    "defaultMessage": "Chat Message",
+    "message": "Чат сообщения",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.checkmein",
+    "description": "Fares",
+    "defaultMessage": "Check me in",
+    "message": "Зарегистрироваться",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.checkmeout",
+    "description": "Fares",
+    "defaultMessage": "Check me out",
+    "message": "Проверить меня",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chooseFile",
+    "description": "",
+    "defaultMessage": "Choose File",
+    "message": "Выбрать файл",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chooseLanguageLabel",
+    "description": "Choose a Language",
+    "defaultMessage": "Choose a Language",
+    "message": "Выберите язык",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.city",
+    "description": "city",
+    "defaultMessage": "Lorem Ipsum is simply dummy text",
+    "message": "Lorem Ipsum - это просто фиктивный текст",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.citySectionSettings",
+    "description": "Category Settings",
+    "defaultMessage": "Category",
+    "message": "Категория",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.code",
+    "description": "text",
+    "defaultMessage": "Code",
+    "message": "Код",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.comments",
+    "description": "Comments",
+    "defaultMessage": "Comments",
+    "message": "Комментарии",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.completed",
+    "description": "Completed Status",
+    "defaultMessage": "Completed",
+    "message": "Завершенный",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.completedLabel",
+    "description": "Label",
+    "defaultMessage": "Completed",
+    "message": "Завершенный",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.confirmPassword",
+    "description": "Change Password",
+    "defaultMessage": "Confirm Password",
+    "message": "Подтвердить Пароль",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contact",
+    "description": "Contact Nav link",
+    "defaultMessage": "Contact",
+    "message": "Контакт",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactUs",
+    "description": "contact",
+    "defaultMessage": "Contact Us",
+    "message": "Связаться с нами",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content",
+    "description": "Content 1",
+    "defaultMessage": "Content",
+    "message": "Содержание",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content1",
+    "description": "Content 1",
+    "defaultMessage": "Content 1",
+    "message": "Содержание 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content2",
+    "description": "Content 2",
+    "defaultMessage": "Content 2",
+    "message": "Содержание 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content3",
+    "description": "Content 3",
+    "defaultMessage": "Content 3",
+    "message": "Содержание 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content4",
+    "description": "Content 4",
+    "defaultMessage": "Content 4",
+    "message": "Содержание 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content5",
+    "description": "Content 5",
+    "defaultMessage": "Content 5",
+    "message": "Содержание 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content6",
+    "description": "Content 6",
+    "defaultMessage": "Content 6",
+    "message": "Содержание 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contentpageManagement",
+    "description": "Content Management",
+    "defaultMessage": "Content Management",
+    "message": "Управление содержанием",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.copyRightcontent",
+    "description": "Change Password",
+    "defaultMessage": "Copyrights content",
+    "message": "Содержание авторских прав",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.copyRights",
+    "description": "Copy Rights",
+    "defaultMessage": "Wooberly 2020. All Rights Reserved",
+    "message": "Wooberly 2020. Все права защищены",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.country",
+    "description": "Country Name",
+    "defaultMessage": "Country",
+    "message": "Страна",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.countryCodeError",
+    "description": "Invalid Country Code",
+    "defaultMessage": "Invalid Country Code",
+    "message": "Неверный код страны",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.createdAt",
+    "description": "Created date",
+    "defaultMessage": "Account Created on",
+    "message": "Учетная запись создана на",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.credentialError",
+    "description": "Fares",
+    "defaultMessage": "Sorry, a critical error occurred on this page.",
+    "message": "Извините, на этой странице произошла критическая ошибка.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currencies",
+    "description": "Ban Status",
+    "defaultMessage": "Currencies",
+    "message": "Валюты",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currency",
+    "description": "Currency Type",
+    "defaultMessage": "Currency",
+    "message": "Валюта",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currencyList",
+    "description": "Manage Currency",
+    "defaultMessage": "Manage Currency",
+    "message": "Управлять валютой",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dashboard",
+    "description": "dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "Панель приборов",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.decline",
+    "description": "Decline",
+    "defaultMessage": "Decline",
+    "message": "Отклонить",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.declined",
+    "description": "Declined Status",
+    "defaultMessage": "Declined",
+    "message": "Отклоненный",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.deleteAction",
+    "description": "Delete action name",
+    "defaultMessage": "Delete",
+    "message": "Удалить",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.description",
+    "description": "text",
+    "defaultMessage": "Description",
+    "message": "Описание",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.details",
+    "description": "Details",
+    "defaultMessage": "Details",
+    "message": "Подробности",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.discount",
+    "description": "text",
+    "defaultMessage": "Discount",
+    "message": "Скидка",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "DELECTUS SCAEVOLA ELABORARET VEL AD, VIS NO NOSTER VOCENT PREDESET, NEC EI OMITTANTUR DANESETITIT. Nobis postea ei est.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppText",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The User App",
+    "message": "Загрузите приложение пользователя",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropLocation",
+    "description": "Drop Location",
+    "defaultMessage": "Drop Location",
+    "message": "Местоположение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropzoneUpload",
+    "description": "Dropzone upload info",
+    "defaultMessage": "Upload a file from your computer",
+    "message": "Загрузите файл со своего компьютера",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropzoneUploadError",
+    "description": "Dropzone upload error message",
+    "defaultMessage": "Remove the existing image and try upload again",
+    "message": "Удалите существующее изображение и попробуйте снова загрузить",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dummyText",
+    "description": "dummyText",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum - это просто фиктивный текст индустрии печати и набора набора. Lorem Ipsum был стандартным фиктивным текстом Industrys с 1500 -х годов, когда неизвестный принтер взял камбуз типа и засохнул его, чтобы сделать книгу для образцов типа.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.earnings",
+    "description": "Earnings",
+    "defaultMessage": "Your Earnings",
+    "message": "Ваш заработок",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.edit",
+    "description": "edit",
+    "defaultMessage": "Edit",
+    "message": "Редактировать",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAction",
+    "description": "Edit action name",
+    "defaultMessage": "Edit",
+    "message": "Редактировать",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAdminRole",
+    "description": "Title",
+    "defaultMessage": "Edit Admin Role",
+    "message": "Редактировать роль администратора",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAdminUserLabel",
+    "description": "Edit Admin User",
+    "defaultMessage": "Edit Admin User",
+    "message": "Редактировать пользователя администратора",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editCancelReason",
+    "description": "Edit Cancel Reason",
+    "defaultMessage": "Edit Cancel Reason",
+    "message": "Отправить отменить разум",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editCategory",
+    "description": "Edit category form header",
+    "defaultMessage": "Edit Category",
+    "message": "Редактировать категорию",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editLocation",
+    "description": "Edit Location",
+    "defaultMessage": "Edit Location",
+    "message": "Редактировать местоположение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPageDetails",
+    "description": "Edit Page Details",
+    "defaultMessage": "Edit Page Details",
+    "message": "Изменить детали страницы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPromoCode",
+    "description": "Edit PromoCode",
+    "defaultMessage": "Edit Promo Code",
+    "message": "Редактировать промо -код",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Неверный адрес электронной почты",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "Для этого электронного письма не существует учетной записи. Убедитесь, что он вводится правильно или «зарегистрироваться» вместо этого",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "Электронная почта требуется",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailText",
+    "description": "Email",
+    "defaultMessage": "Email",
+    "message": "Эл. адрес",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailaddress",
+    "description": "emailaddress",
+    "defaultMessage": "Email Address",
+    "message": "Адрес электронной почты",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.enableDisable",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Enable / Disable",
+    "message": "Установить включение / отключить",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.errorOnly",
+    "description": "Fares",
+    "defaultMessage": "Error",
+    "message": "Ошибка",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit",
+    "description": "Exceeding character limit",
+    "defaultMessage": "Exceeding character limit",
+    "message": "Превышение предела символа",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit100",
+    "description": "Maximum 100 words",
+    "defaultMessage": "Maximum 100 words",
+    "message": "Максимум 100 слов",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.expireDate",
+    "description": "text",
+    "defaultMessage": "Expiry Date",
+    "message": "Срок действия",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.expired",
+    "description": "Expired Status",
+    "defaultMessage": "Expired",
+    "message": "Истекший",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exportDataIntoCSV",
+    "description": "Export Data into CSV",
+    "defaultMessage": "Export Data into CSV",
+    "message": "Экспорт данных в CSV",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.facebookUrl",
+    "description": "Fares",
+    "defaultMessage": "Facebook URL",
+    "message": "URL Facebook",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fares",
+    "description": "Fares",
+    "defaultMessage": "Fares",
+    "message": "Тарифы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #1",
+    "message": "Описание функции #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #2",
+    "message": "Описание функции № 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #3",
+    "message": "Описание функции № 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #4",
+    "message": "Описание функции № 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #5",
+    "message": "Описание функции № 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #6",
+    "message": "Описание функции № 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #1",
+    "message": "Название функции № 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #2",
+    "message": "Название функции № 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #3",
+    "message": "Название функции № 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #4",
+    "message": "Название функции № 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #5",
+    "message": "Название функции № 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #6",
+    "message": "Название функции № 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.firstName",
+    "description": "firstName",
+    "defaultMessage": "First Name",
+    "message": "Имя",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixed",
+    "description": "Fixed Fee Type",
+    "defaultMessage": "Fixed",
+    "message": "Исправлена",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixedAmount",
+    "description": "text",
+    "defaultMessage": "Fixed Amount",
+    "message": "Фиксированное количество",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.floatError",
+    "description": "Numeric Error Response",
+    "defaultMessage": "It should be a number value",
+    "message": "Это должно быть число",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.followUs",
+    "description": "Follow Us",
+    "defaultMessage": "Follow  Us",
+    "message": "Подписывайтесь на нас",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerCategory",
+    "description": "Footer Category",
+    "defaultMessage": "Footer Category",
+    "message": "Категория нижнего колонтитула",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerContent1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Content #1",
+    "message": "Содержание нижнего колонтитула #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo1",
+    "description": "Footer Logo 1",
+    "defaultMessage": "Footer Logo #1",
+    "message": "Логотип нижнего колонтитула #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo2",
+    "description": "Footer Logo 2",
+    "defaultMessage": "Footer Logo #2",
+    "message": "Логотип нижнего колонтитула #2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo3",
+    "description": "Footer Logo 3",
+    "defaultMessage": "Footer Logo #3",
+    "message": "Логотип нижнего колонтитула № 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo4",
+    "description": "Footer Logo 4",
+    "defaultMessage": "Footer Logo #4",
+    "message": "Логотип нижнего колонтитула № 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerSectionSettings",
+    "description": "Footer Settings",
+    "defaultMessage": "Footer",
+    "message": "Нижний колонтитул",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Title #1",
+    "message": "Нижний колонтитул № 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerUrltitle",
+    "description": "Change Password",
+    "defaultMessage": "Footer URL Title",
+    "message": "Титул URL -файла нижнего колонтитула",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.forceUpdate",
+    "description": "forceUpdate",
+    "defaultMessage": "Force update",
+    "message": "Обновление силы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.form",
+    "description": "form",
+    "defaultMessage": "Form",
+    "message": "Форма",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.formssidebar",
+    "description": "formssidebar",
+    "defaultMessage": "Forms",
+    "message": "Формы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.goBack",
+    "description": "Go Back Button Text",
+    "defaultMessage": "Go Back",
+    "message": "Вернитесь назад",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.goToMainSite",
+    "description": "goToMainSite option",
+    "defaultMessage": "Go to main site",
+    "message": "Перейти на основной сайт",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescFive",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID на Gloriatur Tincidunt. Vim Odio unum atomorum at. UT Essent Dicunt Dolorum Mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescFour",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID на Gloriatur Tincidunt. Vim Odio unum atomorum at. UT Essent Dicunt Dolorum Mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescOne",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID на Gloriatur Tincidunt. Vim Odio unum atomorum at. UT Essent Dicunt Dolorum Mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescSix",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID на Gloriatur Tincidunt. Vim Odio unum atomorum at. UT Essent Dicunt Dolorum Mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescThree",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID на Gloriatur Tincidunt. Vim Odio unum atomorum at. UT Essent Dicunt Dolorum Mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescTwo",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID на Gloriatur Tincidunt. Vim Odio unum atomorum at. UT Essent Dicunt Dolorum Mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitle",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Лорем Ипсум",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleFive",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Лорем Ипсум",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleFour",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Лорем Ипсум",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleSix",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Лорем Ипсум",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleThree",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Лорем Ипсум",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleTwo",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Лорем Ипсум",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.heading",
+    "description": "heading",
+    "defaultMessage": "Heading",
+    "message": "Заголовок",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.holdPayout",
+    "description": "Hold Payout",
+    "defaultMessage": "Hold Payout",
+    "message": "Держать выплату",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeContent",
+    "description": "Start Riding With Wooberly",
+    "defaultMessage": "Start Riding With Wooberly",
+    "message": "Начните ездить с Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeContent1",
+    "description": "Banner Content",
+    "defaultMessage": "Banner Content",
+    "message": "Баннер содержание",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage1",
+    "description": "Banner Image 1",
+    "defaultMessage": "Banner Image #1",
+    "message": "Баннер изображение № 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage2",
+    "description": "Banner Image 2",
+    "defaultMessage": "Banner Image #2",
+    "message": "Баннер Изображение № 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage3",
+    "description": "Banner Image 3",
+    "defaultMessage": "Banner Image #3",
+    "message": "Баннер изображение № 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage4",
+    "description": "Banner Image 4",
+    "defaultMessage": "Banner Image #4",
+    "message": "Баннер Изображение № 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage5",
+    "description": "Banner Image 5",
+    "defaultMessage": "Banner Image #5",
+    "message": "Баннер Изображение № 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage6",
+    "description": "Banner Image 6",
+    "defaultMessage": "Banner Image #6",
+    "message": "Баннер изображение № 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage7",
+    "description": "Banner Image Tablet",
+    "defaultMessage": "Banner Image Tablet",
+    "message": "Баннер изображение планшет",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage8",
+    "description": "Banner Image Mobile",
+    "defaultMessage": "Banner Image Mobile",
+    "message": "Баннер Изображение мобильное",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeSectionSettings",
+    "description": "Banner Settings",
+    "defaultMessage": "Banner",
+    "message": "Баннер",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeTitle",
+    "description": "Banner Title",
+    "defaultMessage": "Banner Title",
+    "message": "Название баннера",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeonly",
+    "description": "Fares",
+    "defaultMessage": "Home",
+    "message": "Дом",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homepageBanner",
+    "description": "Homepage Banner Settings",
+    "defaultMessage": "Homepage Banner",
+    "message": "Баннер домашней страницы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.id",
+    "description": "ID text",
+    "defaultMessage": "ID",
+    "message": "Я БЫ",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.image",
+    "description": "Label",
+    "defaultMessage": "Image",
+    "message": "Изображение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.inactive",
+    "description": "Inactive Status",
+    "defaultMessage": "Inactive",
+    "message": "Неактивный",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.instaUrl",
+    "description": "Fares",
+    "defaultMessage": "Instagram URL",
+    "message": "Instagram URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.insuranceImage",
+    "description": "insuranceImage",
+    "defaultMessage": "Insurance Image",
+    "message": "Страховое изображение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.intError",
+    "description": "Integer Error Response",
+    "defaultMessage": "It should be a decimal value",
+    "message": "Это должно быть десятичное значение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalidUrl",
+    "description": "Invalid Page URL",
+    "defaultMessage": "Invalid Page URL",
+    "message": "Недействительный URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalidVersionNumber",
+    "description": "invalidVersionNumber",
+    "defaultMessage": "Invalid Version Number",
+    "message": "Недопустимый номер версии",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.km",
+    "description": "Km",
+    "defaultMessage": "Km",
+    "message": "Км",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.lastHours",
+    "description": "Ban Status",
+    "defaultMessage": "Last 24 hours",
+    "message": "Последние 24 часа",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.lastName",
+    "description": "lastName",
+    "defaultMessage": "Last Name",
+    "message": "Фамилия",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.leaveEmail",
+    "description": "Change Password",
+    "defaultMessage": "Leave email address field blank if you don't want to change the email",
+    "message": "Оставьте поле адреса электронной почты пустым, если вы не хотите менять электронное письмо",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.licenceBackImage",
+    "description": "licenceBackImage",
+    "defaultMessage": "Licence Back Image",
+    "message": "Лицензионная обратная связь",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.licenceFrontImage",
+    "description": "licenceFrontImage",
+    "defaultMessage": "Licence Front Image",
+    "message": "Лицензионное изображение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.listings",
+    "description": "Ban Status",
+    "defaultMessage": "Listings",
+    "message": "Списки",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.loadMoreMsg",
+    "description": "Load more button",
+    "defaultMessage": "Load More",
+    "message": "Загрузи больше",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.location",
+    "description": "location",
+    "defaultMessage": "Manage Location",
+    "message": "Управление местоположением",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.locationName",
+    "description": "Table header",
+    "defaultMessage": "Location",
+    "message": "Место нахождения",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.locations",
+    "description": "Pagination",
+    "defaultMessage": "Locations",
+    "message": "Локации",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "Вы уже вошли в систему!",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.login",
+    "description": "Login Nav link",
+    "defaultMessage": "Login",
+    "message": "Авторизоваться",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logo",
+    "description": "Logo",
+    "defaultMessage": "Logo",
+    "message": "Логотип",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logoheight",
+    "description": "Fares",
+    "defaultMessage": "Logo Height",
+    "message": "Высота логотипа",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logout",
+    "description": "logout option",
+    "defaultMessage": "Logout",
+    "message": "Выйти",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logowidth",
+    "description": "Fares",
+    "defaultMessage": "Logo Width",
+    "message": "Ширина логотипа",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdmin",
+    "description": "Manage Admins",
+    "defaultMessage": "Manage Admins",
+    "message": "Управлять администраторами",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdminRoles",
+    "description": "Manage Admin Roles",
+    "defaultMessage": "Manage Admin Roles",
+    "message": "Управлять административными ролями",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdminUsers",
+    "description": "Manage Admin Users",
+    "defaultMessage": "Manage Admin Users",
+    "message": "Управление пользователями администратора",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Отменить разум",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCurrency",
+    "description": "manageCurrency sidemenu",
+    "defaultMessage": "Manage Currency",
+    "message": "Управлять валютой",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageDashboard",
+    "description": "Manage Dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "Панель приборов",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageFailedPayout",
+    "description": "Failed Payout",
+    "defaultMessage": "Failed Payout",
+    "message": "Неудачная выплата",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageFare",
+    "description": "Admin sidemenu",
+    "defaultMessage": "Manage Fare",
+    "message": "Управлять тарифом",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageNotifications",
+    "description": "Manage Notifications",
+    "defaultMessage": "Manage Notifications",
+    "message": "Управлять уведомлениями",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePayout",
+    "description": "managePayout",
+    "defaultMessage": "Manage Payout",
+    "message": "Управлять выплатой",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePromoCode",
+    "description": "managePromoCode sidemenu",
+    "defaultMessage": "Manage Promo Code",
+    "message": "Управление промо -кодом",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maximumUploadSizeLabel",
+    "description": "",
+    "defaultMessage": "Maximum upload size",
+    "message": "Максимальный размер загрузки",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuFour",
+    "description": "menuFour",
+    "defaultMessage": "MenuFour",
+    "message": "Меню",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuOne",
+    "description": "form",
+    "defaultMessage": "MenuOne",
+    "message": "Меню",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuTwo",
+    "description": "MenuTwo",
+    "defaultMessage": "MenuTwo",
+    "message": "Menutwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.messageLength",
+    "description": "Message must be 200 characters or less",
+    "defaultMessage": "Message must be 200 characters or less",
+    "message": "Сообщение должно быть 200 символов или меньше",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.messageRequired",
+    "description": "Message is required",
+    "defaultMessage": "Message is required",
+    "message": "Сообщение требуется",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDesc",
+    "description": "Fares",
+    "defaultMessage": "Meta Description",
+    "message": "Мета Описание",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDescription",
+    "description": "Description must be 255 characters or less",
+    "defaultMessage": "Description must be 255 characters or less",
+    "message": "Описание должно быть 255 символов или меньше",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDescriptionText",
+    "description": "Meta Description",
+    "defaultMessage": "Meta Description",
+    "message": "Мета Описание",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaKeyword",
+    "description": "Keyword must be 255 characters or less",
+    "defaultMessage": "Keyword must be 255 characters or less",
+    "message": "Ключевое слово должно быть 255 символов или меньше",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaTitle",
+    "description": "Meta Title",
+    "defaultMessage": "Meta Title",
+    "message": "Мета название",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metakey",
+    "description": "Fares",
+    "defaultMessage": "Meta Keyword",
+    "message": "Мета -ключевое слово",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mile",
+    "description": "Mile",
+    "defaultMessage": "Mile",
+    "message": "Миля",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.miles",
+    "description": "Fares",
+    "defaultMessage": "Miles",
+    "message": "Мили",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutePrice",
+    "description": "Minute Price",
+    "defaultMessage": "Minute Price",
+    "message": "Мельчайшая цена",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutes",
+    "description": "minutes",
+    "defaultMessage": "minutes",
+    "message": "минуты",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.montly",
+    "description": "montly",
+    "defaultMessage": "This Month",
+    "message": "Этот месяц",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.msgOnly",
+    "description": "Change Password",
+    "defaultMessage": "Message",
+    "message": "Сообщение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.nameOnly",
+    "description": "Change Password",
+    "defaultMessage": "Name",
+    "message": "Имя",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.no",
+    "description": "no",
+    "defaultMessage": "No",
+    "message": "Нет",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noItmesFound",
+    "description": "No items found",
+    "defaultMessage": "No items found",
+    "message": "ничего не найдено",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noResult",
+    "description": "noResult",
+    "defaultMessage": "No results found",
+    "message": "результаты не найдены",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notFound",
+    "description": "Ban Status",
+    "defaultMessage": "Sorry, the page you were trying to view does not exist.",
+    "message": "Извините, страница, которую вы пытались просмотреть, не существует.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notRequired",
+    "description": "Label",
+    "defaultMessage": "No Action Required",
+    "message": "Никаких действий не требуется",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notRequiredMessage",
+    "description": "Not Required",
+    "defaultMessage": "Not Required",
+    "message": "Не требуется",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.numberError",
+    "description": "Invalid Phone Number",
+    "defaultMessage": "Invalid Phone Number",
+    "message": "Неправильный номер телефона",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.numericValue",
+    "description": "Numeric value required",
+    "defaultMessage": "Numeric value required",
+    "message": "Требуется числовое значение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.offline",
+    "description": "offline",
+    "defaultMessage": "Offline",
+    "message": "Не в сети",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.oneOne",
+    "description": "Ban Status",
+    "defaultMessage": "One",
+    "message": "Один",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.online",
+    "description": "online",
+    "defaultMessage": "Online",
+    "message": "В сети",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.optionOne",
+    "description": "Fares",
+    "defaultMessage": "option 1",
+    "message": "Опция 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.overAll",
+    "description": "Overall",
+    "defaultMessage": "Overall",
+    "message": "Общий",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageBanner",
+    "description": "Page Banner",
+    "defaultMessage": "Page Banner",
+    "message": "Страница баннер",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageImageBanner",
+    "description": "Page Image Banner",
+    "defaultMessage": "Page Image Banner",
+    "message": "Страница изображения баннер",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageName",
+    "description": "Page Name",
+    "defaultMessage": "Page Name",
+    "message": "Название страницы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageTitle",
+    "description": "Page Title",
+    "defaultMessage": "Page Title",
+    "message": "Заголовок страницы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageUrl",
+    "description": "Page URL",
+    "defaultMessage": "Page URL",
+    "message": "Страница URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paid",
+    "description": "Paid",
+    "defaultMessage": "Paid",
+    "message": "Оплаченный",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.password",
+    "description": "password",
+    "defaultMessage": "Password",
+    "message": "Пароль",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "Ваш пароль должен быть не менее 8 символов. Пожалуйста, попробуйте еще раз",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "Необходим пароль",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordText",
+    "description": "Password Content",
+    "defaultMessage": "Provide new password only. Ignore this field to use the existing password for this user.",
+    "message": "Предоставить только новый пароль. Не обращайте внимания на это поле, чтобы использовать существующий пароль для этого пользователя.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Неправильный пароль. Пожалуйста, попробуйте еще раз",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paymentMethod",
+    "description": "Payment Method",
+    "defaultMessage": "Payment Method",
+    "message": "Способ оплаты",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paymentType",
+    "description": "Payment Type",
+    "defaultMessage": "Payment Type",
+    "message": "Способ оплаты",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.payoutAmount",
+    "description": "Payout Amount",
+    "defaultMessage": "Payout Amount",
+    "message": "Сумма выплаты",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.payoutStatus",
+    "description": "Payout Status",
+    "defaultMessage": "Payout Status",
+    "message": "Статус выплаты",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pending",
+    "description": "Pending Status",
+    "defaultMessage": "Pending",
+    "message": "В ожидании",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pendingLabel",
+    "description": "Label",
+    "defaultMessage": "Pending",
+    "message": "В ожидании",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentError",
+    "description": "Choose percentage value between 1 to 99",
+    "defaultMessage": "Choose percentage value between 1 to 99",
+    "message": "Выберите процентное значение от 1 до 99",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentage",
+    "description": "text",
+    "defaultMessage": "Percentage",
+    "message": "Процент",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentageFeeType",
+    "description": "Percentage Fee Type",
+    "defaultMessage": "Percentage",
+    "message": "Процент",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.permit",
+    "description": "Permit Status",
+    "defaultMessage": "Permit",
+    "message": "Разрешать",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.phoneDialCode",
+    "description": "Phone Dial Code",
+    "defaultMessage": "Country Code",
+    "message": "Код страны",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.phoneNumber",
+    "description": "phoneNumber",
+    "defaultMessage": "Phone Number",
+    "message": "Телефонный номер",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pickupLocation",
+    "description": "PickUp Location",
+    "defaultMessage": "PickUp Location",
+    "message": "Выбрать место",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformEarnings",
+    "description": "Label",
+    "defaultMessage": "Platform Earnings",
+    "message": "Заработок платформы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformOffered",
+    "description": "Label",
+    "defaultMessage": "Platform Overdrafts",
+    "message": "Платформа овердрафты",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.playstorelink",
+    "description": "Fares",
+    "defaultMessage": "Play Store Link",
+    "message": "Играть в магазин",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.precautionNotification",
+    "description": "Title",
+    "defaultMessage": "Precaution Notification",
+    "message": "Уведомление о предосторожности",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.preview",
+    "description": "Preview",
+    "defaultMessage": "Preview",
+    "message": "Предварительный просмотр",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.privacyPolicies",
+    "description": "Privacy Policy",
+    "defaultMessage": "Privacy Policy",
+    "message": "Политика конфиденциальности",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.privileges",
+    "description": "Privileges",
+    "defaultMessage": "Privileges",
+    "message": "Привилегии",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.processedCash",
+    "description": "Label",
+    "defaultMessage": "Processed via cash",
+    "message": "Обрабатывается через наличные",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.profileId",
+    "description": "Profile Id for user",
+    "defaultMessage": "Profile ID",
+    "message": "Идентификатор профиля",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.profilePicture",
+    "description": "profilePicture",
+    "defaultMessage": "Profile Picture",
+    "message": "Изображение профиля",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoCodeId",
+    "description": "Promo Code",
+    "defaultMessage": "Promo Code",
+    "message": "Промо код",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoType",
+    "description": "text",
+    "defaultMessage": "Type",
+    "message": "Тип",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.radioButton",
+    "description": "Change Password",
+    "defaultMessage": "Radio button",
+    "message": "Переключатель",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.ratings",
+    "description": "Ratings",
+    "defaultMessage": "Ratings",
+    "message": "Рейтинги",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.rcImage",
+    "description": "rcImage",
+    "defaultMessage": "RC Book Image",
+    "message": "RC Book Image",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reason",
+    "description": "Reason",
+    "defaultMessage": "Reason",
+    "message": "Причина",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reasonRequired",
+    "description": "Reason is required",
+    "defaultMessage": "Reason is required",
+    "message": "Причина требуется",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.recommand",
+    "description": "recommand",
+    "defaultMessage": "Recommand",
+    "message": "Рекомендуется",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.redioOne",
+    "description": "Fares",
+    "defaultMessage": "radio 1",
+    "message": "радио 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.removeLocation",
+    "description": "Polygon remove",
+    "defaultMessage": "Remove Location",
+    "message": "Снимите местоположение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.rentallContent",
+    "description": "app",
+    "defaultMessage": "app",
+    "message": "приложение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reportIssue",
+    "description": "Ban Status",
+    "defaultMessage": "Report an issue",
+    "message": "Сообщить о проблеме",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.required",
+    "description": "required error message",
+    "defaultMessage": "*Required",
+    "message": "*Необходимый",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reservations",
+    "description": "Ban Status",
+    "defaultMessage": "Reservations",
+    "message": "Бронирование",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reviewsBy",
+    "description": "reviewsBy",
+    "defaultMessage": "Reviews By",
+    "message": "Отзывы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.role",
+    "description": "Role",
+    "defaultMessage": "Role",
+    "message": "Роль",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.roleName",
+    "description": "Role Name",
+    "defaultMessage": "Role Name",
+    "message": "Роль имя",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyButton",
+    "description": "safetyButton",
+    "defaultMessage": "View all safety features",
+    "message": "Посмотреть все функции безопасности",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyContent",
+    "description": "Safety",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum - это просто фиктивный текст индустрии печати и набора набора. Lorem Ipsum был стандартным фиктивным текстом отрасли с 1500 -х годов, когда неизвестный принтер взял камбуз типа и засохнул его, чтобы сделать книгу для образцов типа.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "Логотип Playstore",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "Логотип Appstore",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage3",
+    "description": "User App Image",
+    "defaultMessage": "User App Image",
+    "message": "Изображение приложения пользователя",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetySectionSettings",
+    "description": "User Apps Settings",
+    "defaultMessage": "User App",
+    "message": "Пользовательский приложение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.searchLocation",
+    "description": "Auto-Complete input",
+    "defaultMessage": "Search Location",
+    "message": "Место поиска",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.searchOnly",
+    "description": "Change Password",
+    "defaultMessage": "Search",
+    "message": "Поиск",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.select",
+    "description": "select",
+    "defaultMessage": "Select",
+    "message": "Выбирать",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.selectRole",
+    "description": "Select Role",
+    "defaultMessage": "Select Role",
+    "message": "Выберите роль",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.setBase",
+    "description": "Ban Status",
+    "defaultMessage": "Set as base currency",
+    "message": "Установить как базовую валюту",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.setBaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Base Currency",
+    "message": "Установите базовую валюту",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.settings",
+    "description": "settings",
+    "defaultMessage": "Settings",
+    "message": "Настройки",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signup",
+    "description": "Sign up Nav link",
+    "defaultMessage": "Sign up",
+    "message": "Зарегистрироваться",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupDrive",
+    "description": "Sign up to drive",
+    "defaultMessage": "Sign up to drive",
+    "message": "Зарегистрироваться, чтобы ездить",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Play Store Logo",
+    "message": "Играть в логотип магазина",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "App Store Logo",
+    "message": "Логотип магазина приложений",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage3",
+    "description": "Service provider App Image",
+    "defaultMessage": "Service Provider App Image",
+    "message": "Изображение приложения поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupRide",
+    "description": "Sign up to ride",
+    "defaultMessage": "Sign up to ride",
+    "message": "Зарегистрироваться, чтобы ездить",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupSectionSettings",
+    "description": "Service Provider Apps Settings",
+    "defaultMessage": "Service Provider App",
+    "message": "Приложение поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteAdmin",
+    "description": "siteAdmin",
+    "defaultMessage": "Site Admin",
+    "message": "Сайт администратор",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteName",
+    "description": "Fares",
+    "defaultMessage": "Site Name",
+    "message": "Название сайта",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteSettings",
+    "description": "Site Settings",
+    "defaultMessage": "Site Settings",
+    "message": "Настройки сайта",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteTitle",
+    "description": "Fares",
+    "defaultMessage": "Site Title",
+    "message": "Заголовок сайта",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderContent",
+    "description": "Luxury",
+    "defaultMessage": "Luxury",
+    "message": "Роскошь",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderTitle",
+    "description": "sliderTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Лорем Ипсум",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderTitleDesc",
+    "description": "sliderTitleDesc",
+    "defaultMessage": "Percipit repudiandae an eum, enim case eos no. Percipit tractatos pertinacia cum id, ad eos facete malorum recusabo, vis insolens perpetua definitionem ex.",
+    "message": "Percipit Repudiandae eum, Enim case eos no. Percipit Tractatos pertinacia cum id, ed eos facete malorum recusabo, vis insolens perpetua definationem ex.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Извините, что-то пошло не так. Пожалуйста, попробуйте еще раз",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.startDriving",
+    "description": "Start Driving",
+    "defaultMessage": "Start Driving",
+    "message": "Начните вождение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.startRideing",
+    "description": "Start Riding",
+    "defaultMessage": "Start Riding",
+    "message": "Начать кататься",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.started",
+    "description": "Started Status",
+    "defaultMessage": "Started",
+    "message": "Началось",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.state",
+    "description": "Fares",
+    "defaultMessage": "State",
+    "message": "Состояние",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.staticpageManagement",
+    "description": "Manage Static Content",
+    "defaultMessage": "Manage Static Content",
+    "message": "Управление статическим контентом",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.status",
+    "description": "Status Active/Inactive",
+    "defaultMessage": "Status",
+    "message": "Статус",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.stripePublishableKey",
+    "description": "Stripe Publishable Key",
+    "defaultMessage": "Stripe Publishable Key",
+    "message": "Stripe Publisbable Key",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuOne",
+    "description": "subMenuOne",
+    "defaultMessage": "subMenuOne",
+    "message": "подменюоне",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuThree",
+    "description": "subMenuThree",
+    "defaultMessage": "subMenuThree",
+    "message": "подчиненная",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuTwo",
+    "description": "subMenuTwo",
+    "defaultMessage": "subMenuTwo",
+    "message": "подчинен",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.submitButton",
+    "description": "Submit",
+    "defaultMessage": "Submit",
+    "message": "Представлять на рассмотрение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.symbol",
+    "description": "currencyManagement value",
+    "defaultMessage": "Symbol",
+    "message": "Условное обозначение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.table",
+    "description": "Table",
+    "defaultMessage": "Table",
+    "message": "Таблица",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tableCell",
+    "description": "Fares",
+    "defaultMessage": "Table cell",
+    "message": "Табличная ячейка",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tableHead",
+    "description": "Fares",
+    "defaultMessage": "Table heading",
+    "message": "Заголовок стола",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.textarea",
+    "description": "textarea",
+    "defaultMessage": "Text Area",
+    "message": "Текстовая область",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsAmount",
+    "description": "Tips Amount",
+    "defaultMessage": "Tips Amount",
+    "message": "Количество советов",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title",
+    "description": "text",
+    "defaultMessage": "Title",
+    "message": "Заголовок",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title1",
+    "description": "Title 1",
+    "defaultMessage": "Title 1",
+    "message": "Раздел 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title2",
+    "description": "Title 2",
+    "defaultMessage": "Title 2",
+    "message": "Раздел 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title3",
+    "description": "Title 3",
+    "defaultMessage": "Title 3",
+    "message": "Раздел 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title4",
+    "description": "Title 4",
+    "defaultMessage": "Title 4",
+    "message": "Раздел 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title5",
+    "description": "Title 5",
+    "defaultMessage": "Title 5",
+    "message": "Раздел 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title6",
+    "description": "Title 6",
+    "defaultMessage": "Title 6",
+    "message": "Раздел 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.to",
+    "description": "Label",
+    "defaultMessage": "To",
+    "message": "К",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.today",
+    "description": "today",
+    "defaultMessage": "Today",
+    "message": "Сегодня",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tollFee",
+    "description": "tollFee",
+    "defaultMessage": "Toll Fee",
+    "message": "Плата за проезд",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.topFeatures",
+    "description": "Top Features Section Settings",
+    "defaultMessage": "Top Features Section Settings",
+    "message": "Настройки раздела лучших функций",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalDuration",
+    "description": "Total Duration",
+    "defaultMessage": "Total Duration",
+    "message": "Общая продолжительность",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalFare",
+    "description": "Total Fare",
+    "defaultMessage": "Total Fare",
+    "message": "Общий тариф",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalList",
+    "description": "Ban Status",
+    "defaultMessage": "Total Listings",
+    "message": "Общие списки",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalReserv",
+    "description": "Ban Status",
+    "defaultMessage": "Total Reservations",
+    "message": "Общее резервирование",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalRideDistance",
+    "description": "Total  Distance",
+    "defaultMessage": "Total  Distance",
+    "message": "Общее расстояние",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalUser",
+    "description": "Ban Status",
+    "defaultMessage": "Total Users",
+    "message": "Всего пользователей",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripDate",
+    "description": "Trip Date",
+    "defaultMessage": "Trip Date",
+    "message": "Дата поездки",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripEnd",
+    "description": "Trip End",
+    "defaultMessage": "Trip End",
+    "message": "Поездка на конец",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripStart",
+    "description": "Trip Start",
+    "defaultMessage": "Trip Start",
+    "message": "Поездка старт",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.twiterUrl",
+    "description": "Fares",
+    "defaultMessage": "Twitter URL",
+    "message": "URL Twitter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unitPrice",
+    "description": "Unit Price",
+    "defaultMessage": "Unit Price",
+    "message": "Цена за единицу",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unpaid",
+    "description": "Unpaid",
+    "defaultMessage": "Unpaid",
+    "message": "Неоплачиваемый",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.update",
+    "description": "Update",
+    "defaultMessage": "Update",
+    "message": "Обновлять",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.updatedAt",
+    "description": "Label",
+    "defaultMessage": "Updated At",
+    "message": "Обновлено в",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.useFullLink",
+    "description": "Usefull Links",
+    "defaultMessage": "Usefull Links",
+    "message": "Полезные ссылки",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.usedPromoCode",
+    "description": "text",
+    "defaultMessage": "Used Promo Code",
+    "message": "Используется промо -код",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userStatus",
+    "description": "User Status Active/Inactive",
+    "defaultMessage": "User Status",
+    "message": "Статус пользователь",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.users",
+    "description": "users",
+    "defaultMessage": "Users",
+    "message": "Пользователи",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validUrl",
+    "description": "Valid URL required",
+    "defaultMessage": "Valid URL required",
+    "message": "Действительный URL требуется",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateConfirmPasswordLength",
+    "description": "Confirm Password length Validation",
+    "defaultMessage": "Confirm Password must be minimum 8 characters",
+    "message": "Подтвердить пароль должен быть минимум 8 символов",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validatePasswordLength",
+    "description": "Password length Validation",
+    "defaultMessage": "Password must be minimum 8 characters",
+    "message": "Пароль должен быть минимум 8 символов",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validatePasswordMatch",
+    "description": "Password mismatch",
+    "defaultMessage": "Password is mismatching with Confirm password",
+    "message": "Пароль не соответствует подтверждению пароля",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.view",
+    "description": "View Details Link",
+    "defaultMessage": "View",
+    "message": "Вид",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.viewCity",
+    "description": "view City",
+    "defaultMessage": "View city",
+    "message": "Посмотреть город",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.wallet",
+    "description": "Wallet",
+    "defaultMessage": "Wallet",
+    "message": "Бумажник",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.walletBalance",
+    "description": "Wallet Balance",
+    "defaultMessage": "Wallet Balance",
+    "message": "Баланс кошелька",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.weekly",
+    "description": "weekly",
+    "defaultMessage": "This Week",
+    "message": "Эта неделя",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.yes",
+    "description": "Yes",
+    "defaultMessage": "Yes",
+    "message": "Да",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.youtubeUrl",
+    "description": "Fares",
+    "defaultMessage": "Youtube URL",
+    "message": "YouTube URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addOrChange",
+    "description": "Label",
+    "defaultMessage": "Add or Change",
+    "message": "Добавить или изменить",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addStop",
+    "description": "Label",
+    "defaultMessage": "Add Stop",
+    "message": "Добавить остановку",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.all",
+    "description": "all",
+    "defaultMessage": "All",
+    "message": "Все",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.assign",
+    "description": "Label",
+    "defaultMessage": "Assign",
+    "message": "Назначать",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.at",
+    "description": "Label",
+    "defaultMessage": "at",
+    "message": "в",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.autoAssign",
+    "description": "Label",
+    "defaultMessage": "Auto Assign",
+    "message": "Автоматическое назначение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.baseFare",
+    "description": "Label",
+    "defaultMessage": "Base Fare",
+    "message": "Базовый тариф",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookNow",
+    "description": "Label",
+    "defaultMessage": "Book Now",
+    "message": "Заказать сейчас",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingFee",
+    "description": "Label",
+    "defaultMessage": "Booking Fee",
+    "message": "Плата за бронирование",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelBooking",
+    "description": "Label",
+    "defaultMessage": "Cancel Booking",
+    "message": "Отменить бронирование",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.createBooking",
+    "description": "Create Booking",
+    "defaultMessage": "Create Booking",
+    "message": "Создать бронирование",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editBooking",
+    "description": "Label",
+    "defaultMessage": "Edit Booking",
+    "message": "Редактировать бронирование",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editDateAndTime",
+    "description": "Label",
+    "defaultMessage": "Edit Date & Time",
+    "message": "Изменить дату и время",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit200",
+    "description": "Message",
+    "defaultMessage": "Please dont exceed 200 words",
+    "message": "Пожалуйста, не превышайте 200 слов",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fareEstimation",
+    "description": "Label",
+    "defaultMessage": "Fare Estimation",
+    "message": "Оценка тарифов",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.heatMap",
+    "description": "heatMap",
+    "defaultMessage": "HeatMap",
+    "message": "Тепловая карта",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hide",
+    "description": "hide",
+    "defaultMessage": "Hide",
+    "message": "Скрывать",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalid",
+    "description": "invalid",
+    "defaultMessage": "Invalid",
+    "message": "Неверный",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageDispatcher",
+    "description": "manageDispatcher",
+    "defaultMessage": "Manage Dispatcher",
+    "message": "Управление диспетчером",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageForceUpdate",
+    "description": "manageForceUpdate",
+    "defaultMessage": "Manage Apps Force Update",
+    "message": "Управление обновлением приложений Force",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mapView",
+    "description": "mapView",
+    "defaultMessage": "Map View",
+    "message": "Карта вид",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutesShort",
+    "description": "Label",
+    "defaultMessage": "mins",
+    "message": "мин",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mobileSettings",
+    "description": "Mobile App Settings",
+    "defaultMessage": "Mobile App Settings",
+    "message": "Настройки мобильного приложения",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.next",
+    "description": "Next",
+    "defaultMessage": "Next",
+    "message": "Следующий",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noCabs",
+    "description": "Label",
+    "defaultMessage": "No Cabs",
+    "message": "Нет такси",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.now",
+    "description": "Label",
+    "defaultMessage": "Book now",
+    "message": "Заказать сейчас",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perKm",
+    "description": "Label",
+    "defaultMessage": "Per Km",
+    "message": "За км",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perMile",
+    "description": "Label",
+    "defaultMessage": "Per Mile",
+    "message": "За милю",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perMinute",
+    "description": "Label",
+    "defaultMessage": "Per Minute",
+    "message": "В минуту",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reset",
+    "description": "Label",
+    "defaultMessage": "Reset",
+    "message": "Перезагрузить",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.show",
+    "description": "show",
+    "defaultMessage": "Show",
+    "message": "Шоу",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepMode",
+    "description": "sleepMode",
+    "defaultMessage": "Manage Service Provider App Sleep Mode",
+    "message": "Управление приложением поставщика услуг приложением для спящего режима",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.stripeSettings",
+    "description": "stripeSettings",
+    "defaultMessage": "Stripe Settings",
+    "message": "Настройки полосы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.total",
+    "description": "Label",
+    "defaultMessage": "Total",
+    "message": "Общее",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tracking",
+    "description": "tracking",
+    "defaultMessage": "Tracking",
+    "message": "Отслеживание",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.travelFare",
+    "description": "Label",
+    "defaultMessage": "Travel Fare",
+    "message": "Путешествие",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.markerInfo",
+    "description": "Marker Info",
+    "defaultMessage": "Marker Info",
+    "message": "Информация о маркере",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.favIconlogoLabel",
+    "description": "Fav Icon",
+    "defaultMessage": "Fav Icon",
+    "message": "Любимый значок",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allDays",
+    "description": "select label",
+    "defaultMessage": "All days",
+    "message": "Все дни",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactEmail",
+    "description": "contactEmail",
+    "defaultMessage": "Contact email",
+    "message": "Почта для связи",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactPhoneNumber",
+    "description": "contactPhoneNumber",
+    "defaultMessage": "Contact phone number",
+    "message": "Свяжитесь с номером телефона",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.last30Days",
+    "description": "select label",
+    "defaultMessage": "Last 30 days",
+    "message": "Последние 30 дней",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.last7Days",
+    "description": "select label",
+    "defaultMessage": "Last 7 days",
+    "message": "Последние 7 дней",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.skype",
+    "description": "skype",
+    "defaultMessage": "Skype",
+    "message": "Скайп",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCurrency",
+    "description": "addCurrency",
+    "defaultMessage": "Add currency",
+    "message": "Добавить валюту",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledByPartner",
+    "description": "Cancelled By Service Provider Status",
+    "defaultMessage": "Cancelled By Service Provider",
+    "message": "Отменено поставщиком услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledByUser",
+    "description": "Cancelled By User Status",
+    "defaultMessage": "Cancelled By User",
+    "message": "Отменено пользователем",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partner",
+    "description": "partner",
+    "defaultMessage": "Service Provider",
+    "message": "Поставщик услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepPartnerAndroid",
+    "description": "sleepPartnerAndroid",
+    "defaultMessage": "Service Provider Android App",
+    "message": "Приложение для Android -поставщика",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepPartnerios",
+    "description": "sleepPartnerios",
+    "defaultMessage": "Service Provider iOS App",
+    "message": "Приложение для поставщика услуг iOS",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.user",
+    "description": "user",
+    "defaultMessage": "User",
+    "message": "Пользователь",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingStatus",
+    "description": "Job Status",
+    "defaultMessage": "Job Status",
+    "message": "Рабочий статус",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryBanner",
+    "description": "Category Banner",
+    "defaultMessage": "Banner",
+    "message": "Баннер",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryLogo",
+    "description": "Category Logo",
+    "defaultMessage": "Logo",
+    "message": "Логотип",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixedFareType",
+    "description": "Fixed fare Type",
+    "defaultMessage": "Fixed fare Type",
+    "message": "Фиксированный тип тарифа",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hourlyFareType",
+    "description": "Hourly fare type",
+    "defaultMessage": "Hourly fare type",
+    "message": "Почасовой тариф",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isJobPhotoRequired",
+    "description": "isJobPhotoRequired",
+    "defaultMessage": "Allow users to upload photos for the job",
+    "message": "Позвольте пользователям загружать фотографии для работы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isPopular",
+    "description": "Is-Popular",
+    "defaultMessage": "Is-Popular",
+    "message": "Популярный",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.legal",
+    "description": "legal",
+    "defaultMessage": "Legal",
+    "message": "Юридический",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.name",
+    "description": "name",
+    "defaultMessage": "Name",
+    "message": "Имя",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerServiceFee",
+    "description": "Service Provider Service Fee",
+    "defaultMessage": "Service Provider Service Fee",
+    "message": "Плата за услуги поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pricingType",
+    "description": "Pricing Type",
+    "defaultMessage": "Pricing Type",
+    "message": "Ценообразование тип",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategoryMenu",
+    "description": "Manage SubCategory",
+    "defaultMessage": "Manage Sub Category",
+    "message": "Управление субботом",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userServiceFee",
+    "description": "User Service Fee",
+    "defaultMessage": "User Service Fee",
+    "message": "Пользовательский сервис",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.usersMenu",
+    "description": "usersMenu",
+    "defaultMessage": "Manage Users",
+    "message": "Управление пользователями",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addSubCategory",
+    "description": "Add subcategory form header",
+    "defaultMessage": "Add Sub Category",
+    "message": "Добавить субботную категорию",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editSubCategory",
+    "description": "Edit subcategory form header",
+    "defaultMessage": "Edit Sub Category",
+    "message": "РЕДАКТИРОВАТЬ Sub Category",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editUser",
+    "description": "Edit User form header",
+    "defaultMessage": "Edit User",
+    "message": "Редактировать пользователя",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.basePrice",
+    "description": "base price amount",
+    "defaultMessage": "Base Price",
+    "message": "Базисная цена",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hourlyPrice",
+    "description": "Hourly Price",
+    "defaultMessage": "Hourly Price",
+    "message": "Почасовая цена",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isPriceEditable",
+    "description": "Can be editable by service provider?",
+    "defaultMessage": "Can be editable by service provider?",
+    "message": "Может ли поставщик услуг редактировать?",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maxQuantity",
+    "description": "Maximum Quantity",
+    "defaultMessage": "Maximum Quantity",
+    "message": "Максимальное количество",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minHours",
+    "description": "Minimum Hours",
+    "defaultMessage": "Minimum Hours",
+    "message": "Минимальные часы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategory",
+    "description": "SubCategory",
+    "defaultMessage": "Sub Category",
+    "message": "Суббота",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategoryName",
+    "description": "subCategoryName",
+    "defaultMessage": "Sub Category Name",
+    "message": "Название суб -категории",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.travelCharge",
+    "description": "Travelling Charge",
+    "defaultMessage": "Visit Fee",
+    "message": "Посетить плату",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowableDistaceField",
+    "description": "allowableDistaceField",
+    "defaultMessage": "Maximum Allowable distance",
+    "message": "Максимально допустимое расстояние",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowableDistaceTitle",
+    "description": "allowableDistaceTitle",
+    "defaultMessage": "Maximum distance to cover while fetching service providers",
+    "message": "Максимальное расстояние до покрытия при получении поставщиков услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedServices",
+    "description": "allowedServices",
+    "defaultMessage": "Maximum jobs that users can book",
+    "message": "Максимальные задания, которые пользователи могут забронировать",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedServicesTitle",
+    "description": "allowedServicesTitle",
+    "defaultMessage": "Manage maximum jobs that users can book",
+    "message": "Управление максимальными заданиями, которые пользователи могут забронировать",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notificationInterval",
+    "description": "notificationInterval",
+    "defaultMessage": "Job acceptance time for the service provider",
+    "message": "Время принятия работы поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerAndriodVersion",
+    "description": "Andriod",
+    "defaultMessage": "Service Provider Android Version",
+    "message": "Поставщик услуг Android версия",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerPrivacyPolicy",
+    "description": "Title",
+    "defaultMessage": "Service Provider Privacy Policy",
+    "message": "Политика конфиденциальности поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partneriosVersion",
+    "description": "iOS",
+    "defaultMessage": "Service Provider iOS Version",
+    "message": "Поставщик услуг iOS версия",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userAndriodVersion",
+    "description": "userAndriodVersion",
+    "defaultMessage": "User Android Version",
+    "message": "Пользовательская версия Android",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.useriosVersion",
+    "description": "useriosVersion",
+    "defaultMessage": "User iOS Version",
+    "message": "Пользовательская версия iOS",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPartner",
+    "description": "Edit Service Provider form header",
+    "defaultMessage": "Edit Service Provider",
+    "message": "Редактировать поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerMenu",
+    "description": "partnerMenu",
+    "defaultMessage": "Manage Service Providers",
+    "message": "Управление поставщиками услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCatbackGroundImageegoryName",
+    "description": "backGroundImage",
+    "defaultMessage": "Background Image",
+    "message": "Фоновая картинка",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maximumEmergencyContact",
+    "description": "maximumEmergencyContact",
+    "defaultMessage": "Maximum Emergency Contact",
+    "message": "Максимальный экстренный контакт",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoCodeImage",
+    "description": "title",
+    "defaultMessage": "Promo Code Image",
+    "message": "Промо -код изображение",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.activePartners",
+    "description": "activePartners",
+    "defaultMessage": "Active Service Providers",
+    "message": "Активные поставщики услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availablePartners",
+    "description": "availablePartners",
+    "defaultMessage": "Available Service Providers",
+    "message": "Доступные поставщики услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppTextPartner",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Service Provider App",
+    "message": "Загрузите приложение поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePartnerPayout",
+    "description": "Manage Service Provider Payouts",
+    "defaultMessage": "Manage Service Provider Payouts",
+    "message": "Управление выплатами поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Service Provider Billing Information",
+    "message": "Информация по поставщику услуг поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerEarnings",
+    "description": "Label",
+    "defaultMessage": "Service Provider Earnings",
+    "message": "Доходы поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerEmail",
+    "description": "Service Provider Email",
+    "defaultMessage": "Service Provider Email",
+    "message": "Электронная почта поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerName",
+    "description": "Service Provider Name",
+    "defaultMessage": "Service Provider Name",
+    "message": "Имя поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerPayout",
+    "description": "managePayout",
+    "defaultMessage": "Service Provider Payout",
+    "message": "Выплата поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerappcntn",
+    "description": "Fares",
+    "defaultMessage": "Service Provider App Content",
+    "message": "Контент приложения поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerapptitle",
+    "description": "Fares",
+    "defaultMessage": "Service Provider App Title",
+    "message": "Название приложения поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partners",
+    "description": "partner",
+    "defaultMessage": "Service Providers",
+    "message": "Поставщики услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsGivenToPartner",
+    "description": "Label",
+    "defaultMessage": "Tips given to the service provider",
+    "message": "Советы, предоставленные поставщику услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsReceivedFromUser",
+    "description": "Label",
+    "defaultMessage": "Tips received from the user",
+    "message": "Советы, полученные от пользователя",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unActivatedPartners",
+    "description": "unActivatedPartners",
+    "defaultMessage": "Unactivated Service Providers",
+    "message": "Неактивированные поставщики услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unAvailablePartners",
+    "description": "unAvailablePartners",
+    "defaultMessage": "Unavailable Service Providers",
+    "message": "Недоступные поставщики услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userAppContent",
+    "description": "Change Password",
+    "defaultMessage": "User App Content",
+    "message": "Контент приложения пользователя",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userApptitle",
+    "description": "Change Password",
+    "defaultMessage": "User App Title",
+    "message": "Название приложения пользователя",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userBillingInformation",
+    "description": "Label",
+    "defaultMessage": "User Billing Information",
+    "message": "Пользовательская информация",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userEmail",
+    "description": "User Email",
+    "defaultMessage": "User Email",
+    "message": "Пользовательская электронная почта",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userName",
+    "description": "User Name",
+    "defaultMessage": "User Name",
+    "message": "Имя пользователя",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userPayableAmount",
+    "description": "userPayableAmount",
+    "defaultMessage": "User Payable Amount",
+    "message": "Пользовательская сумма, подлежащая оплате",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availableDrivers",
+    "description": "availableDrivers",
+    "defaultMessage": "Available Drivers",
+    "message": "Доступные водители",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCancelledBookings",
+    "description": "manageCancelledBookings sidemenu",
+    "defaultMessage": "Cancelled Jobs",
+    "message": "Отменено рабочих мест",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCompletedBooking",
+    "description": "CompletedBooking sidemenu",
+    "defaultMessage": "Completed Jobs",
+    "message": "Завершенные рабочие места",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unActivatedDrivers",
+    "description": "unActivatedDrivers",
+    "defaultMessage": "Unactivated Drivers",
+    "message": "Неактивированные водители",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unAvailableDrivers",
+    "description": "unAvailableDrivers",
+    "defaultMessage": "Unavailable Drivers",
+    "message": "Недоступные водители",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userExperience",
+    "description": "userExperience",
+    "defaultMessage": "User Experience",
+    "message": "Пользовательский опыт",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userIdentity",
+    "description": "userIdentity",
+    "defaultMessage": "User Identity",
+    "message": "Пользовательский личность",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.welcomeAdminLabel",
+    "description": "Welcome Admin !!!",
+    "defaultMessage": "Welcome Admin !!!",
+    "message": "Добро пожаловать администратор !!!",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.additionalFee",
+    "description": "Additional Charge",
+    "defaultMessage": "Additional Charge",
+    "message": "Дополнительный заряд",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.arrived",
+    "description": "Arrived",
+    "defaultMessage": "Arrived",
+    "message": "Приехал",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.duration",
+    "description": "duration",
+    "defaultMessage": "Job acceptance time",
+    "message": "Время принятия работы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.earningsLabel",
+    "description": "Earnings",
+    "defaultMessage": "Earnings",
+    "message": "Заработок",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.estimatedPrice",
+    "description": "estimatedPrice",
+    "defaultMessage": "Estimated price",
+    "message": "Расчетная цена",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hideDescription",
+    "description": "View Listing",
+    "defaultMessage": "Hide description",
+    "message": "Скрыть описание",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.itemTotal",
+    "description": "Label",
+    "defaultMessage": "Item Total",
+    "message": "Товар ИСПОЛНИТЕ",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.job",
+    "description": "job",
+    "defaultMessage": "Job list",
+    "message": "Список вакансий",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobCompleted",
+    "description": "Job Completed",
+    "defaultMessage": "Job Completed",
+    "message": "Работа завершена",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobDescription",
+    "description": "jobDescription",
+    "defaultMessage": "Job description",
+    "message": "Описание вакансии",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobDetails",
+    "description": "jobDetails",
+    "defaultMessage": "Job Details",
+    "message": "Подробности работы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobLocation",
+    "description": "jobLocation",
+    "defaultMessage": "Job location",
+    "message": "Место работы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobPhoto",
+    "description": "hide",
+    "defaultMessage": "Job photos",
+    "message": "РАБОТА ФОТОГРАФИИ",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobProgress",
+    "description": "jobProgress",
+    "defaultMessage": "Job Progress",
+    "message": "Прогресс работы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobRequestWindow",
+    "description": "jobRequestWindow",
+    "defaultMessage": "Manage service provider app's job request window information",
+    "message": "Управление информацией об окне запроса на работу по поставщику услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobStarted",
+    "description": "Job Started",
+    "defaultMessage": "Job Started",
+    "message": "Работа началась",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerNumber",
+    "description": "Service Provider Number",
+    "defaultMessage": "Service Provider Phone Number",
+    "message": "Номер телефона поставщика услуг",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformDiscount",
+    "description": "Special platformDiscount",
+    "defaultMessage": "Platform offered discount",
+    "message": "Платформа предлагает скидку",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestAccepted",
+    "description": "Request Accepted",
+    "defaultMessage": "Request Accepted",
+    "message": "Запрос принят",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestCancelled",
+    "description": "Request Cancelled",
+    "defaultMessage": "Request Cancelled",
+    "message": "Запрос отменен",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestCreated",
+    "description": "Request Created",
+    "defaultMessage": "Request Created",
+    "message": "Запрос создан",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestDecline",
+    "description": "Request Declined",
+    "defaultMessage": "Request Declined",
+    "message": "Запрос отклонен",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestReviewed",
+    "description": "Request Reviewed",
+    "defaultMessage": "Request Reviewed",
+    "message": "Запрос просмотр",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.serviceFee",
+    "description": "serviceFee",
+    "defaultMessage": "Service Fee",
+    "message": "Плата за обслуживание",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.showDescription",
+    "description": "View Listing",
+    "defaultMessage": "Show more description",
+    "message": "Показать больше описания",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategories",
+    "description": "subCategories",
+    "defaultMessage": "Sub Categories",
+    "message": "Субботные категории",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalEarnings",
+    "description": "Earnings",
+    "defaultMessage": "Total Earnings",
+    "message": "Общий заработок",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalWorkingHours",
+    "description": "Total working hours",
+    "defaultMessage": "Total working hours =",
+    "message": "Всего рабочего времени =",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userDiscount",
+    "description": "discount text",
+    "defaultMessage": "Coupon Discount",
+    "message": "Купонная скидка",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userNumber",
+    "description": "User Number",
+    "defaultMessage": "User Phone Number",
+    "message": "Номер телефона пользователя",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateInterval",
+    "description": "validateInterval",
+    "defaultMessage": "Notification interval must be greater than 0.5 min",
+    "message": "Интервал уведомления должен быть больше 0,5 мин.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.eligibleForAService",
+    "description": "text",
+    "defaultMessage": "Eligible for a Service",
+    "message": "Право на обслуживание",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notEligibleForAService",
+    "description": "text",
+    "defaultMessage": "Not eligible for a Service",
+    "message": "Не имеет права на обслуживание",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.accountId",
+    "description": "ACCOUNT_SID",
+    "defaultMessage": "ACCOUNT_SID",
+    "message": "Account_sid",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.apiKey",
+    "description": "API KEY",
+    "defaultMessage": "API KEY",
+    "message": "API -ключ",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.appOpenTrip",
+    "description": "appOpenTrip",
+    "defaultMessage": "Open the provider app when a request notification is received",
+    "message": "Откройте приложение поставщика при получении уведомления о запросе",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editSmsMethod",
+    "description": "editSmsMethod",
+    "defaultMessage": "Edit SMS Methods",
+    "message": "Редактировать методы SMS",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobId",
+    "description": "Job",
+    "defaultMessage": "Job ID",
+    "message": "Идентификатор работы",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobs",
+    "description": "jobs",
+    "defaultMessage": "Jobs",
+    "message": "Рабочие места",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageSmsMethod",
+    "description": "manageSmsMethod",
+    "defaultMessage": "Manage SMS Methods",
+    "message": "Управление SMS -методами",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noLimit",
+    "description": "noLimit",
+    "defaultMessage": "No Limit",
+    "message": "Безлимитный",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.records",
+    "description": "records",
+    "defaultMessage": "Records per page",
+    "message": "Записи на страницу",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestTone",
+    "description": "requestTone",
+    "defaultMessage": "Request accept timer tone",
+    "message": "Запрос принять тон таймера",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.secretId",
+    "description": "AUTHTOKEN",
+    "defaultMessage": "AUTHTOKEN",
+    "message": "Authtoken",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.secretKey",
+    "description": "SECRET KEY",
+    "defaultMessage": "SECRET KEY",
+    "message": "СЕКРЕТНЫЙ КЛЮЧ",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.uploadRequestTone",
+    "description": "uploadRequestTone",
+    "defaultMessage": "Upload timer tone",
+    "message": "Загрузить тон таймера",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.viewJob",
+    "description": "view Job",
+    "defaultMessage": "View job",
+    "message": "Просмотреть работу",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.receipt",
+    "description": "receipt",
+    "defaultMessage": "Receipt",
+    "message": "Чек",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageSchedule",
+    "description": "manageSchedule",
+    "defaultMessage": "Manage Schedule Booking",
+    "message": "Управлять расписанием бронирования",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduleBooking",
+    "description": "Label",
+    "defaultMessage": "Schedule Bookings",
+    "message": "Расписание бронирования",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduleBookingHistory",
+    "description": "Heading",
+    "defaultMessage": "Schedule Booking History",
+    "message": "Расписание истории бронирования",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduled",
+    "description": "Trip status",
+    "defaultMessage": "Scheduled",
+    "message": "по расписанию",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduledFrom",
+    "description": "Label",
+    "defaultMessage": "Scheduled From",
+    "message": "Запланировано от",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduledTo",
+    "description": "Label",
+    "defaultMessage": "Scheduled To",
+    "message": "Запланировано",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.defaultScheduleInterval",
+    "description": "defaultScheduleInterval",
+    "defaultMessage": "Default Schedule Interval",
+    "message": "Интервал расписания по умолчанию",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateScheduleInterval",
+    "description": "validateScheduleInterval",
+    "defaultMessage": "Schedule interval must be greater than 20 min",
+    "message": "Интервал графика должен быть более 20 минут",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestScheduled",
+    "description": "Request Scheduled",
+    "defaultMessage": "Request Scheduled",
+    "message": "Запрос запланирован",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  }
+]

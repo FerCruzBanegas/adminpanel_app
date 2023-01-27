@@ -1,0 +1,32 @@
+
+  query getCompletedBookings($currentPage: Int, $searchList: String){
+  getCompletedBookings(currentPage: $currentPage, searchList:$searchList){
+   count
+    results{
+        id
+        userLocation
+        currency
+        status
+        partnerDetails{
+          firstName
+          userData{
+            email
+          }
+        }
+        userDetails{
+          firstName
+          userData{
+            email
+          }
+        }
+        categoryDetails{
+          name
+        }
+        totalRideDistance
+        totalFare
+        messageData{
+          threadItemsCount
+        }
+    }
+  }
+}

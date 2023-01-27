@@ -1,0 +1,18 @@
+@import '../../variables.css';
+
+/** RentAll - Begin **/
+
+.checkBoxWidth {
+	width: 24px;
+	display: inline-block;
+	vertical-align: top;
+}
+.textWidth {
+	width: 84%;
+	vertical-align: middle;
+	font-size: 16px;
+	display: inline-block;
+	margin-left: 5px;
+    padding-right: 5px;
+	color: var(--admin-text-color);
+}

@@ -1,0 +1,9 @@
+query {
+        getActiveCategories {
+        results{
+            id
+            name
+            status
+        }
+      }
+    }

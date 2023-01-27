@@ -1,0 +1,5490 @@
+[
+  {
+    "id": "exceedLimit",
+    "description": "exceedLimit",
+    "defaultMessage": "Maximum allowed character is 255.",
+    "message": "El personaje máximo permitido es 255.",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.email",
+    "description": "Your Email Address to Login",
+    "defaultMessage": "Email Address",
+    "message": "Dirección de correo electrónico",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Dirección de correo electrónico no válida",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "No existe una cuenta para este correo electrónico. Asegúrese de que se escriba correctamente, o \"registre\" en su lugar",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "correo electronico es requerido",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "¡Ya se ha autentificado!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.password",
+    "description": "Your Password to Login",
+    "defaultMessage": "Password",
+    "message": "Clave",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "Su contraseña debe ser al menos 8 caracteres. Inténtalo de nuevo",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "se requiere contraseña",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Contraseña incorrecta. Inténtalo de nuevo",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Perdón, algo salió mal. Inténtalo de nuevo",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "adminLoginform.userLoggedIn",
+    "description": "You are already Logged-in as user",
+    "defaultMessage": "You are already logged in as User, please logout in the main site to continue!",
+    "message": "Ya ha iniciado sesión como usuario, ¡inicie sesión en el sitio principal para continuar!",
+    "files": [
+      "src/components/SiteAdmin/AdminLoginForm/messages.js"
+    ]
+  },
+  {
+    "id": "AddListSettingsForm.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Agregar",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNew",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "Nombre",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.addNewDescription",
+    "description": "description",
+    "defaultMessage": "Description",
+    "message": "Descripción",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.delete",
+    "description": "Delete Button",
+    "defaultMessage": "Delete",
+    "message": "Borrar",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.required",
+    "description": "Required",
+    "defaultMessage": "*Required",
+    "message": "*Requerido",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.update",
+    "description": "Update Button",
+    "defaultMessage": "Update",
+    "message": "Actualizar",
+    "files": [
+      "src/components/SiteAdmin/AdminRolesForm/messages.js",
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.blankSpace",
+    "description": "Password error",
+    "defaultMessage": "Password should not be blank space.",
+    "message": "La contraseña no debe ser espacio en blanco.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailBlankSpace",
+    "description": "email address error",
+    "defaultMessage": "Email should not be blank spaces",
+    "message": "El correo electrónico no debe ser espacios en blanco",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.emailInvalid",
+    "description": "email address error",
+    "defaultMessage": "*Invalid email address",
+    "message": "*Dirección de correo electrónico no válida",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "ListSettingsForm.passwordInvalid",
+    "description": "Password minimum characters error",
+    "defaultMessage": "Password should be minimum 8 characters.",
+    "message": "La contraseña debe ser mínimo de 8 caracteres.",
+    "files": [
+      "src/components/SiteAdmin/AdminUserForm/messages.js"
+    ]
+  },
+  {
+    "id": "app.Amount",
+    "description": "Amount",
+    "defaultMessage": "Amount",
+    "message": "Monto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.BaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Base Currency",
+    "message": "Moneda base",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Becomeahost",
+    "description": "Becomeahost",
+    "defaultMessage": "Become a host",
+    "message": "Convertirse en un anfitrión",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Disable",
+    "description": "Ban Status",
+    "defaultMessage": "Disable",
+    "message": "Desactivar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Disabled",
+    "description": "Ban Status",
+    "defaultMessage": "Disabled",
+    "message": "Desactivado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Discover",
+    "description": "Discover",
+    "defaultMessage": "Discover",
+    "message": "Descubrir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Enable",
+    "description": "Ban Status",
+    "defaultMessage": "Enable",
+    "message": "Permitir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Enabled",
+    "description": "Ban Status",
+    "defaultMessage": "Enabled",
+    "message": "Activado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.HomeSiteSettings",
+    "description": "HomeSiteSettings",
+    "defaultMessage": "Homepage Settings",
+    "message": "Configuración de la página de inicio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Hosting",
+    "description": "Hosting",
+    "defaultMessage": "Hosting",
+    "message": "Alojamiento",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Preferred Distance Type",
+    "description": "Preferred Distance Type",
+    "defaultMessage": "Preferred Distance Type",
+    "message": "Tipo de distancia preferido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Safety",
+    "description": "Safety",
+    "defaultMessage": "Safety",
+    "message": "La seguridad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Support",
+    "description": "Ban Status",
+    "defaultMessage": "Support",
+    "message": "Apoyo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Terms",
+    "description": "Terms",
+    "defaultMessage": "Terms & Privacy",
+    "message": "Términos y privacidad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Travel",
+    "description": "Trust",
+    "defaultMessage": "Travel Credit",
+    "message": "Crédito de viaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Trust",
+    "description": "Trust",
+    "defaultMessage": "Trust & Safety",
+    "message": "Confianza y seguridad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.Wooberly",
+    "description": "Wooberly",
+    "defaultMessage": "Wooberly",
+    "message": "Sin duda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.about",
+    "description": "About Nav link",
+    "defaultMessage": "About",
+    "message": "Acerca de",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutFooter",
+    "description": "AboutFooter",
+    "defaultMessage": "About Us",
+    "message": "Sobre nosotros",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutFooterDesc",
+    "description": "aboutFooterDesc",
+    "defaultMessage": "An cum maiorum repudiandae, cu eam dolore bonorum probatus. Et legere sanctus cum, quot nostrud postulant ex mei. Ad ullum audire admodum eos. Ne eam quod habeo aeque, ad decoreos.",
+    "message": "Un cum maiorum repudiandae, cue eam dolore bonorum probatus. Et legere sanctus cum, quot postulante ex mei. Ad ullum audire admodum eos. Ne eam quod hebeo aeque, ad decoreos.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutImage1",
+    "description": "Feature Icon 1",
+    "defaultMessage": "Feature Icon #1",
+    "message": "Icono de funciones #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutImage2",
+    "description": "Feature Icon 2",
+    "defaultMessage": "Feature Icon #2",
+    "message": "Icono de funciones #2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.aboutSectionSettings",
+    "description": "Top Features Settings",
+    "defaultMessage": "Top Features",
+    "message": "Características principales",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.action",
+    "description": "Action",
+    "defaultMessage": "Action",
+    "message": "Acción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.active",
+    "description": "Active Status",
+    "defaultMessage": "Active",
+    "message": "Activo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.add",
+    "description": "Add Button",
+    "defaultMessage": "Add",
+    "message": "Agregar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addAdminRole",
+    "description": "Title",
+    "defaultMessage": "Add Admin Role",
+    "message": "Agregar rol de administración",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addAdminUserLabel",
+    "description": "Add Admin User",
+    "defaultMessage": "Add Admin User",
+    "message": "Agregar usuario administrativo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCancelReason",
+    "description": "Add Cancel Reason",
+    "defaultMessage": "Add Cancel Reason",
+    "message": "Agregar motivo de cancelación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCategory",
+    "description": "Add category form header",
+    "defaultMessage": "Add Category",
+    "message": "añadir categoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addFare",
+    "description": "Button",
+    "defaultMessage": "Add Fare",
+    "message": "Agregar tarifa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addLocation",
+    "description": "addLocation",
+    "defaultMessage": "Add Location",
+    "message": "Agregar Direccion",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addNewLabel",
+    "description": "Add New",
+    "defaultMessage": "Add New",
+    "message": "Agregar nuevo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addOnly",
+    "description": "Fares",
+    "defaultMessage": "Address",
+    "message": "Dirección",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addPage",
+    "description": "Add Page",
+    "defaultMessage": "Add Page",
+    "message": "Añadir página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addPromoCode",
+    "description": "Add PromoCode",
+    "defaultMessage": "Add Promo Code",
+    "message": "Agregar código de promoción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adeditFaredFare",
+    "description": "Button",
+    "defaultMessage": "Edit Fare",
+    "message": "Editar tarifa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminName",
+    "description": "Name",
+    "defaultMessage": "Name",
+    "message": "Nombre",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminRole",
+    "description": "Admin Role",
+    "defaultMessage": "Admin Role",
+    "message": "Rol de administrador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminUserLabel",
+    "description": "Admin User",
+    "defaultMessage": "Admin User",
+    "message": "Usuario administrativo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.adminpanel",
+    "description": "admin panel",
+    "defaultMessage": "Admin Panel",
+    "message": "Panel de administrador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allonly",
+    "description": "Fares",
+    "defaultMessage": "All",
+    "message": "Todos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedPaymentCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Allowed Payment Currency",
+    "message": "Moneda de pago permitida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.approve",
+    "description": "Approve",
+    "defaultMessage": "Approve",
+    "message": "Aprobar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.approved",
+    "description": "Approved Status",
+    "defaultMessage": "Approved",
+    "message": "Aprobado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.appstorelink",
+    "description": "Fares",
+    "defaultMessage": "App Store Link",
+    "message": "Enlace de la tienda de aplicaciones",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.askQuestion",
+    "description": "Ban Status",
+    "defaultMessage": "Ask a question",
+    "message": "Hacer una pregunta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availableSeats",
+    "description": "Available Seats",
+    "defaultMessage": "Available Seats",
+    "message": "Asientos disponibles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.ban",
+    "description": "Ban Status",
+    "defaultMessage": "Ban",
+    "message": "Prohibición",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.banStatus",
+    "description": "Ban Status Permit/Ban",
+    "defaultMessage": "Ban Status",
+    "message": "Estado de prohibición",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bannerDesc",
+    "description": "Description in header",
+    "defaultMessage": "Complex web apps made easy",
+    "message": "Aplicaciones web complejas hechas fáciles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bannerTitle",
+    "description": "Title in page header",
+    "defaultMessage": "React",
+    "message": "Reaccionar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingDetails",
+    "description": "Booking Details",
+    "defaultMessage": "Booking Details",
+    "message": "Detalles de la reserva",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingId",
+    "description": "Booking ID",
+    "defaultMessage": "Booking ID",
+    "message": "ID de reserva",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookings",
+    "description": "bookings",
+    "defaultMessage": "Bookings",
+    "message": "Reservaciones",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingsMenu",
+    "description": "bookingsMenu",
+    "defaultMessage": "Manage Jobs",
+    "message": "Administrar trabajos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.brand",
+    "description": "Brand name displayed in header",
+    "defaultMessage": "app",
+    "message": "aplicación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.button",
+    "description": "Button",
+    "defaultMessage": "Button",
+    "message": "Botón",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.buttonLabel",
+    "description": "Change Password",
+    "defaultMessage": "Button Label",
+    "message": "Etiqueta de botones",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelButton",
+    "description": "Cancel",
+    "defaultMessage": "Cancel",
+    "message": "Cancelar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Cancelar razón",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancellationReasons",
+    "description": "Cancellation Reasons",
+    "defaultMessage": "Cancellation Reasons",
+    "message": "Razones de cancelación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledBy",
+    "description": "Cancelled By",
+    "defaultMessage": "Cancelled By",
+    "message": "Cancelado por",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.capacity",
+    "description": "Capacity",
+    "defaultMessage": "Capacity",
+    "message": "Capacidad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.card",
+    "description": "Card",
+    "defaultMessage": "Card",
+    "message": "Tarjeta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cash",
+    "description": "Cash",
+    "defaultMessage": "Cash",
+    "message": "Dinero en efectivo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categorieslist",
+    "description": "categoryMenu",
+    "defaultMessage": "Categories",
+    "message": "Categorías",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.category",
+    "description": "Category",
+    "defaultMessage": "Category",
+    "message": "Categoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryContent",
+    "description": "Category Content",
+    "defaultMessage": "Category Content",
+    "message": "Contenido de categoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryIcon",
+    "description": "",
+    "defaultMessage": "Category Icon",
+    "message": "Icono de categoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryId",
+    "description": "Category ID",
+    "defaultMessage": "Category ID",
+    "message": "categoria ID",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryMapMarker",
+    "description": "",
+    "defaultMessage": "Category Map Marker",
+    "message": "Marcador de mapa de categoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryMenu",
+    "description": "categoryMenu",
+    "defaultMessage": "Manage Categories",
+    "message": "Gestionar categorías",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryName",
+    "description": "Category Name",
+    "defaultMessage": "Category Name",
+    "message": "nombre de la categoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryTitle",
+    "description": "Category Title",
+    "defaultMessage": "Category Title",
+    "message": "Título de categoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.changeAdminPassword",
+    "description": "Change Admin Email/Password",
+    "defaultMessage": "Change Admin Email/Password",
+    "message": "Cambiar el correo electrónico de administrador/contraseña",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.changePassword",
+    "description": "Change Password",
+    "defaultMessage": "Change Password",
+    "message": "Cambia la contraseña",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chatLabel",
+    "description": "Chat",
+    "defaultMessage": "Chat",
+    "message": "Chat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chatMessageLabel",
+    "description": "Chat Message",
+    "defaultMessage": "Chat Message",
+    "message": "Mensaje de chat",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.checkmein",
+    "description": "Fares",
+    "defaultMessage": "Check me in",
+    "message": "Compruébeme",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.checkmeout",
+    "description": "Fares",
+    "defaultMessage": "Check me out",
+    "message": "Me echa un vistazo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chooseFile",
+    "description": "",
+    "defaultMessage": "Choose File",
+    "message": "Elija el archivo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.chooseLanguageLabel",
+    "description": "Choose a Language",
+    "defaultMessage": "Choose a Language",
+    "message": "Elija un idioma",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.city",
+    "description": "city",
+    "defaultMessage": "Lorem Ipsum is simply dummy text",
+    "message": "Lorem ipsum es simplemente texto ficticio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.citySectionSettings",
+    "description": "Category Settings",
+    "defaultMessage": "Category",
+    "message": "Categoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.code",
+    "description": "text",
+    "defaultMessage": "Code",
+    "message": "Código",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.comments",
+    "description": "Comments",
+    "defaultMessage": "Comments",
+    "message": "Comentario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.completed",
+    "description": "Completed Status",
+    "defaultMessage": "Completed",
+    "message": "Terminado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.completedLabel",
+    "description": "Label",
+    "defaultMessage": "Completed",
+    "message": "Terminado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.confirmPassword",
+    "description": "Change Password",
+    "defaultMessage": "Confirm Password",
+    "message": "confirmar Contraseña",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contact",
+    "description": "Contact Nav link",
+    "defaultMessage": "Contact",
+    "message": "Contacto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactUs",
+    "description": "contact",
+    "defaultMessage": "Contact Us",
+    "message": "Contáctenos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content",
+    "description": "Content 1",
+    "defaultMessage": "Content",
+    "message": "Contenido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content1",
+    "description": "Content 1",
+    "defaultMessage": "Content 1",
+    "message": "Contenido 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content2",
+    "description": "Content 2",
+    "defaultMessage": "Content 2",
+    "message": "Contenido 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content3",
+    "description": "Content 3",
+    "defaultMessage": "Content 3",
+    "message": "Contenido 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content4",
+    "description": "Content 4",
+    "defaultMessage": "Content 4",
+    "message": "Contenido 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content5",
+    "description": "Content 5",
+    "defaultMessage": "Content 5",
+    "message": "Contenido 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.content6",
+    "description": "Content 6",
+    "defaultMessage": "Content 6",
+    "message": "Contenido 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contentpageManagement",
+    "description": "Content Management",
+    "defaultMessage": "Content Management",
+    "message": "Gestión de contenido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.copyRightcontent",
+    "description": "Change Password",
+    "defaultMessage": "Copyrights content",
+    "message": "Contenido de derechos de autor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.copyRights",
+    "description": "Copy Rights",
+    "defaultMessage": "Wooberly 2020. All Rights Reserved",
+    "message": "Wooberly 2020. Todos los derechos reservados",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.country",
+    "description": "Country Name",
+    "defaultMessage": "Country",
+    "message": "País",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.countryCodeError",
+    "description": "Invalid Country Code",
+    "defaultMessage": "Invalid Country Code",
+    "message": "Código de país no válido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.createdAt",
+    "description": "Created date",
+    "defaultMessage": "Account Created on",
+    "message": "Cuenta creada en",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.credentialError",
+    "description": "Fares",
+    "defaultMessage": "Sorry, a critical error occurred on this page.",
+    "message": "Lo sentimos, se produjo un error crítico en esta página.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currencies",
+    "description": "Ban Status",
+    "defaultMessage": "Currencies",
+    "message": "Monedas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currency",
+    "description": "Currency Type",
+    "defaultMessage": "Currency",
+    "message": "Divisa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.currencyList",
+    "description": "Manage Currency",
+    "defaultMessage": "Manage Currency",
+    "message": "Administrar moneda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dashboard",
+    "description": "dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "Panel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.decline",
+    "description": "Decline",
+    "defaultMessage": "Decline",
+    "message": "Rechazar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.declined",
+    "description": "Declined Status",
+    "defaultMessage": "Declined",
+    "message": "Rechazado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.deleteAction",
+    "description": "Delete action name",
+    "defaultMessage": "Delete",
+    "message": "Borrar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.description",
+    "description": "text",
+    "defaultMessage": "Description",
+    "message": "Descripción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.details",
+    "description": "Details",
+    "defaultMessage": "Details",
+    "message": "Detalles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.discount",
+    "description": "text",
+    "defaultMessage": "Discount",
+    "message": "Descuento",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppDesc",
+    "description": "DownloadAppTextDesc",
+    "defaultMessage": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur dissentiet. Nobis postea ei est.",
+    "message": "Delectus scaevola elaboraret vel ad, vis no noster vocent prodesset, nec ei omittantur disentiet. Nobis Postea Ei est.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppText",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The User App",
+    "message": "Descargar la aplicación de usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropLocation",
+    "description": "Drop Location",
+    "defaultMessage": "Drop Location",
+    "message": "Ubicación de caída",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropzoneUpload",
+    "description": "Dropzone upload info",
+    "defaultMessage": "Upload a file from your computer",
+    "message": "Sube un archivo desde tu computadora",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dropzoneUploadError",
+    "description": "Dropzone upload error message",
+    "defaultMessage": "Remove the existing image and try upload again",
+    "message": "Elimine la imagen existente e intente la carga nuevamente",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.dummyText",
+    "description": "dummyText",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum es simplemente un texto ficticio de la industria de impresión y tipografía. Lorem Ipsum ha sido el texto ficticio estándar de Industrys desde el siglo XVI, cuando una impresora desconocida tomó una galera de tipo y lo revuelve para hacer un libro de muestras de tipo.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.earnings",
+    "description": "Earnings",
+    "defaultMessage": "Your Earnings",
+    "message": "Tus ganancias",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.edit",
+    "description": "edit",
+    "defaultMessage": "Edit",
+    "message": "Editar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAction",
+    "description": "Edit action name",
+    "defaultMessage": "Edit",
+    "message": "Editar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAdminRole",
+    "description": "Title",
+    "defaultMessage": "Edit Admin Role",
+    "message": "Editar rol de administrador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editAdminUserLabel",
+    "description": "Edit Admin User",
+    "defaultMessage": "Edit Admin User",
+    "message": "Editar usuario administrativo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editCancelReason",
+    "description": "Edit Cancel Reason",
+    "defaultMessage": "Edit Cancel Reason",
+    "message": "Editar la razón de cancelación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editCategory",
+    "description": "Edit category form header",
+    "defaultMessage": "Edit Category",
+    "message": "Editar categoria",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editLocation",
+    "description": "Edit Location",
+    "defaultMessage": "Edit Location",
+    "message": "Ubicación de edición",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPageDetails",
+    "description": "Edit Page Details",
+    "defaultMessage": "Edit Page Details",
+    "message": "Editar detalles de la página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPromoCode",
+    "description": "Edit PromoCode",
+    "defaultMessage": "Edit Promo Code",
+    "message": "Editar código de promoción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailInValid",
+    "description": "Invalid Email Address",
+    "defaultMessage": "Invalid Email Address",
+    "message": "Dirección de correo electrónico no válida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailNotExists",
+    "description": "Email Address is not exist",
+    "defaultMessage": "No account exists for this email. Make sure it's typed in correctly, or “sign up” instead",
+    "message": "No existe una cuenta para este correo electrónico. Asegúrese de que se escriba correctamente, o \"registre\" en su lugar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailRequired",
+    "description": "Email is required",
+    "defaultMessage": "Email is required",
+    "message": "correo electronico es requerido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailText",
+    "description": "Email",
+    "defaultMessage": "Email",
+    "message": "Correo electrónico",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.emailaddress",
+    "description": "emailaddress",
+    "defaultMessage": "Email Address",
+    "message": "Dirección de correo electrónico",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.enableDisable",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Enable / Disable",
+    "message": "Establecer habilitar / desactivar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.errorOnly",
+    "description": "Fares",
+    "defaultMessage": "Error",
+    "message": "Error",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit",
+    "description": "Exceeding character limit",
+    "defaultMessage": "Exceeding character limit",
+    "message": "Excediendo el límite del personaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit100",
+    "description": "Maximum 100 words",
+    "defaultMessage": "Maximum 100 words",
+    "message": "Máximo 100 palabras",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.expireDate",
+    "description": "text",
+    "defaultMessage": "Expiry Date",
+    "message": "Fecha de caducidad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.expired",
+    "description": "Expired Status",
+    "defaultMessage": "Expired",
+    "message": "Venció",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exportDataIntoCSV",
+    "description": "Export Data into CSV",
+    "defaultMessage": "Export Data into CSV",
+    "message": "Exportar datos a CSV",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.facebookUrl",
+    "description": "Fares",
+    "defaultMessage": "Facebook URL",
+    "message": "Facebook URL",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fares",
+    "description": "Fares",
+    "defaultMessage": "Fares",
+    "message": "Tarifas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #1",
+    "message": "Descripción de la característica #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #2",
+    "message": "Descripción de la característica #2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #3",
+    "message": "Descripción de la característica #3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #4",
+    "message": "Descripción de la característica #4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #5",
+    "message": "Descripción de la característica #5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureDesc6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Description #6",
+    "message": "Descripción de la característica #6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #1",
+    "message": "Título de la función #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle2",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #2",
+    "message": "Título de la función #2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle3",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #3",
+    "message": "Título de la función #3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle4",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #4",
+    "message": "Título de la función #4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle5",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #5",
+    "message": "Título de la función #5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.featureTitle6",
+    "description": "Change Password",
+    "defaultMessage": "Feature Title #6",
+    "message": "Título de la función #6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.firstName",
+    "description": "firstName",
+    "defaultMessage": "First Name",
+    "message": "Primer nombre",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixed",
+    "description": "Fixed Fee Type",
+    "defaultMessage": "Fixed",
+    "message": "Reparado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixedAmount",
+    "description": "text",
+    "defaultMessage": "Fixed Amount",
+    "message": "Cantidad fija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.floatError",
+    "description": "Numeric Error Response",
+    "defaultMessage": "It should be a number value",
+    "message": "Debería ser un valor de número",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.followUs",
+    "description": "Follow Us",
+    "defaultMessage": "Follow  Us",
+    "message": "Síganos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerCategory",
+    "description": "Footer Category",
+    "defaultMessage": "Footer Category",
+    "message": "Categoría de pie",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerContent1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Content #1",
+    "message": "Contenido de pie de página #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo1",
+    "description": "Footer Logo 1",
+    "defaultMessage": "Footer Logo #1",
+    "message": "Logotipo de pie de página #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo2",
+    "description": "Footer Logo 2",
+    "defaultMessage": "Footer Logo #2",
+    "message": "Logotipo de pie de página #2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo3",
+    "description": "Footer Logo 3",
+    "defaultMessage": "Footer Logo #3",
+    "message": "Logotipo de pie de página #3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerLogo4",
+    "description": "Footer Logo 4",
+    "defaultMessage": "Footer Logo #4",
+    "message": "Logotipo de pie de página #4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerSectionSettings",
+    "description": "Footer Settings",
+    "defaultMessage": "Footer",
+    "message": "Pie de página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerTitle1",
+    "description": "Change Password",
+    "defaultMessage": "Footer Title #1",
+    "message": "Título del pie de página #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.footerUrltitle",
+    "description": "Change Password",
+    "defaultMessage": "Footer URL Title",
+    "message": "Título de URL de pie de página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.forceUpdate",
+    "description": "forceUpdate",
+    "defaultMessage": "Force update",
+    "message": "Actualización de fuerza",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.form",
+    "description": "form",
+    "defaultMessage": "Form",
+    "message": "Forma",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.formssidebar",
+    "description": "formssidebar",
+    "defaultMessage": "Forms",
+    "message": "Formularios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.goBack",
+    "description": "Go Back Button Text",
+    "defaultMessage": "Go Back",
+    "message": "Regresa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.goToMainSite",
+    "description": "goToMainSite option",
+    "defaultMessage": "Go to main site",
+    "message": "Ir al sitio principal",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescFive",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID por Gloriatur Tincidunt. Vim Odio unum atomorum en. Ut essent Dicunt Dolorum Mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescFour",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID por Gloriatur Tincidunt. Vim Odio unum atomorum en. Ut essent Dicunt Dolorum Mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescOne",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID por Gloriatur Tincidunt. Vim Odio unum atomorum en. Ut essent Dicunt Dolorum Mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescSix",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID por Gloriatur Tincidunt. Vim Odio unum atomorum en. Ut essent Dicunt Dolorum Mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescThree",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID por Gloriatur Tincidunt. Vim Odio unum atomorum en. Ut essent Dicunt Dolorum Mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridDescTwo",
+    "description": "Grid Description",
+    "defaultMessage": "Id per gloriatur tincidunt. Vim odio unum atomorum at. Ut essent dicunt dolorum mei.",
+    "message": "ID por Gloriatur Tincidunt. Vim Odio unum atomorum en. Ut essent Dicunt Dolorum Mei.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitle",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleFive",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleFour",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleSix",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleThree",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.gridTitleTwo",
+    "description": "GridTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.heading",
+    "description": "heading",
+    "defaultMessage": "Heading",
+    "message": "Título",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.holdPayout",
+    "description": "Hold Payout",
+    "defaultMessage": "Hold Payout",
+    "message": "Hold de pago",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeContent",
+    "description": "Start Riding With Wooberly",
+    "defaultMessage": "Start Riding With Wooberly",
+    "message": "Empiece a conducir con Wooberly",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeContent1",
+    "description": "Banner Content",
+    "defaultMessage": "Banner Content",
+    "message": "Contenido de banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage1",
+    "description": "Banner Image 1",
+    "defaultMessage": "Banner Image #1",
+    "message": "Imagen banner #1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage2",
+    "description": "Banner Image 2",
+    "defaultMessage": "Banner Image #2",
+    "message": "Imagen banner #2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage3",
+    "description": "Banner Image 3",
+    "defaultMessage": "Banner Image #3",
+    "message": "Imagen banner #3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage4",
+    "description": "Banner Image 4",
+    "defaultMessage": "Banner Image #4",
+    "message": "Imagen banner #4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage5",
+    "description": "Banner Image 5",
+    "defaultMessage": "Banner Image #5",
+    "message": "Imagen de banner #5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage6",
+    "description": "Banner Image 6",
+    "defaultMessage": "Banner Image #6",
+    "message": "Imagen de banner #6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage7",
+    "description": "Banner Image Tablet",
+    "defaultMessage": "Banner Image Tablet",
+    "message": "Tableta de imagen banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeImage8",
+    "description": "Banner Image Mobile",
+    "defaultMessage": "Banner Image Mobile",
+    "message": "Banner Image Mobile",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeSectionSettings",
+    "description": "Banner Settings",
+    "defaultMessage": "Banner",
+    "message": "Bandera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeTitle",
+    "description": "Banner Title",
+    "defaultMessage": "Banner Title",
+    "message": "Título de banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homeonly",
+    "description": "Fares",
+    "defaultMessage": "Home",
+    "message": "Casa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.homepageBanner",
+    "description": "Homepage Banner Settings",
+    "defaultMessage": "Homepage Banner",
+    "message": "Banner de página de inicio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.id",
+    "description": "ID text",
+    "defaultMessage": "ID",
+    "message": "IDENTIFICACIÓN",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.image",
+    "description": "Label",
+    "defaultMessage": "Image",
+    "message": "Imagen",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.inactive",
+    "description": "Inactive Status",
+    "defaultMessage": "Inactive",
+    "message": "Inactivo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.instaUrl",
+    "description": "Fares",
+    "defaultMessage": "Instagram URL",
+    "message": "URL de Instagram",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.insuranceImage",
+    "description": "insuranceImage",
+    "defaultMessage": "Insurance Image",
+    "message": "Imagen de seguro",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.intError",
+    "description": "Integer Error Response",
+    "defaultMessage": "It should be a decimal value",
+    "message": "Debería ser un valor decimal",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalidUrl",
+    "description": "Invalid Page URL",
+    "defaultMessage": "Invalid Page URL",
+    "message": "URL de página no válida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalidVersionNumber",
+    "description": "invalidVersionNumber",
+    "defaultMessage": "Invalid Version Number",
+    "message": "Número de versión no válido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.km",
+    "description": "Km",
+    "defaultMessage": "Km",
+    "message": "Km",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.lastHours",
+    "description": "Ban Status",
+    "defaultMessage": "Last 24 hours",
+    "message": "Últimas 24 horas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.lastName",
+    "description": "lastName",
+    "defaultMessage": "Last Name",
+    "message": "Apellido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.leaveEmail",
+    "description": "Change Password",
+    "defaultMessage": "Leave email address field blank if you don't want to change the email",
+    "message": "Deje el campo de la dirección de correo electrónico en blanco si no desea cambiar el correo electrónico",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.licenceBackImage",
+    "description": "licenceBackImage",
+    "defaultMessage": "Licence Back Image",
+    "message": "Imagen de retroceso de licencia",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.licenceFrontImage",
+    "description": "licenceFrontImage",
+    "defaultMessage": "Licence Front Image",
+    "message": "Imagen frontal de licencia",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.listings",
+    "description": "Ban Status",
+    "defaultMessage": "Listings",
+    "message": "Listados",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.loadMoreMsg",
+    "description": "Load more button",
+    "defaultMessage": "Load More",
+    "message": "Carga más",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.location",
+    "description": "location",
+    "defaultMessage": "Manage Location",
+    "message": "Administrar ubicación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.locationName",
+    "description": "Table header",
+    "defaultMessage": "Location",
+    "message": "Localización",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.locations",
+    "description": "Pagination",
+    "defaultMessage": "Locations",
+    "message": "Ubicación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.loggedIn",
+    "description": "You are already Logged-in",
+    "defaultMessage": "You are already logged in!",
+    "message": "¡Ya se ha autentificado!",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.login",
+    "description": "Login Nav link",
+    "defaultMessage": "Login",
+    "message": "Acceso",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logo",
+    "description": "Logo",
+    "defaultMessage": "Logo",
+    "message": "Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logoheight",
+    "description": "Fares",
+    "defaultMessage": "Logo Height",
+    "message": "Altura del logotipo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logout",
+    "description": "logout option",
+    "defaultMessage": "Logout",
+    "message": "Cerrar sesión",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.logowidth",
+    "description": "Fares",
+    "defaultMessage": "Logo Width",
+    "message": "Ancho del logotipo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdmin",
+    "description": "Manage Admins",
+    "defaultMessage": "Manage Admins",
+    "message": "Administrar administradores",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdminRoles",
+    "description": "Manage Admin Roles",
+    "defaultMessage": "Manage Admin Roles",
+    "message": "Administrar roles de administración",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageAdminUsers",
+    "description": "Manage Admin Users",
+    "defaultMessage": "Manage Admin Users",
+    "message": "Administrar usuarios administrativos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCancelReason",
+    "description": "Cancel Reason",
+    "defaultMessage": "Cancel Reason",
+    "message": "Cancelar razón",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCurrency",
+    "description": "manageCurrency sidemenu",
+    "defaultMessage": "Manage Currency",
+    "message": "Administrar moneda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageDashboard",
+    "description": "Manage Dashboard",
+    "defaultMessage": "Dashboard",
+    "message": "Panel",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageFailedPayout",
+    "description": "Failed Payout",
+    "defaultMessage": "Failed Payout",
+    "message": "Pago fallido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageFare",
+    "description": "Admin sidemenu",
+    "defaultMessage": "Manage Fare",
+    "message": "Administrar tarifa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageNotifications",
+    "description": "Manage Notifications",
+    "defaultMessage": "Manage Notifications",
+    "message": "Gestionar las notificaciones",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePayout",
+    "description": "managePayout",
+    "defaultMessage": "Manage Payout",
+    "message": "Gestionar el pago",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePromoCode",
+    "description": "managePromoCode sidemenu",
+    "defaultMessage": "Manage Promo Code",
+    "message": "Administrar código de promoción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maximumUploadSizeLabel",
+    "description": "",
+    "defaultMessage": "Maximum upload size",
+    "message": "Tamaño máximo de carga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuFour",
+    "description": "menuFour",
+    "defaultMessage": "MenuFour",
+    "message": "Aficionado al menú",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuOne",
+    "description": "form",
+    "defaultMessage": "MenuOne",
+    "message": "Menú",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.menuTwo",
+    "description": "MenuTwo",
+    "defaultMessage": "MenuTwo",
+    "message": "Menutwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.messageLength",
+    "description": "Message must be 200 characters or less",
+    "defaultMessage": "Message must be 200 characters or less",
+    "message": "El mensaje debe ser 200 caracteres o menos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.messageRequired",
+    "description": "Message is required",
+    "defaultMessage": "Message is required",
+    "message": "Se requiere mensaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDesc",
+    "description": "Fares",
+    "defaultMessage": "Meta Description",
+    "message": "Metadescripción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDescription",
+    "description": "Description must be 255 characters or less",
+    "defaultMessage": "Description must be 255 characters or less",
+    "message": "La descripción debe ser 255 caracteres o menos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaDescriptionText",
+    "description": "Meta Description",
+    "defaultMessage": "Meta Description",
+    "message": "Metadescripción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaKeyword",
+    "description": "Keyword must be 255 characters or less",
+    "defaultMessage": "Keyword must be 255 characters or less",
+    "message": "La palabra clave debe ser de 255 caracteres o menos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metaTitle",
+    "description": "Meta Title",
+    "defaultMessage": "Meta Title",
+    "message": "Meta título",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.metakey",
+    "description": "Fares",
+    "defaultMessage": "Meta Keyword",
+    "message": "Palabra clave meta",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mile",
+    "description": "Mile",
+    "defaultMessage": "Mile",
+    "message": "Milla",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.miles",
+    "description": "Fares",
+    "defaultMessage": "Miles",
+    "message": "Millas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutePrice",
+    "description": "Minute Price",
+    "defaultMessage": "Minute Price",
+    "message": "Precio minucioso",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutes",
+    "description": "minutes",
+    "defaultMessage": "minutes",
+    "message": "minutos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.montly",
+    "description": "montly",
+    "defaultMessage": "This Month",
+    "message": "Este mes",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.msgOnly",
+    "description": "Change Password",
+    "defaultMessage": "Message",
+    "message": "Mensaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.nameOnly",
+    "description": "Change Password",
+    "defaultMessage": "Name",
+    "message": "Nombre",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.no",
+    "description": "no",
+    "defaultMessage": "No",
+    "message": "No",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noItmesFound",
+    "description": "No items found",
+    "defaultMessage": "No items found",
+    "message": "No se encontraron artículos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noResult",
+    "description": "noResult",
+    "defaultMessage": "No results found",
+    "message": "No se han encontrado resultados",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notFound",
+    "description": "Ban Status",
+    "defaultMessage": "Sorry, the page you were trying to view does not exist.",
+    "message": "Lo siento, la página que estaba tratando de ver no existe.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notRequired",
+    "description": "Label",
+    "defaultMessage": "No Action Required",
+    "message": "No se requiere accion",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notRequiredMessage",
+    "description": "Not Required",
+    "defaultMessage": "Not Required",
+    "message": "No requerido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.numberError",
+    "description": "Invalid Phone Number",
+    "defaultMessage": "Invalid Phone Number",
+    "message": "Numero de telefono invalido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.numericValue",
+    "description": "Numeric value required",
+    "defaultMessage": "Numeric value required",
+    "message": "Se requiere valor numérico",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.offline",
+    "description": "offline",
+    "defaultMessage": "Offline",
+    "message": "Desconectado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.oneOne",
+    "description": "Ban Status",
+    "defaultMessage": "One",
+    "message": "Uno",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.online",
+    "description": "online",
+    "defaultMessage": "Online",
+    "message": "En línea",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.optionOne",
+    "description": "Fares",
+    "defaultMessage": "option 1",
+    "message": "Opción 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.overAll",
+    "description": "Overall",
+    "defaultMessage": "Overall",
+    "message": "General",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageBanner",
+    "description": "Page Banner",
+    "defaultMessage": "Page Banner",
+    "message": "Banner",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageImageBanner",
+    "description": "Page Image Banner",
+    "defaultMessage": "Page Image Banner",
+    "message": "Banner de imagen de la página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageName",
+    "description": "Page Name",
+    "defaultMessage": "Page Name",
+    "message": "Nombre de la página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageTitle",
+    "description": "Page Title",
+    "defaultMessage": "Page Title",
+    "message": "Título de la página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pageUrl",
+    "description": "Page URL",
+    "defaultMessage": "Page URL",
+    "message": "URL de la página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paid",
+    "description": "Paid",
+    "defaultMessage": "Paid",
+    "message": "Pagado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.password",
+    "description": "password",
+    "defaultMessage": "Password",
+    "message": "Clave",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordInValid",
+    "description": "Invalid Password",
+    "defaultMessage": "Your password must be at least 8 characters. Please try again",
+    "message": "Su contraseña debe ser al menos 8 caracteres. Inténtalo de nuevo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordRequired",
+    "description": "Password is required",
+    "defaultMessage": "Password is required",
+    "message": "se requiere contraseña",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordText",
+    "description": "Password Content",
+    "defaultMessage": "Provide new password only. Ignore this field to use the existing password for this user.",
+    "message": "Proporcione solo una nueva contraseña. Ignore este campo para usar la contraseña existente para este usuario.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.passwordWrong",
+    "description": "Wrong Password",
+    "defaultMessage": "Wrong Password. Please try again",
+    "message": "Contraseña incorrecta. Inténtalo de nuevo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paymentMethod",
+    "description": "Payment Method",
+    "defaultMessage": "Payment Method",
+    "message": "Método de pago",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.paymentType",
+    "description": "Payment Type",
+    "defaultMessage": "Payment Type",
+    "message": "Tipo de pago",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.payoutAmount",
+    "description": "Payout Amount",
+    "defaultMessage": "Payout Amount",
+    "message": "Cantidad a pagar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.payoutStatus",
+    "description": "Payout Status",
+    "defaultMessage": "Payout Status",
+    "message": "Estado de pago",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pending",
+    "description": "Pending Status",
+    "defaultMessage": "Pending",
+    "message": "Pendiente",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pendingLabel",
+    "description": "Label",
+    "defaultMessage": "Pending",
+    "message": "Pendiente",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentError",
+    "description": "Choose percentage value between 1 to 99",
+    "defaultMessage": "Choose percentage value between 1 to 99",
+    "message": "Elija el valor porcentual entre 1 a 99",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentage",
+    "description": "text",
+    "defaultMessage": "Percentage",
+    "message": "Porcentaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.percentageFeeType",
+    "description": "Percentage Fee Type",
+    "defaultMessage": "Percentage",
+    "message": "Porcentaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.permit",
+    "description": "Permit Status",
+    "defaultMessage": "Permit",
+    "message": "Permiso",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.phoneDialCode",
+    "description": "Phone Dial Code",
+    "defaultMessage": "Country Code",
+    "message": "Código de país",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.phoneNumber",
+    "description": "phoneNumber",
+    "defaultMessage": "Phone Number",
+    "message": "Número de teléfono",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pickupLocation",
+    "description": "PickUp Location",
+    "defaultMessage": "PickUp Location",
+    "message": "Lugar de recogida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformEarnings",
+    "description": "Label",
+    "defaultMessage": "Platform Earnings",
+    "message": "Ganancias de la plataforma",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformOffered",
+    "description": "Label",
+    "defaultMessage": "Platform Overdrafts",
+    "message": "Sobregiros de plataforma",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.playstorelink",
+    "description": "Fares",
+    "defaultMessage": "Play Store Link",
+    "message": "Play Store Link",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.precautionNotification",
+    "description": "Title",
+    "defaultMessage": "Precaution Notification",
+    "message": "Notificación de precaución",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.preview",
+    "description": "Preview",
+    "defaultMessage": "Preview",
+    "message": "Avance",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.privacyPolicies",
+    "description": "Privacy Policy",
+    "defaultMessage": "Privacy Policy",
+    "message": "Política de privacidad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.privileges",
+    "description": "Privileges",
+    "defaultMessage": "Privileges",
+    "message": "Privilegios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.processedCash",
+    "description": "Label",
+    "defaultMessage": "Processed via cash",
+    "message": "Procesado a través de efectivo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.profileId",
+    "description": "Profile Id for user",
+    "defaultMessage": "Profile ID",
+    "message": "Perfil Id",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.profilePicture",
+    "description": "profilePicture",
+    "defaultMessage": "Profile Picture",
+    "message": "Foto de perfil",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoCodeId",
+    "description": "Promo Code",
+    "defaultMessage": "Promo Code",
+    "message": "Código promocional",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoType",
+    "description": "text",
+    "defaultMessage": "Type",
+    "message": "Tipo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.radioButton",
+    "description": "Change Password",
+    "defaultMessage": "Radio button",
+    "message": "Boton de radio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.ratings",
+    "description": "Ratings",
+    "defaultMessage": "Ratings",
+    "message": "Calificaciones",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.rcImage",
+    "description": "rcImage",
+    "defaultMessage": "RC Book Image",
+    "message": "Imagen del libro RC",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reason",
+    "description": "Reason",
+    "defaultMessage": "Reason",
+    "message": "Razón",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reasonRequired",
+    "description": "Reason is required",
+    "defaultMessage": "Reason is required",
+    "message": "Se requiere razón",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.recommand",
+    "description": "recommand",
+    "defaultMessage": "Recommand",
+    "message": "Reanudarse",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.redioOne",
+    "description": "Fares",
+    "defaultMessage": "radio 1",
+    "message": "Radio 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.removeLocation",
+    "description": "Polygon remove",
+    "defaultMessage": "Remove Location",
+    "message": "Eliminar la ubicación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.rentallContent",
+    "description": "app",
+    "defaultMessage": "app",
+    "message": "aplicación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reportIssue",
+    "description": "Ban Status",
+    "defaultMessage": "Report an issue",
+    "message": "Reportar un problema",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.required",
+    "description": "required error message",
+    "defaultMessage": "*Required",
+    "message": "*Requerido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reservations",
+    "description": "Ban Status",
+    "defaultMessage": "Reservations",
+    "message": "Reservaciones",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reviewsBy",
+    "description": "reviewsBy",
+    "defaultMessage": "Reviews By",
+    "message": "Revisiones por",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.role",
+    "description": "Role",
+    "defaultMessage": "Role",
+    "message": "Role",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.roleName",
+    "description": "Role Name",
+    "defaultMessage": "Role Name",
+    "message": "Nombre de rol",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyButton",
+    "description": "safetyButton",
+    "defaultMessage": "View all safety features",
+    "message": "Ver todas las características de seguridad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyContent",
+    "description": "Safety",
+    "defaultMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "message": "Lorem Ipsum es simplemente un texto ficticio de la industria de impresión y tipografía. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el siglo XVI, cuando una impresora desconocida tomó una galera de tipo y lo revuelve para hacer un libro de muestras de tipo.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Playstore Logo",
+    "message": "Logotipo de PlayStore",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "Appstore Logo",
+    "message": "Logotipo de AppStore",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetyImage3",
+    "description": "User App Image",
+    "defaultMessage": "User App Image",
+    "message": "Imagen de la aplicación de usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.safetySectionSettings",
+    "description": "User Apps Settings",
+    "defaultMessage": "User App",
+    "message": "Aplicación de usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.searchLocation",
+    "description": "Auto-Complete input",
+    "defaultMessage": "Search Location",
+    "message": "Ubicación de búsqueda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.searchOnly",
+    "description": "Change Password",
+    "defaultMessage": "Search",
+    "message": "Búsqueda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.select",
+    "description": "select",
+    "defaultMessage": "Select",
+    "message": "Seleccione",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.selectRole",
+    "description": "Select Role",
+    "defaultMessage": "Select Role",
+    "message": "Rol de selección",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.setBase",
+    "description": "Ban Status",
+    "defaultMessage": "Set as base currency",
+    "message": "Establecido como moneda base",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.setBaseCurrency",
+    "description": "currencyManagement value",
+    "defaultMessage": "Set Base Currency",
+    "message": "Establecer moneda base",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.settings",
+    "description": "settings",
+    "defaultMessage": "Settings",
+    "message": "Ajustes",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signup",
+    "description": "Sign up Nav link",
+    "defaultMessage": "Sign up",
+    "message": "Regístrate",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupDrive",
+    "description": "Sign up to drive",
+    "defaultMessage": "Sign up to drive",
+    "message": "Regístrese para conducir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage1",
+    "description": "Playstore Logo",
+    "defaultMessage": "Play Store Logo",
+    "message": "Logotipo de Play Store",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage2",
+    "description": "Appstore Logo",
+    "defaultMessage": "App Store Logo",
+    "message": "Logotipo de la tienda de aplicaciones",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupImage3",
+    "description": "Service provider App Image",
+    "defaultMessage": "Service Provider App Image",
+    "message": "Imagen de la aplicación de proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupRide",
+    "description": "Sign up to ride",
+    "defaultMessage": "Sign up to ride",
+    "message": "Regístrese para viajar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.signupSectionSettings",
+    "description": "Service Provider Apps Settings",
+    "defaultMessage": "Service Provider App",
+    "message": "Aplicación de proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteAdmin",
+    "description": "siteAdmin",
+    "defaultMessage": "Site Admin",
+    "message": "Administrador del sitio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteName",
+    "description": "Fares",
+    "defaultMessage": "Site Name",
+    "message": "Nombre del sitio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteSettings",
+    "description": "Site Settings",
+    "defaultMessage": "Site Settings",
+    "message": "Configuración del sitio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.siteTitle",
+    "description": "Fares",
+    "defaultMessage": "Site Title",
+    "message": "Título del sitio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderContent",
+    "description": "Luxury",
+    "defaultMessage": "Luxury",
+    "message": "Lujo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderTitle",
+    "description": "sliderTitle",
+    "defaultMessage": "Lorem Ipsum",
+    "message": "Lorem ipsum",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sliderTitleDesc",
+    "description": "sliderTitleDesc",
+    "defaultMessage": "Percipit repudiandae an eum, enim case eos no. Percipit tractatos pertinacia cum id, ad eos facete malorum recusabo, vis insolens perpetua definitionem ex.",
+    "message": "Percipit repudiandoe an eum, enim caso eos no. Percipit Tractatos Pertinacia cum ID, AD EOS Facete Malorum Recusabo, Vis Insolens Perpetua Definitionem EX.",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.somethingWentWrong",
+    "description": "Wrong went wrong",
+    "defaultMessage": "Sorry, something went wrong. Please try again",
+    "message": "Perdón, algo salió mal. Inténtalo de nuevo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.startDriving",
+    "description": "Start Driving",
+    "defaultMessage": "Start Driving",
+    "message": "Empezar a conducir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.startRideing",
+    "description": "Start Riding",
+    "defaultMessage": "Start Riding",
+    "message": "Empezar a conducir",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.started",
+    "description": "Started Status",
+    "defaultMessage": "Started",
+    "message": "Comenzó",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.state",
+    "description": "Fares",
+    "defaultMessage": "State",
+    "message": "Expresar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.staticpageManagement",
+    "description": "Manage Static Content",
+    "defaultMessage": "Manage Static Content",
+    "message": "Administrar contenido estático",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.status",
+    "description": "Status Active/Inactive",
+    "defaultMessage": "Status",
+    "message": "Estado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.stripePublishableKey",
+    "description": "Stripe Publishable Key",
+    "defaultMessage": "Stripe Publishable Key",
+    "message": "Key Publisable Stripe",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuOne",
+    "description": "subMenuOne",
+    "defaultMessage": "subMenuOne",
+    "message": "submenuona",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuThree",
+    "description": "subMenuThree",
+    "defaultMessage": "subMenuThree",
+    "message": "submenuthree",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subMenuTwo",
+    "description": "subMenuTwo",
+    "defaultMessage": "subMenuTwo",
+    "message": "submenutwo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.submitButton",
+    "description": "Submit",
+    "defaultMessage": "Submit",
+    "message": "Entregar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.symbol",
+    "description": "currencyManagement value",
+    "defaultMessage": "Symbol",
+    "message": "Símbolo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.table",
+    "description": "Table",
+    "defaultMessage": "Table",
+    "message": "Mesa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tableCell",
+    "description": "Fares",
+    "defaultMessage": "Table cell",
+    "message": "Célula de mesa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tableHead",
+    "description": "Fares",
+    "defaultMessage": "Table heading",
+    "message": "Encabezamiento de la mesa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.textarea",
+    "description": "textarea",
+    "defaultMessage": "Text Area",
+    "message": "Área de texto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsAmount",
+    "description": "Tips Amount",
+    "defaultMessage": "Tips Amount",
+    "message": "Cantidad de consejos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title",
+    "description": "text",
+    "defaultMessage": "Title",
+    "message": "Título",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title1",
+    "description": "Title 1",
+    "defaultMessage": "Title 1",
+    "message": "Título 1",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title2",
+    "description": "Title 2",
+    "defaultMessage": "Title 2",
+    "message": "Título 2",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title3",
+    "description": "Title 3",
+    "defaultMessage": "Title 3",
+    "message": "Título 3",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title4",
+    "description": "Title 4",
+    "defaultMessage": "Title 4",
+    "message": "Título 4",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title5",
+    "description": "Title 5",
+    "defaultMessage": "Title 5",
+    "message": "Título 5",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.title6",
+    "description": "Title 6",
+    "defaultMessage": "Title 6",
+    "message": "Título 6",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.to",
+    "description": "Label",
+    "defaultMessage": "To",
+    "message": "Para",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.today",
+    "description": "today",
+    "defaultMessage": "Today",
+    "message": "Hoy dia",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tollFee",
+    "description": "tollFee",
+    "defaultMessage": "Toll Fee",
+    "message": "Peaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.topFeatures",
+    "description": "Top Features Section Settings",
+    "defaultMessage": "Top Features Section Settings",
+    "message": "Configuración de la sección de características principales",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalDuration",
+    "description": "Total Duration",
+    "defaultMessage": "Total Duration",
+    "message": "Duración total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalFare",
+    "description": "Total Fare",
+    "defaultMessage": "Total Fare",
+    "message": "Tarifa total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalList",
+    "description": "Ban Status",
+    "defaultMessage": "Total Listings",
+    "message": "Listados totales",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalReserv",
+    "description": "Ban Status",
+    "defaultMessage": "Total Reservations",
+    "message": "Reservas totales",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalRideDistance",
+    "description": "Total  Distance",
+    "defaultMessage": "Total  Distance",
+    "message": "Distancia total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalUser",
+    "description": "Ban Status",
+    "defaultMessage": "Total Users",
+    "message": "Usuarios totales",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripDate",
+    "description": "Trip Date",
+    "defaultMessage": "Trip Date",
+    "message": "Fecha de viaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripEnd",
+    "description": "Trip End",
+    "defaultMessage": "Trip End",
+    "message": "Final",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tripStart",
+    "description": "Trip Start",
+    "defaultMessage": "Trip Start",
+    "message": "Comienzo de viaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.twiterUrl",
+    "description": "Fares",
+    "defaultMessage": "Twitter URL",
+    "message": "URL de Twitter",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unitPrice",
+    "description": "Unit Price",
+    "defaultMessage": "Unit Price",
+    "message": "Precio unitario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unpaid",
+    "description": "Unpaid",
+    "defaultMessage": "Unpaid",
+    "message": "No pagado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.update",
+    "description": "Update",
+    "defaultMessage": "Update",
+    "message": "Actualizar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.updatedAt",
+    "description": "Label",
+    "defaultMessage": "Updated At",
+    "message": "Actualizado en",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.useFullLink",
+    "description": "Usefull Links",
+    "defaultMessage": "Usefull Links",
+    "message": "Enlaces útiles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.usedPromoCode",
+    "description": "text",
+    "defaultMessage": "Used Promo Code",
+    "message": "Código de promoción usado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userStatus",
+    "description": "User Status Active/Inactive",
+    "defaultMessage": "User Status",
+    "message": "Estatus de usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.users",
+    "description": "users",
+    "defaultMessage": "Users",
+    "message": "Usuarios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validUrl",
+    "description": "Valid URL required",
+    "defaultMessage": "Valid URL required",
+    "message": "Se requiere URL válida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateConfirmPasswordLength",
+    "description": "Confirm Password length Validation",
+    "defaultMessage": "Confirm Password must be minimum 8 characters",
+    "message": "Confirmar la contraseña debe ser mínimo de 8 caracteres",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validatePasswordLength",
+    "description": "Password length Validation",
+    "defaultMessage": "Password must be minimum 8 characters",
+    "message": "La contraseña debe ser mínimo de 8 caracteres",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validatePasswordMatch",
+    "description": "Password mismatch",
+    "defaultMessage": "Password is mismatching with Confirm password",
+    "message": "La contraseña es que no coincide con la contraseña de confirmación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.view",
+    "description": "View Details Link",
+    "defaultMessage": "View",
+    "message": "Vista",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.viewCity",
+    "description": "view City",
+    "defaultMessage": "View city",
+    "message": "Ver la ciudad",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.wallet",
+    "description": "Wallet",
+    "defaultMessage": "Wallet",
+    "message": "Cartera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.walletBalance",
+    "description": "Wallet Balance",
+    "defaultMessage": "Wallet Balance",
+    "message": "Balance de billetera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.weekly",
+    "description": "weekly",
+    "defaultMessage": "This Week",
+    "message": "Esta semana",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.yes",
+    "description": "Yes",
+    "defaultMessage": "Yes",
+    "message": "Sí",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.youtubeUrl",
+    "description": "Fares",
+    "defaultMessage": "Youtube URL",
+    "message": "URL de YouTube",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addOrChange",
+    "description": "Label",
+    "defaultMessage": "Add or Change",
+    "message": "Agregar o cambiar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addStop",
+    "description": "Label",
+    "defaultMessage": "Add Stop",
+    "message": "Agregar parada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.all",
+    "description": "all",
+    "defaultMessage": "All",
+    "message": "Todos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.assign",
+    "description": "Label",
+    "defaultMessage": "Assign",
+    "message": "Asignar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.at",
+    "description": "Label",
+    "defaultMessage": "at",
+    "message": "en",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.autoAssign",
+    "description": "Label",
+    "defaultMessage": "Auto Assign",
+    "message": "Asignación automática",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.baseFare",
+    "description": "Label",
+    "defaultMessage": "Base Fare",
+    "message": "Tarifa base",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookNow",
+    "description": "Label",
+    "defaultMessage": "Book Now",
+    "message": "Reservar ahora",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingFee",
+    "description": "Label",
+    "defaultMessage": "Booking Fee",
+    "message": "Tarifa de reserva",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelBooking",
+    "description": "Label",
+    "defaultMessage": "Cancel Booking",
+    "message": "Cancelar la reserva",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.createBooking",
+    "description": "Create Booking",
+    "defaultMessage": "Create Booking",
+    "message": "Crear reserva",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editBooking",
+    "description": "Label",
+    "defaultMessage": "Edit Booking",
+    "message": "Editar reserva",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editDateAndTime",
+    "description": "Label",
+    "defaultMessage": "Edit Date & Time",
+    "message": "Editar fecha y hora",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.exceedLimit200",
+    "description": "Message",
+    "defaultMessage": "Please dont exceed 200 words",
+    "message": "Por favor no exceda las 200 palabras",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fareEstimation",
+    "description": "Label",
+    "defaultMessage": "Fare Estimation",
+    "message": "Estimación de tarifas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.heatMap",
+    "description": "heatMap",
+    "defaultMessage": "HeatMap",
+    "message": "Mapa de calor",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hide",
+    "description": "hide",
+    "defaultMessage": "Hide",
+    "message": "Esconder",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.invalid",
+    "description": "invalid",
+    "defaultMessage": "Invalid",
+    "message": "Inválido",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageDispatcher",
+    "description": "manageDispatcher",
+    "defaultMessage": "Manage Dispatcher",
+    "message": "Administrar despachador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageForceUpdate",
+    "description": "manageForceUpdate",
+    "defaultMessage": "Manage Apps Force Update",
+    "message": "Administrar la actualización de la fuerza de aplicaciones",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mapView",
+    "description": "mapView",
+    "defaultMessage": "Map View",
+    "message": "Vista del mapa",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minutesShort",
+    "description": "Label",
+    "defaultMessage": "mins",
+    "message": "mínimos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.mobileSettings",
+    "description": "Mobile App Settings",
+    "defaultMessage": "Mobile App Settings",
+    "message": "Configuración de la aplicación móvil",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.next",
+    "description": "Next",
+    "defaultMessage": "Next",
+    "message": "próximo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noCabs",
+    "description": "Label",
+    "defaultMessage": "No Cabs",
+    "message": "Sin taxis",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.now",
+    "description": "Label",
+    "defaultMessage": "Book now",
+    "message": "Reservar ahora",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perKm",
+    "description": "Label",
+    "defaultMessage": "Per Km",
+    "message": "Por km",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perMile",
+    "description": "Label",
+    "defaultMessage": "Per Mile",
+    "message": "Por milla",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.perMinute",
+    "description": "Label",
+    "defaultMessage": "Per Minute",
+    "message": "Por minuto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.reset",
+    "description": "Label",
+    "defaultMessage": "Reset",
+    "message": "Reiniciar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.show",
+    "description": "show",
+    "defaultMessage": "Show",
+    "message": "Show",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepMode",
+    "description": "sleepMode",
+    "defaultMessage": "Manage Service Provider App Sleep Mode",
+    "message": "Administrar el modo de suspensión del proveedor del proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.stripeSettings",
+    "description": "stripeSettings",
+    "defaultMessage": "Stripe Settings",
+    "message": "Configuración de rayas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.total",
+    "description": "Label",
+    "defaultMessage": "Total",
+    "message": "Total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tracking",
+    "description": "tracking",
+    "defaultMessage": "Tracking",
+    "message": "Seguimiento",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.travelFare",
+    "description": "Label",
+    "defaultMessage": "Travel Fare",
+    "message": "Tarifa de viaje",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.markerInfo",
+    "description": "Marker Info",
+    "defaultMessage": "Marker Info",
+    "message": "Información del marcador",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.favIconlogoLabel",
+    "description": "Fav Icon",
+    "defaultMessage": "Fav Icon",
+    "message": "Icono favorito",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allDays",
+    "description": "select label",
+    "defaultMessage": "All days",
+    "message": "Todos los días",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactEmail",
+    "description": "contactEmail",
+    "defaultMessage": "Contact email",
+    "message": "Email de contacto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.contactPhoneNumber",
+    "description": "contactPhoneNumber",
+    "defaultMessage": "Contact phone number",
+    "message": "Teléfono de contacto",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.last30Days",
+    "description": "select label",
+    "defaultMessage": "Last 30 days",
+    "message": "Últimos 30 días",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.last7Days",
+    "description": "select label",
+    "defaultMessage": "Last 7 days",
+    "message": "Los últimos 7 días",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.skype",
+    "description": "skype",
+    "defaultMessage": "Skype",
+    "message": "Skype",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addCurrency",
+    "description": "addCurrency",
+    "defaultMessage": "Add currency",
+    "message": "Agregar moneda",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledByPartner",
+    "description": "Cancelled By Service Provider Status",
+    "defaultMessage": "Cancelled By Service Provider",
+    "message": "Cancelado por el proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.cancelledByUser",
+    "description": "Cancelled By User Status",
+    "defaultMessage": "Cancelled By User",
+    "message": "Cancelado por usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partner",
+    "description": "partner",
+    "defaultMessage": "Service Provider",
+    "message": "Proveedor de servicio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepPartnerAndroid",
+    "description": "sleepPartnerAndroid",
+    "defaultMessage": "Service Provider Android App",
+    "message": "Aplicación del proveedor de servicios Android",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.sleepPartnerios",
+    "description": "sleepPartnerios",
+    "defaultMessage": "Service Provider iOS App",
+    "message": "Aplicación de proveedor de servicios iOS",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.user",
+    "description": "user",
+    "defaultMessage": "User",
+    "message": "Usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.bookingStatus",
+    "description": "Job Status",
+    "defaultMessage": "Job Status",
+    "message": "Estado de trabajo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryBanner",
+    "description": "Category Banner",
+    "defaultMessage": "Banner",
+    "message": "Bandera",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.categoryLogo",
+    "description": "Category Logo",
+    "defaultMessage": "Logo",
+    "message": "Logo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.fixedFareType",
+    "description": "Fixed fare Type",
+    "defaultMessage": "Fixed fare Type",
+    "message": "Tipo de tarifa fija",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hourlyFareType",
+    "description": "Hourly fare type",
+    "defaultMessage": "Hourly fare type",
+    "message": "Tipo de tarifa por hora",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isJobPhotoRequired",
+    "description": "isJobPhotoRequired",
+    "defaultMessage": "Allow users to upload photos for the job",
+    "message": "Permitir a los usuarios subir fotos para el trabajo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isPopular",
+    "description": "Is-Popular",
+    "defaultMessage": "Is-Popular",
+    "message": "Es popular",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.legal",
+    "description": "legal",
+    "defaultMessage": "Legal",
+    "message": "Legal",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.name",
+    "description": "name",
+    "defaultMessage": "Name",
+    "message": "Nombre",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerServiceFee",
+    "description": "Service Provider Service Fee",
+    "defaultMessage": "Service Provider Service Fee",
+    "message": "Tarifa de servicio del proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.pricingType",
+    "description": "Pricing Type",
+    "defaultMessage": "Pricing Type",
+    "message": "Tipo de precios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategoryMenu",
+    "description": "Manage SubCategory",
+    "defaultMessage": "Manage Sub Category",
+    "message": "Administrar subcategoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userServiceFee",
+    "description": "User Service Fee",
+    "defaultMessage": "User Service Fee",
+    "message": "Tarifa de servicio de usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.usersMenu",
+    "description": "usersMenu",
+    "defaultMessage": "Manage Users",
+    "message": "Administrar usuarios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.addSubCategory",
+    "description": "Add subcategory form header",
+    "defaultMessage": "Add Sub Category",
+    "message": "Agregar subcategoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editSubCategory",
+    "description": "Edit subcategory form header",
+    "defaultMessage": "Edit Sub Category",
+    "message": "Editar subcategoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editUser",
+    "description": "Edit User form header",
+    "defaultMessage": "Edit User",
+    "message": "editar usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.basePrice",
+    "description": "base price amount",
+    "defaultMessage": "Base Price",
+    "message": "Precio base",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hourlyPrice",
+    "description": "Hourly Price",
+    "defaultMessage": "Hourly Price",
+    "message": "Precio por hora",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.isPriceEditable",
+    "description": "Can be editable by service provider?",
+    "defaultMessage": "Can be editable by service provider?",
+    "message": "¿Puede ser editable por el proveedor de servicios?",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maxQuantity",
+    "description": "Maximum Quantity",
+    "defaultMessage": "Maximum Quantity",
+    "message": "Cantidad máxima",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.minHours",
+    "description": "Minimum Hours",
+    "defaultMessage": "Minimum Hours",
+    "message": "Horas mínimas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategory",
+    "description": "SubCategory",
+    "defaultMessage": "Sub Category",
+    "message": "Subcategoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategoryName",
+    "description": "subCategoryName",
+    "defaultMessage": "Sub Category Name",
+    "message": "Nombre de la subcategoría",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.travelCharge",
+    "description": "Travelling Charge",
+    "defaultMessage": "Visit Fee",
+    "message": "Tarifa de visita",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowableDistaceField",
+    "description": "allowableDistaceField",
+    "defaultMessage": "Maximum Allowable distance",
+    "message": "Distancia máxima permitida",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowableDistaceTitle",
+    "description": "allowableDistaceTitle",
+    "defaultMessage": "Maximum distance to cover while fetching service providers",
+    "message": "Distancia máxima para cubrir mientras busca proveedores de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedServices",
+    "description": "allowedServices",
+    "defaultMessage": "Maximum jobs that users can book",
+    "message": "Trabajos máximos que los usuarios pueden reservar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.allowedServicesTitle",
+    "description": "allowedServicesTitle",
+    "defaultMessage": "Manage maximum jobs that users can book",
+    "message": "Administrar trabajos máximos que los usuarios puedan reservar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notificationInterval",
+    "description": "notificationInterval",
+    "defaultMessage": "Job acceptance time for the service provider",
+    "message": "Tiempo de aceptación del trabajo para el proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerAndriodVersion",
+    "description": "Andriod",
+    "defaultMessage": "Service Provider Android Version",
+    "message": "Versión de Android de proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerPrivacyPolicy",
+    "description": "Title",
+    "defaultMessage": "Service Provider Privacy Policy",
+    "message": "Política de privacidad del proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partneriosVersion",
+    "description": "iOS",
+    "defaultMessage": "Service Provider iOS Version",
+    "message": "Versión del proveedor de servicios iOS",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userAndriodVersion",
+    "description": "userAndriodVersion",
+    "defaultMessage": "User Android Version",
+    "message": "Versión de usuarios de Android",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.useriosVersion",
+    "description": "useriosVersion",
+    "defaultMessage": "User iOS Version",
+    "message": "Versión de usuario iOS",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editPartner",
+    "description": "Edit Service Provider form header",
+    "defaultMessage": "Edit Service Provider",
+    "message": "Editar proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerMenu",
+    "description": "partnerMenu",
+    "defaultMessage": "Manage Service Providers",
+    "message": "Administrar proveedores de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCatbackGroundImageegoryName",
+    "description": "backGroundImage",
+    "defaultMessage": "Background Image",
+    "message": "Imagen de fondo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.maximumEmergencyContact",
+    "description": "maximumEmergencyContact",
+    "defaultMessage": "Maximum Emergency Contact",
+    "message": "Contacto de emergencia máximo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.promoCodeImage",
+    "description": "title",
+    "defaultMessage": "Promo Code Image",
+    "message": "Imagen del código de promoción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.activePartners",
+    "description": "activePartners",
+    "defaultMessage": "Active Service Providers",
+    "message": "Proveedores de servicios activos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availablePartners",
+    "description": "availablePartners",
+    "defaultMessage": "Available Service Providers",
+    "message": "Proveedores de servicios disponibles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.downloadAppTextPartner",
+    "description": "DownloadAppText",
+    "defaultMessage": "Download The Service Provider App",
+    "message": "Descargue la aplicación de proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.managePartnerPayout",
+    "description": "Manage Service Provider Payouts",
+    "defaultMessage": "Manage Service Provider Payouts",
+    "message": "Administrar pagos de proveedores de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerBillingInformation",
+    "description": "Label",
+    "defaultMessage": "Service Provider Billing Information",
+    "message": "Información de facturación del proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerEarnings",
+    "description": "Label",
+    "defaultMessage": "Service Provider Earnings",
+    "message": "Ganancias del proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerEmail",
+    "description": "Service Provider Email",
+    "defaultMessage": "Service Provider Email",
+    "message": "Correo electrónico del proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerName",
+    "description": "Service Provider Name",
+    "defaultMessage": "Service Provider Name",
+    "message": "Nombre del proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerPayout",
+    "description": "managePayout",
+    "defaultMessage": "Service Provider Payout",
+    "message": "Pago del proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerappcntn",
+    "description": "Fares",
+    "defaultMessage": "Service Provider App Content",
+    "message": "Contenido de la aplicación de proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerapptitle",
+    "description": "Fares",
+    "defaultMessage": "Service Provider App Title",
+    "message": "Título de la aplicación del proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partners",
+    "description": "partner",
+    "defaultMessage": "Service Providers",
+    "message": "Proveedores de servicio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsGivenToPartner",
+    "description": "Label",
+    "defaultMessage": "Tips given to the service provider",
+    "message": "Consejos dados al proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.tipsReceivedFromUser",
+    "description": "Label",
+    "defaultMessage": "Tips received from the user",
+    "message": "Consejos recibidos del usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unActivatedPartners",
+    "description": "unActivatedPartners",
+    "defaultMessage": "Unactivated Service Providers",
+    "message": "Proveedores de servicios no activados",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unAvailablePartners",
+    "description": "unAvailablePartners",
+    "defaultMessage": "Unavailable Service Providers",
+    "message": "Proveedores de servicios no disponibles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userAppContent",
+    "description": "Change Password",
+    "defaultMessage": "User App Content",
+    "message": "Contenido de la aplicación de usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userApptitle",
+    "description": "Change Password",
+    "defaultMessage": "User App Title",
+    "message": "Título de la aplicación de usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userBillingInformation",
+    "description": "Label",
+    "defaultMessage": "User Billing Information",
+    "message": "Información de facturación de usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userEmail",
+    "description": "User Email",
+    "defaultMessage": "User Email",
+    "message": "Correo electrónico de usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userName",
+    "description": "User Name",
+    "defaultMessage": "User Name",
+    "message": "Nombre de usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userPayableAmount",
+    "description": "userPayableAmount",
+    "defaultMessage": "User Payable Amount",
+    "message": "Monto por pagar del usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.availableDrivers",
+    "description": "availableDrivers",
+    "defaultMessage": "Available Drivers",
+    "message": "Conductores disponibles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCancelledBookings",
+    "description": "manageCancelledBookings sidemenu",
+    "defaultMessage": "Cancelled Jobs",
+    "message": "Trabajos cancelados",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageCompletedBooking",
+    "description": "CompletedBooking sidemenu",
+    "defaultMessage": "Completed Jobs",
+    "message": "Trabajos completos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unActivatedDrivers",
+    "description": "unActivatedDrivers",
+    "defaultMessage": "Unactivated Drivers",
+    "message": "Conductores no activados",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.unAvailableDrivers",
+    "description": "unAvailableDrivers",
+    "defaultMessage": "Unavailable Drivers",
+    "message": "Conductores no disponibles",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userExperience",
+    "description": "userExperience",
+    "defaultMessage": "User Experience",
+    "message": "Experiencia de usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userIdentity",
+    "description": "userIdentity",
+    "defaultMessage": "User Identity",
+    "message": "Identidad de usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.welcomeAdminLabel",
+    "description": "Welcome Admin !!!",
+    "defaultMessage": "Welcome Admin !!!",
+    "message": "Bienvenido administrador !!!",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.additionalFee",
+    "description": "Additional Charge",
+    "defaultMessage": "Additional Charge",
+    "message": "Cargos adicionales",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.arrived",
+    "description": "Arrived",
+    "defaultMessage": "Arrived",
+    "message": "Llegado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.duration",
+    "description": "duration",
+    "defaultMessage": "Job acceptance time",
+    "message": "Tiempo de aceptación del trabajo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.earningsLabel",
+    "description": "Earnings",
+    "defaultMessage": "Earnings",
+    "message": "Ganancias",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.estimatedPrice",
+    "description": "estimatedPrice",
+    "defaultMessage": "Estimated price",
+    "message": "Precio estimado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.hideDescription",
+    "description": "View Listing",
+    "defaultMessage": "Hide description",
+    "message": "Ocultar descripción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.itemTotal",
+    "description": "Label",
+    "defaultMessage": "Item Total",
+    "message": "Total",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.job",
+    "description": "job",
+    "defaultMessage": "Job list",
+    "message": "Lista de trabajo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobCompleted",
+    "description": "Job Completed",
+    "defaultMessage": "Job Completed",
+    "message": "Trabajo completo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobDescription",
+    "description": "jobDescription",
+    "defaultMessage": "Job description",
+    "message": "Descripción del trabajo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobDetails",
+    "description": "jobDetails",
+    "defaultMessage": "Job Details",
+    "message": "Detalles del trabajo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobLocation",
+    "description": "jobLocation",
+    "defaultMessage": "Job location",
+    "message": "Locación de trabajo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobPhoto",
+    "description": "hide",
+    "defaultMessage": "Job photos",
+    "message": "Fotos de trabajo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobProgress",
+    "description": "jobProgress",
+    "defaultMessage": "Job Progress",
+    "message": "Progreso del trabajo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobRequestWindow",
+    "description": "jobRequestWindow",
+    "defaultMessage": "Manage service provider app's job request window information",
+    "message": "Administrar la información de la ventana de solicitud de trabajo de la aplicación de proveedores de servicios de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobStarted",
+    "description": "Job Started",
+    "defaultMessage": "Job Started",
+    "message": "Comenzó el trabajo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.partnerNumber",
+    "description": "Service Provider Number",
+    "defaultMessage": "Service Provider Phone Number",
+    "message": "Número de teléfono del proveedor de servicios",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.platformDiscount",
+    "description": "Special platformDiscount",
+    "defaultMessage": "Platform offered discount",
+    "message": "Plataforma ofrecida descuento",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestAccepted",
+    "description": "Request Accepted",
+    "defaultMessage": "Request Accepted",
+    "message": "Petición aceptada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestCancelled",
+    "description": "Request Cancelled",
+    "defaultMessage": "Request Cancelled",
+    "message": "Solicitud cancelada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestCreated",
+    "description": "Request Created",
+    "defaultMessage": "Request Created",
+    "message": "Solicitud creada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestDecline",
+    "description": "Request Declined",
+    "defaultMessage": "Request Declined",
+    "message": "La solicitud disminuyó",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestReviewed",
+    "description": "Request Reviewed",
+    "defaultMessage": "Request Reviewed",
+    "message": "Solicitud revisada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.serviceFee",
+    "description": "serviceFee",
+    "defaultMessage": "Service Fee",
+    "message": "Tarifa de servicio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.showDescription",
+    "description": "View Listing",
+    "defaultMessage": "Show more description",
+    "message": "Mostrar más descripción",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.subCategories",
+    "description": "subCategories",
+    "defaultMessage": "Sub Categories",
+    "message": "Subcategas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalEarnings",
+    "description": "Earnings",
+    "defaultMessage": "Total Earnings",
+    "message": "Ganancias Totales",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.totalWorkingHours",
+    "description": "Total working hours",
+    "defaultMessage": "Total working hours =",
+    "message": "Total de horas de trabajo =",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userDiscount",
+    "description": "discount text",
+    "defaultMessage": "Coupon Discount",
+    "message": "Descuento de cupón",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.userNumber",
+    "description": "User Number",
+    "defaultMessage": "User Phone Number",
+    "message": "Número de teléfono de usuario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateInterval",
+    "description": "validateInterval",
+    "defaultMessage": "Notification interval must be greater than 0.5 min",
+    "message": "El intervalo de notificación debe ser mayor de 0.5 min",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.eligibleForAService",
+    "description": "text",
+    "defaultMessage": "Eligible for a Service",
+    "message": "Elegible para un servicio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.notEligibleForAService",
+    "description": "text",
+    "defaultMessage": "Not eligible for a Service",
+    "message": "No es elegible para un servicio",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.accountId",
+    "description": "ACCOUNT_SID",
+    "defaultMessage": "ACCOUNT_SID",
+    "message": "Cuenta_sid",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.apiKey",
+    "description": "API KEY",
+    "defaultMessage": "API KEY",
+    "message": "CLAVE API",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.appOpenTrip",
+    "description": "appOpenTrip",
+    "defaultMessage": "Open the provider app when a request notification is received",
+    "message": "Abra la aplicación del proveedor cuando se reciba una notificación de solicitud",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.editSmsMethod",
+    "description": "editSmsMethod",
+    "defaultMessage": "Edit SMS Methods",
+    "message": "Editar métodos SMS",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobId",
+    "description": "Job",
+    "defaultMessage": "Job ID",
+    "message": "Identificación del trabajo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.jobs",
+    "description": "jobs",
+    "defaultMessage": "Jobs",
+    "message": "Trabajos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageSmsMethod",
+    "description": "manageSmsMethod",
+    "defaultMessage": "Manage SMS Methods",
+    "message": "Gestionar los métodos de SMS",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.noLimit",
+    "description": "noLimit",
+    "defaultMessage": "No Limit",
+    "message": "Sin límite",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.records",
+    "description": "records",
+    "defaultMessage": "Records per page",
+    "message": "Registros por página",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestTone",
+    "description": "requestTone",
+    "defaultMessage": "Request accept timer tone",
+    "message": "Solicitar el tono del temporizador Aceptar",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.secretId",
+    "description": "AUTHTOKEN",
+    "defaultMessage": "AUTHTOKEN",
+    "message": "Authtoken",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.secretKey",
+    "description": "SECRET KEY",
+    "defaultMessage": "SECRET KEY",
+    "message": "LLAVE SECRETA",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.uploadRequestTone",
+    "description": "uploadRequestTone",
+    "defaultMessage": "Upload timer tone",
+    "message": "Tono de temporizador de carga",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.viewJob",
+    "description": "view Job",
+    "defaultMessage": "View job",
+    "message": "Ver el trabajo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.receipt",
+    "description": "receipt",
+    "defaultMessage": "Receipt",
+    "message": "Recibo",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.manageSchedule",
+    "description": "manageSchedule",
+    "defaultMessage": "Manage Schedule Booking",
+    "message": "Administrar la reserva de horario",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduleBooking",
+    "description": "Label",
+    "defaultMessage": "Schedule Bookings",
+    "message": "Programar reservas",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduleBookingHistory",
+    "description": "Heading",
+    "defaultMessage": "Schedule Booking History",
+    "message": "Historial de reservas de programación",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduled",
+    "description": "Trip status",
+    "defaultMessage": "Scheduled",
+    "message": "Programado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduledFrom",
+    "description": "Label",
+    "defaultMessage": "Scheduled From",
+    "message": "Programado de",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.scheduledTo",
+    "description": "Label",
+    "defaultMessage": "Scheduled To",
+    "message": "Programado para",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.defaultScheduleInterval",
+    "description": "defaultScheduleInterval",
+    "defaultMessage": "Default Schedule Interval",
+    "message": "Intervalo de programación predeterminado",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.validateScheduleInterval",
+    "description": "validateScheduleInterval",
+    "defaultMessage": "Schedule interval must be greater than 20 min",
+    "message": "El intervalo de horario debe ser mayor de 20 minutos",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  },
+  {
+    "id": "app.requestScheduled",
+    "description": "Request Scheduled",
+    "defaultMessage": "Request Scheduled",
+    "message": "Solicitud programada",
+    "files": [
+      "src/locale/messages.js"
+    ]
+  }
+]

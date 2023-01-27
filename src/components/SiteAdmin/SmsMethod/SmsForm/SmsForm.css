@@ -1,0 +1,28 @@
+@import '../../../../components/variables.css';
+@import '../../../../components/Common.css';
+@import '../../../../components/responsive-common.css';
+.displayGridPhone{
+    display: grid;
+    grid-template-columns: 50px auto;
+}
+.countrySection{
+    height: 44px;
+    text-align: center;
+    color: #fff;
+    padding: 9px 0 0 0;
+    background-color: var(--btn-primary-bg);
+    border-radius: 4px 0 0 4px;
+}
+.inputRadius{
+    border-left: inherit;
+    border-radius: 0 4px 4px 0;
+}
+.formControlSelect{
+    height: 43px;
+}
+@media (max-width: 768px){
+ .displayGridPhone{
+        margin-top: 20px;
+}
+    }
+

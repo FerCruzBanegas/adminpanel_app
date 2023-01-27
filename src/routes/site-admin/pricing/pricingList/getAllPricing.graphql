@@ -1,0 +1,22 @@
+query($currentPage: Int, $searchKeyword: String) {
+    getAllPricing(currentPage: $currentPage, searchKeyword: $searchKeyword) {
+        status
+        errorMessage
+        count
+        results {
+            id
+            categoryId
+            locationId
+            isActive
+            category {
+                name
+            }
+            subCategory {
+                name
+            }
+            location {
+                locationName
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+query getAllCategory($currentPage: Int, $searchList: String){
+  getAllCategory(currentPage: $currentPage, searchList: $searchList){
+   count
+    results{
+        id
+        name
+        description
+        logoImage
+        bannerImage
+        isPopular
+        isJobPhotoRequired
+        travellingPrice
+        userServiceFeeValue
+        partnerServiceFeeValue
+        pricingType
+        status
+        createdAt
+        updatedAt
+    }
+  }
+}

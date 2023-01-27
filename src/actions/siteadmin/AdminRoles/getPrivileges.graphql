@@ -1,0 +1,12 @@
+query {
+        getPrivileges {
+            results{
+              id
+              name
+              permittedUrls
+            }
+            
+            status
+            errorMessage
+        }
+    }

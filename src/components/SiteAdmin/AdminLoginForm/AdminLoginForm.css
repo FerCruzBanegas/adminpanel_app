@@ -1,0 +1,88 @@
+@import '../../../components/variables.css';
+@import '../../../components/Common.css';
+@import '../AdminCommon.css';
+.welcome{
+	color:#000;
+	font-size: 32px;
+	text-align: center;
+	margin-bottom: 20px;
+	font-weight: bold;
+  }
+  .marginBottom{
+	margin-bottom: 30px;
+  }
+  .fullHeight{
+	height:100vh;
+  }
+  .loginButton button, .loginButton button:hover, .loginButton button:active, .loginButton button:focus{
+	padding: 12px 70px !important;
+	font-size: 20px;
+  }
+  .loginButton{
+	text-align: center;
+  }
+  .formControlInput{
+	height: 50px;
+	border-radius: 0;
+	background-clip: inherit;
+  }
+  .mobileText{
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	font-size: 52px;
+  }
+  .loginMainBg {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	height: 100vh;
+  }
+  .formSection {
+	padding: 16% 0;
+	background-color: #FCFDFF;
+  }
+  .formInner {
+	width: 100%;
+	max-width: 450px;
+	margin: 0 auto;
+	padding: 0px 15px;
+  }
+  .loginBg {
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+  }
+  .loginbtn {
+	padding: 13px 21px !important;
+  }
+  .loginInput {
+	height: 50px !important;
+  }
+  .loginLabel {
+	font-weight: 100 !important;
+	font-size: 18px !important;
+  }
+  .loginTitle {
+	font-size: 30px;
+	font-weight: 700;
+	color: #484848;
+	margin: 12px 0 0 0;
+  }
+  .loginTitleScetion {
+	text-align: center;
+	margin-bottom: 42px;
+  }
+  .loginTitleScetion  img {
+	width: 100%;
+	max-width: 120px;
+  }
+  @media screen and (max-width: 767px) {
+	.loginMainBg {
+	  grid-template-columns: 100%;
+	}
+	.loginBg {
+	  display: none
+	}
+  }

@@ -1,0 +1,13 @@
+query($id: Int!) {
+    getSmsMethod(id: $id) {
+        result{
+            id
+            accountId
+            securityId
+            phoneNumber
+            phoneDialCode
+            phoneCountryCode
+            status
+        }
+    }
+}

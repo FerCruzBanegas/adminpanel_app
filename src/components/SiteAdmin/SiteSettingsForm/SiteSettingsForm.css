@@ -1,0 +1,10 @@
+@import '../../../components/variables.css';
+@import '../../../components/Common.css';
+@import '../../../components/responsive-common.css';
+ .marbtm14 {
+	margin-bottom: 50px;
+}
+.container {
+	margin: 0 auto;
+}
+

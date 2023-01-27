@@ -1,0 +1,13 @@
+@import '../../Common.css';
+
+.gridSystem{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background: transparent;
+}
+.paddingLeft{
+    padding-left: 60px;
+}
+.imgWidth{
+    width:100%;
+}

@@ -1,0 +1,45 @@
+@import '../Common.css';
+@import '../responsive-common.css';
+@import '../../components/SideMenu/SideMenu.css';
+@import '../variables.css';
+.Sitepadding {
+    padding: 0 15px;
+}
+.siteColor {
+    color: var(--admin-text-color) !important;
+    vertical-align: middle;
+    padding-top: 8px;
+    padding-right: 15px;
+    font-size: 17px;
+    display: flex;
+}
+.iconTextPadding {
+    padding-left: 6px;
+}
+.cursurPointer {
+  cursor: pointer;
+}
+.languageIcon{
+  position: relative;
+  top: 1px;
+  width: auto;
+}
+.iconWidth{
+  width: auto !important;
+}
+@-moz-document url-prefix() {
+    .displayInlineBlock {
+      display: inline-block !important;
+    }
+    .iconWidth {
+      width: 20px;
+    }
+}
+@media (max-width:1023px) and (min-width:768px) {
+  .siteColor {
+    padding-right: 12px;
+}
+.Sitepadding {
+  padding: 8px 8px 0 0;
+}
+  }

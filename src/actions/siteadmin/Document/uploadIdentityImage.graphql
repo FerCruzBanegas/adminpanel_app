@@ -1,0 +1,12 @@
+mutation uploadIdentityImage($userId:ID,$imageName:String, $type: String){
+	uploadIdentityImage(userId:$userId, imageName:$imageName, type: $type) {
+        status
+        errorMessage
+        experienceDoc{
+            imageName
+        }
+        identityDoc{
+            imageName
+        }
+    }
+}

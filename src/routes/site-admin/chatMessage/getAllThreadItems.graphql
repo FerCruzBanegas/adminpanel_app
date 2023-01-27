@@ -1,0 +1,31 @@
+query getAllThreadItems($bookingId: Int!, $offset: Int) {
+  getAllThreadItems(bookingId: $bookingId, offset: $offset) {
+      threadItems {
+        id
+        threadId
+        isRead
+        authorId
+        userId
+        message
+        createdAt
+        updatedAt
+      }
+      userDetails {
+        id
+        email
+        profile {
+          firstName
+          picture
+        }
+      }
+      partnerDetails {
+        id
+        email
+        profile {
+          firstName
+          picture
+        }
+      }
+      count
+    }
+}

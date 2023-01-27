@@ -1,0 +1,22 @@
+query getReviews($currentPage: Int, $searchList: String){
+  getReviews(currentPage: $currentPage, searchList:$searchList){
+    count
+    results{
+        userId
+        ratings
+        authorId
+        bookingId
+        bookingDetails {
+          id
+          partnerDetails {
+            firstName
+            userId
+          }
+          userDetails {
+            firstName
+            userId
+          }
+      }
+    }
+  }
+}

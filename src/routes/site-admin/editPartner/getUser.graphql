@@ -1,0 +1,33 @@
+query getUser($id: Int!, $userType: Int){
+  getUser( id: $id, userType: $userType){
+    status
+    result{
+      id
+      email
+      phoneDialCode
+      phoneNumber
+      phoneCountryCode
+      userStatus
+      isBan
+      isActive
+      activeStatus
+      profile{
+        userId
+        picture
+        firstName
+        lastName
+        country
+      }
+      identityDocument{
+        id
+        imageName
+        type
+      }
+      experienceDocument{
+        id
+        imageName
+        type
+      }
+   }
+  }
+}

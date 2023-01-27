@@ -1,0 +1,14 @@
+query getSubCategory($id: Int!){
+  getSubCategory(id: $id){
+    result{
+      id
+      name
+      description
+      image
+      categoryId
+      status
+    }
+    status
+    errorMessage
+  }
+}

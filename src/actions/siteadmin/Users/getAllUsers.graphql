@@ -1,0 +1,18 @@
+ query getAllUsers($currentPage: Int, $userType: Int){
+          getAllUsers(currentPage: $currentPage, userType: $userType){
+             count
+              results{
+                email
+                  phoneNumber
+                  userStatus
+                  isBan
+                    createdAt
+                    profile{
+                       profileId
+                      firstName
+                      lastName
+                      country
+                    }
+              }
+            }
+          }

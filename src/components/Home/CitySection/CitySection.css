@@ -1,0 +1,46 @@
+@import '../../variables.css';
+@import '../../Common.css';
+@import '../../responsive-common.css';
+
+
+.cityBg{
+    width:100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 0 40px 0;
+}
+.city{
+    padding: 60px 0 0 0 0;
+}
+.cityText h1{
+    font-size: 40px;
+    color: #161616;
+    font-weight: 600;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    position: relative;
+}
+.cityText p{
+    width: 100%;
+    max-width: 950px;
+    margin: 0 auto;
+    font-size: 20px;
+    color: #3f3f3f;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    padding-top: 18px;
+}
+.sliderWidth{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+@media (max-width: 1200px)
+{
+  .sliderWidth{
+    max-width: 100%;
+  }
+}
+
+

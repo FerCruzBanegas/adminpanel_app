@@ -1,0 +1,16 @@
+query getContentPageById ($id: Int!) {
+    getContentPageById (id: $id) {
+        status
+            errorMessage
+            result{
+            id
+            metaTitle
+            metaDescription
+            pageUrl
+            pageTitle
+            content
+            isEnable
+            pageBanner
+        }
+    }
+}

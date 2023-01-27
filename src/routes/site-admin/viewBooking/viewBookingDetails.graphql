@@ -1,0 +1,107 @@
+query viewBookingDetails($id: Int!){
+  viewBookingDetails(id: $id){
+    id
+    userId
+    partnerId
+    status
+    bookingType
+    partnerDetails{
+      firstName
+      userData{
+        email
+        phoneDialCode
+        phoneNumber
+      }
+    }
+    userDetails{
+      firstName
+      userData{
+        email
+        phoneDialCode
+        phoneNumber
+      }
+    }
+    categoryDetails{
+      name
+    }
+    userLocation
+    totalRideDistance
+    totalFare
+    userTotalFare
+    partnerTotalFare
+    userServiceFee
+    partnerServiceFee
+    currency
+    paymentType
+    estimatedTotalFare
+    travellingPrice
+    additionalFee
+    additionalDescription
+    discountAmount
+    specialBookingFare
+    tipsPartnerTotalFare
+    tipsTotalFare
+    isTipGiven
+    tipsAmount
+    reviewDescription
+    pricingType
+    userPayableFare
+    promoCode {
+      code
+    }
+    reviewImage{
+      id
+      imageName
+    }
+    bookingHistory{
+      status
+      createdAt
+      id
+    }
+    scheduleBooking {
+      id
+      userId
+      bookingId
+      status
+      scheduleFrom
+      scheduleTo
+    }
+    scheduleBookingHistory {
+      id
+      scheduleId
+      bookingId
+      status
+      scheduleFrom
+      scheduleTo
+      updatedAt
+    }
+    orderItemsList {
+				id
+				orderId
+				categoryId
+				subCategoryId
+				minimumHours
+				totalQuantity
+				currency
+				baseFare
+        workedDuration
+        workDuration
+				subCategoryDetails {
+					id
+					name
+					description
+					image
+					status
+					categoryId
+				}
+        workLogHistory {
+          id
+          status
+          closedAt
+          startedAt
+          totalDuration
+          totalWork
+        }
+			}
+  }
+}
