@@ -1,14 +1,8 @@
-## WooberlyHandyman - On-demand Handyman Booking App — "[Explore more](https://www.radicalstart.com/)"
+## "APP SERVICIOS"
 
-Build your on-demand business with our 100% customizable Handyman Booking App.
+Admin Panel
 
-([WooberlyHandyman](https://www.rentallscript.com/uber-for-handyman-app/)) for Entrepreneurs to build their business within a week.
-
-Contact help@radicalstart.com for any Technical Support and issues.
-
-### License
-
-Copyright © 2022 RadicalStart InfoLab Pvt Ltd
+Copyright © 2022 
 
 ---
-Made with ♥ by ([RadicalStart](https://www.radicalstart.com))
+Hecho con ♥ by (FCB)
